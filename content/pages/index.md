@@ -17,7 +17,7 @@ sections:
         url: 'https://furrer-2022.netlify.app/about.html'
         showIcon: true
         iconPosition: right
-        icon: arrowRight
+        icon: arrowRightCircle
     media:
       type: ImageBlock
       url: /images/hero.png

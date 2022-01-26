@@ -69,6 +69,14 @@ sections:
         showIcon: true
         icon: playCircle
         iconPosition: left
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     styles:
       self:
         height: auto

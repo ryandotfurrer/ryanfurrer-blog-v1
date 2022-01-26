@@ -33,7 +33,7 @@ module.exports = {
                 '9/16': '56.25%'
             },
             fontFamily: {
-                sans: ['Outfit', 'sans-serif'],
+                sans: ["Outfit, Helvetica, Arial, sans-serif],
                 sansAlt: ['Outfit', 'sans-serif']
             }
         }

@@ -13,12 +13,6 @@ sections:
         url: 'https://www.stackbit.com/blog'
         style: primary
         showIcon: false
-      - type: Link
-        label: View Portfolio
-        url: 'https://furrer-2022.netlify.app/'
-        showIcon: true
-        iconPosition: right
-        icon: chevronRight
       - label: View Portfolio
         altText: ''
         url: 'https://furrer-2022.netlify.app'

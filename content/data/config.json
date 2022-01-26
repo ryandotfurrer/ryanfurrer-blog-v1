@@ -124,7 +124,8 @@
                 "altText": "Instagram",
                 "label": "Instagram",
                 "url": "/",
-                "icon": "github"
+                "icon": "github",
+                "style": "link"
             },
             {
                 "type": "Social",

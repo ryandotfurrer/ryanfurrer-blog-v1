@@ -20,8 +20,8 @@
     }
 }
 
-nav {
-    
+nav > a {
+    color: red;
 }
 
 @layer components {

@@ -3,9 +3,9 @@
     "favicon": "/images/favicon.svg",
     "header": {
         "headerVariant": "variant-c",
-        "primaryColors": "colors-a",
+        "primaryColors": "colors-c",
         "secondaryColors": "colors-f",
-        "title": "Starter",
+        "title": "The Ryan Furrer Blog",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -44,13 +44,18 @@
         ],
         "styles": {
             "self": {
-                "width": "narrow",
-                "padding": ["pt-5", "pb-5", "pr-4", "pl-4"]
+                "width": "wide",
+                "padding": [
+                    "pt-5",
+                    "pb-5",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         },
         "logo": {
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
+            "altText": "Ryan Furrer",
+            "caption": "Ryan Furrer",
             "elementId": "",
             "styles": {
                 "self": {
@@ -58,7 +63,7 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo.svg"
+            "url": "/images/99CD51D0-7295-4F1E-8FC5-46126C30C2FC_1_102_o.jpeg"
         }
     },
     "footer": {
@@ -150,7 +155,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }

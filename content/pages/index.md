@@ -4,20 +4,20 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-a
-    title: 'Love your work. Work loves you.'
-    subtitle: 'One platform, one community.'
+    colors: colors-c
+    title: Front-End Web Development Blogs for all
+    subtitle: 'Technical articles, how-tos, devJournals, and more!'
     actions:
       - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
+        label: Read Blogs
+        url: 'https://www.stackbit.com/blog'
         style: primary
       - type: Link
         label: Learn More
-        url: /
+        url: 'https://furrer-2022.netlify.app/about.html'
         showIcon: true
-        icon: arrowRight
         iconPosition: right
+        icon: arrowRightCircle
     media:
       type: ImageBlock
       url: /images/hero.png
@@ -51,36 +51,23 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: Where did everyone go?
-    text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+    title: Here are some of my recommendations
     badge:
       type: Badge
-      label: Case study
+      label: Featured Posts
       styles:
         self:
           textAlign: left
-    actions:
-      - type: Button
-        label: Get Started
-        url: /
-        style: primary
-      - type: Link
-        label: Watch Video
-        url: /
-        showIcon: true
-        icon: playCircle
-        iconPosition: left
+    actions: []
     styles:
       self:
         height: auto
         width: wide
         margin:
           - mt-24
-          - mb-0
-          - ml-4
-          - mr-4
+          - mb-12
+          - ml-12
+          - mr-12
         padding:
           - pt-16
           - pb-16
@@ -143,7 +130,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
@@ -378,12 +365,13 @@ sections:
   - elementId: ''
     colors: colors-a
     variant: variant-b
-    title: We sometimes write things. You should read it, it might shed some
-      light on why we’re doing what we’re doing
+    title: >-
+      We sometimes write things. You should read it, it might shed some light on
+      why we’re doing what we’re doing
     actions:
       - type: Link
         label: See all posts
-        url: '/blog'
+        url: /blog
         showIcon: true
         icon: arrowRight
     posts:

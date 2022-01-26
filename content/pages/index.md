@@ -12,6 +12,7 @@ sections:
         label: Read Blogs
         url: 'https://www.stackbit.com/blog'
         style: primary
+        showIcon: true
       - type: Link
         label: Learn More
         url: 'https://furrer-2022.netlify.app/about.html'

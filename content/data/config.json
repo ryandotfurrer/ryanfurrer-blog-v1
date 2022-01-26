@@ -132,7 +132,8 @@
                 "altText": "Facebook",
                 "label": "Facebook",
                 "url": "/",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "style": "link"
             }
         ],
         "legalLinks": [

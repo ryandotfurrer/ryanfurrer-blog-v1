@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-c
     title: Front-End Web Development Blogs for all
-    subtitle: T
+    subtitle: 'Technical articles, how-tos, devJournals and more!'
     actions:
       - type: Button
         label: Get Started

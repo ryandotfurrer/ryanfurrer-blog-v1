@@ -17,7 +17,6 @@ sections:
         altText: View Portfolio
         url: 'https://furrer-2022.netlify.app'
         showIcon: true
-        icon: apple
         iconPosition: right
         style: secondary
         elementId: ''

@@ -59,12 +59,6 @@ sections:
         self:
           textAlign: left
     actions:
-      - type: Link
-        label: Watch Video
-        url: /
-        showIcon: true
-        icon: playCircle
-        iconPosition: left
       - label: Blog Post 1
         altText: ''
         url: /

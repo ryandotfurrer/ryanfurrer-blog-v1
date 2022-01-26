@@ -113,18 +113,18 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "twitter.com/TheRyanFurrer",
-                "icon": "twitter",
-                "style": "link"
-            },
-            {
-                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/TheRyanFurrer",
                 "icon": "github",
+                "style": "link"
+            },
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "twitter.com/TheRyanFurrer",
+                "icon": "twitter",
                 "style": "link"
             },
             {

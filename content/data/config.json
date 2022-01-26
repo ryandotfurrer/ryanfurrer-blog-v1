@@ -81,8 +81,7 @@
         },
         "title": "The Ryan Furrer Blog",
         "contacts": {
-            "title": "Contact details",
-            "addressAltText": "Our address"
+            "title": "Contact details"
         },
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
         "primaryLinks": [

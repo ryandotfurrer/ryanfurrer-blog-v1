@@ -15,7 +15,7 @@ sections:
         showIcon: false
       - type: Link
         label: View Portfolio
-        url: 'https://furrer-2022.netlify.app/about.html'
+        url: 'https://furrer-2022.netlify.app/'
         showIcon: true
         iconPosition: right
         icon: chevronRight

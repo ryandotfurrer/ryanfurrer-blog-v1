@@ -33,8 +33,8 @@ module.exports = {
                 '9/16': '56.25%'
             },
             fontFamily: {
-                sans: ['Poppins', 'sans-serif'],
-                sansAlt: ['Noto Sans Display', 'sans-serif']
+                sans: ['Outfit', 'sans-serif'],
+                sansAlt: ['Outfit', 'sans-serif']
             }
         }
     },

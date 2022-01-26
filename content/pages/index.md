@@ -11,7 +11,7 @@ sections:
       - type: Button
         label: Read Blogs
         url: 'https://www.stackbit.com/blog'
-        style: secondary
+        style: primary
         showIcon: false
       - type: Link
         label: Learn More

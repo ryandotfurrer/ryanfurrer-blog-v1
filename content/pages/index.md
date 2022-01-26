@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-b
+    colors: colors-c
     title: Love your work. Work loves you.
     subtitle: 'One platform, one community.'
     actions:

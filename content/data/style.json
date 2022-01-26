@@ -77,5 +77,6 @@
         "weight": "normal",
         "case": "uppercase",
         "letterSpacing": "normal"
-    }
+    },
+    "fontHeadlines": "sans"
 }

@@ -57,7 +57,7 @@ sections:
       product.
     badge:
       type: Badge
-      label: Case study
+      label: Featured Posts
       styles:
         self:
           textAlign: left

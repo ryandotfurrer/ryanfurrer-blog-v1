@@ -69,7 +69,7 @@ sections:
         showIcon: true
         icon: playCircle
         iconPosition: left
-      - label: Learn more
+      - label: Blog Post 1
         altText: ''
         url: /
         showIcon: false

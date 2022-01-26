@@ -130,7 +130,7 @@
             {
                 "type": "Social",
                 "altText": "Facebook",
-                "label": "Facebook",
+                "label": "Linkedin",
                 "url": "/",
                 "icon": "linkedin",
                 "style": "link"

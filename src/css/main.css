@@ -5,7 +5,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
+* {
+    background: #1c2830;
+}
 
 @layer base {
     body {

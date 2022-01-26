@@ -71,7 +71,7 @@ export default function Action(props) {
             href={url}
             aria-label={altText}
             id={cssId}
-            className={classNames('lowercase sb-component', 'sb-component-block', style === 'link' ? 'sb-component-link' : 'sb-component-button', cssClasses, {
+            className={classNames('normal-case sb-component', 'sb-component-block', style === 'link' ? 'sb-component-link' : 'sb-component-button', cssClasses, {
                 'sb-component-button-primary': style === 'primary',
                 'sb-component-button-secondary': style === 'secondary'
             })}

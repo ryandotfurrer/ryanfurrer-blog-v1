@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-c
-    title: Love your work. Work loves you.
+    title: Front-End Web Development Blogs for all
     subtitle: 'One platform, one community.'
     actions:
       - type: Button

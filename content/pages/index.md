@@ -51,7 +51,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: What have I written lately?
+    title: 'Here are some of my '
     text: >
       Learn how top tech companies have learned working remote using our
       product.

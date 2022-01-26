@@ -25,7 +25,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/home-header-image.png
-      altText: Image alt text
+      altText: Illustration depicting a blog post
       caption: Image caption
     styles:
       self:

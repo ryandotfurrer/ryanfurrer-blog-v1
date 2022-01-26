@@ -58,15 +58,7 @@ sections:
       styles:
         self:
           textAlign: left
-    actions:
-      - label: Blog Post 1
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-        type: Link
+    actions: []
     styles:
       self:
         height: auto

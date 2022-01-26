@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: Read Blogss
-        url: 'https://www.stackbit.com/'
+        url: 'https://www.stackbit.com/blog'
         style: primary
       - type: Link
         label: Learn More

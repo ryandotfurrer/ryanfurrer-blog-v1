@@ -16,7 +16,6 @@ sections:
         label: Learn More
         url: 'https://furrer-2022.netlify.app/about.html'
         showIcon: true
-        icon: arrowRight
         iconPosition: right
     media:
       type: ImageBlock

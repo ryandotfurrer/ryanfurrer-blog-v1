@@ -123,7 +123,7 @@
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "/",
+                "url": "https://github.com/TheRyanFurrer",
                 "icon": "github",
                 "style": "link"
             },

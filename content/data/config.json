@@ -116,7 +116,8 @@
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "twitter.com/TheRyanFurrer",
-                "icon": "twitter"
+                "icon": "twitter",
+                "style": "link"
             },
             {
                 "type": "Social",

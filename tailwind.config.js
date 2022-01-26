@@ -34,7 +34,7 @@ module.exports = {
             },
             fontFamily: {
                 sans: ['Outfit', 'Helvetica', 'Arial', 'sans-serif'],
-                sansAlt: ['Outfit', 'sans-serif']
+                sansAlt: ['Outfit', 'Helvetica', 'Arial', 'sans-serif']
             }
         }
     },

@@ -137,7 +137,7 @@
             },
             {
                 "label": "Instagram",
-                "altText": "",
+                "altText": "Instagram",
                 "url": "/",
                 "icon": "instagram",
                 "style": "link",

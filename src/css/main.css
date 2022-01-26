@@ -3,8 +3,7 @@
 
 @tailwind base;
 @tailwind components;
-@tailwind utilities;mportant;
-}
+@tailwind utilities;
 
 @layer base {
     body {

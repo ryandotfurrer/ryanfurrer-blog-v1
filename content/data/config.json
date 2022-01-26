@@ -66,7 +66,7 @@
         }
     },
     "footer": {
-        "colors": "colors-h",
+        "colors": "colors-c",
         "title": "The Ryan Furrer Blog",
         "contacts": {
             "title": "Contact details"

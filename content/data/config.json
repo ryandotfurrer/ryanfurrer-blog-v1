@@ -67,18 +67,6 @@
     },
     "footer": {
         "colors": "colors-h",
-        "logo": {
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": "",
-            "styles": {
-                "self": {
-                    "opacity": 100
-                }
-            },
-            "type": "ImageBlock",
-            "url": "/images/logo.svg"
-        },
         "title": "The Ryan Furrer Blog",
         "contacts": {
             "title": "Contact details"

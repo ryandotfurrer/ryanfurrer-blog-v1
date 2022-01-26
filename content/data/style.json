@@ -75,7 +75,7 @@
     },
     "link": {
         "weight": "normal",
-        "case": "uppercase",
+        "case": "none",
         "letterSpacing": "normal"
     },
     "fontHeadlines": "sans"

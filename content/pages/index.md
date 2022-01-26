@@ -9,7 +9,7 @@ sections:
     subtitle: 'Technical articles, how-tos, devJournals, and more!'
     actions:
       - type: Button
-        label: Get Started
+        label: Read Blogs
         url: 'https://www.stackbit.com/'
         style: primary
       - type: Link

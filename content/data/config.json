@@ -134,6 +134,14 @@
                 "url": "https://www.linkedin.com/in/theryanfurrer/",
                 "icon": "linkedin",
                 "style": "link"
+            },
+            {
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
             }
         ],
         "legalLinks": [

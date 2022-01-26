@@ -13,7 +13,7 @@ sections:
         url: 'https://www.stackbit.com/blog'
         style: primary
       - type: Link
-        label: Learn More
+        label: Learn More about Ryan Furrer
         url: /
         showIcon: true
         icon: arrowRight

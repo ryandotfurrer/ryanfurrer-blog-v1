@@ -4,7 +4,7 @@ title: Blog
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
-  showAuthor: true
+  showAuthor: false
   showExcerpt: false
   variant: variant-a
   colors: colors-a

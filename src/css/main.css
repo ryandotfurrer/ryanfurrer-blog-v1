@@ -20,7 +20,7 @@
     }
 }
 
-nav > a {
+nav > Link {
     color: red;
 }
 

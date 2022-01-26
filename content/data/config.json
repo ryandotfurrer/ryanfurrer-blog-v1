@@ -83,7 +83,6 @@
         "contacts": {
             "title": "Contact details",
             "email": "theryanfurrer@gmail.com",
-            "emailAltText": "Our email",
             "address": "312 Lovely Street, NY",
             "addressAltText": "Our address"
         },

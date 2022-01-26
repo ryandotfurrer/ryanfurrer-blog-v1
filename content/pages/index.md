@@ -19,7 +19,7 @@ sections:
         showIcon: true
         iconPosition: right
         icon: chevronRight
-      - label: Learn more
+      - label: View Portfolio
         altText: ''
         url: /
         showIcon: false

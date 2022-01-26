@@ -14,7 +14,7 @@ sections:
         style: primary
       - type: Link
         label: Learn More
-        url: /
+        url: 'https://furrer-2022.netlify.app/about.html'
         showIcon: true
         icon: arrowRight
         iconPosition: right

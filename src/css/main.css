@@ -20,6 +20,10 @@
     }
 }
 
+nav {
+    
+}
+
 @layer components {
     .sb-component.overlap {
         @apply -mt-72 relative z-10;

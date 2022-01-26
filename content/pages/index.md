@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-c
     title: Front-End Web Development Blogs for all
-    subtitle: 'One platform, one community.'
+    subtitle: T
     actions:
       - type: Button
         label: Get Started

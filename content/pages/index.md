@@ -43,7 +43,7 @@ sections:
           - pl-4
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: row-reverse
       title:
         textAlign: left
       subtitle:

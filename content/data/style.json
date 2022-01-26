@@ -3,7 +3,7 @@
     "h1": {
         "size": "6xl",
         "weight": "normal",
-        "decoration": "underline",
+        "decoration": "none",
         "case": "none",
         "letterSpacing": "normal"
     },

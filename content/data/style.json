@@ -19,7 +19,7 @@
         "weight": "normal",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "normal"
+        "letterSpacing": "tight"
     },
     "h4": {
         "size": "2xl",

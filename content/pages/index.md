@@ -78,7 +78,7 @@ sections:
         justifyContent: center
         flexDirection: row
         alignItems: center
-        borderRadius: small
+        borderRadius: medium
         boxShadow: xx-large
       title:
         textAlign: left

@@ -36,10 +36,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-12
-          - pb-6
-          - pr-4
-          - pl-4
+          - pt-9
+          - pb-9
+          - pr-9
+          - pl-9
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse

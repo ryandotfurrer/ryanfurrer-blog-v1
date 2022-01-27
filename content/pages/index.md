@@ -69,7 +69,7 @@ sections:
           - mt-12
           - mb-6
           - ml-4
-          - mr-0
+          - mr-4
         padding:
           - pt-0
           - pb-0

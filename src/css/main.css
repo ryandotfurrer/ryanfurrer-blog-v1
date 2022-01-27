@@ -5,6 +5,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+    padding: 0 1rem;
+}
+
 #featured-posts h2,
 #featured-posts p {
     text-align: left;

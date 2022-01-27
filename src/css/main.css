@@ -44,7 +44,7 @@ time[data-sb-field-path = "date"] {
 }
 
 
-Markdown[data-sb-field-path=".copyrightText"] {
+.sbmarkdown {
     color: #a5bbca;
 }
 

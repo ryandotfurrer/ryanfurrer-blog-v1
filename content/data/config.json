@@ -16,38 +16,40 @@
             },
             {
                 "type": "Link",
-                "label": "Careers",
-                "url": "/careers",
-                "altText": ""
+                "label": "Portfolio",
+                "url": "https://furrer-2022.netlify.app/",
+                "altText": "Portfolio"
             },
             {
                 "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
-                "altText": ""
+                "label": "About",
+                "url": "https://furrer-2022.netlify.app/about.html",
+                "altText": "About"
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "altText": "Blog",
-                "url": "/blog"
-            }
-        ],
-        "secondaryLinks": [
+                "label": "Contact",
+                "altText": "Contact",
+                "url": "https://furrer-2022.netlify.app/contact.html"
+            },
             {
-                "type": "Button",
-                "label": "Sign up",
-                "url": "/",
-                "altText": "Sign up",
-                "style": "primary"
+                "label": "GitHub",
+                "altText": "GitHub",
+                "url": "https://github.com/TheRyanFurrer",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
             }
         ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "wide",
                 "padding": [
-                    "pt-5",
-                    "pb-5",
+                    "pt-9",
+                    "pb-0",
                     "pr-4",
                     "pl-4"
                 ]
@@ -118,12 +120,12 @@
                 "style": "link"
             },
             {
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "style": "link",
-                "elementId": ""
+                "type": "Social",
+                "altText": "Linkedin",
+                "label": "Linkedin",
+                "url": "https://www.linkedin.com/in/theryanfurrer/",
+                "icon": "linkedin",
+                "style": "link"
             },
             {
                 "type": "Social",
@@ -131,14 +133,6 @@
                 "label": "Twitter",
                 "url": "https://twitter.com/theryanfurrer",
                 "icon": "twitter",
-                "style": "link"
-            },
-            {
-                "type": "Social",
-                "altText": "Linkedin",
-                "label": "Linkedin",
-                "url": "https://www.linkedin.com/in/theryanfurrer/",
-                "icon": "linkedin",
                 "style": "link"
             },
             {

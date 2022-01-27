@@ -13,9 +13,9 @@ sections:
         url: 'https://www.stackbit.com/blog'
         style: primary
         showIcon: false
-      - label: View Portfolio
+      - label: Newsletter
         altText: View Portfolio
-        url: 'https://furrer-2022.netlify.app'
+        url: '/#newsletter-cta'
         showIcon: false
         iconPosition: right
         style: secondary
@@ -32,14 +32,14 @@ sections:
         width: wide
         margin:
           - mt-12
-          - mb-6
+          - mb-8
           - ml-0
           - mr-0
         padding:
-          - pt-12
-          - pb-6
-          - pr-4
-          - pl-4
+          - pt-9
+          - pb-9
+          - pr-9
+          - pl-9
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
@@ -51,16 +51,17 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - elementId: ''
-    colors: colors-f
-    title: Don't know where to start?
-    badge:
-      type: Badge
-      label: Featured Posts
-      styles:
-        self:
-          textAlign: left
-    actions: []
+  - elementId: featured-posts
+    showDate: true
+    showAuthor: false
+    showExcerpt: false
+    variant: variant-a
+    actions:
+      - type: Button
+        label: View All
+        altText: View All Posts
+        url: /blog
+        style: primary
     styles:
       self:
         height: auto
@@ -76,44 +77,42 @@ sections:
           - pl-9
           - pr-9
         justifyContent: center
-        flexDirection: row
-        alignItems: center
         borderRadius: medium
-        boxShadow: xx-large
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
-      text:
-        textAlign: left
+        textAlign: center
       actions:
-        justifyContent: flex-start
-    type: FeatureHighlightSection
-    backgroundSize: inset
-    subtitle: Check out these posts
-  - type: ContactSection
+        justifyContent: center
+    title: Don't know where to start?
+    subtitle: Check out some of my favorite posts below
+    colors: colors-f
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
+    type: FeaturedPostsSection
+  - elementId: ''
     colors: colors-f
     backgroundSize: inset
     title: Like what you've read?
     text: >
       Subscribe to stay in the know for when I publish new articles, find
       interesting things on the web, and more!
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      destination: ''
-      action: /.netlify/functions/submission_created
-      fields:
-        - name: email
-          label: Email
-          hideLabel: false
-          isRequired: true
-          width: full
-          type: EmailFormControl
-      submitLabel: Subscribe
+    actions:
+      - type: Button
+        label: Subscribe
+        url: 'https://www.getrevue.co/profile/theryanfurrer/'
+        style: primary
+        altText: Subscribe to The Ryan Furrer Newsletter
+    backgroundImage:
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
       styles:
-        submitLabel:
-          textAlign: center
+        self:
+          opacity: 100
+      type: ImageBlock
     styles:
       self:
         height: auto
@@ -126,15 +125,17 @@ sections:
         padding:
           - pt-9
           - pb-9
-          - pr-9
           - pl-9
+          - pr-9
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
         borderRadius: medium
-        boxShadow: xx-large
       title:
-        textAlign: center
+        textAlign: left
       text:
-        textAlign: center
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: CtaSection
 ---

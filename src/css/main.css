@@ -5,6 +5,61 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
+img {
+  filter: brightness(.8) saturate(1.25);
+}
+
+.sb-component-button-primary:hover {
+    background-color: #F2AD18;
+}
+
+.sb-component-button-secondary {
+    background-color: #263640;
+}
+
+.sb-component-button-secondary:hover {
+    background-color: transparent;
+}
+
+.sb-component-social {
+    color: #a5bbca;
+}
+
+.sb-component-social:hover {
+    color: #f5f5f5;
+}
+
+.sb-component-link {
+    color: #a5bbca;
+}
+
+.sb-component-link:hover {
+    color: #f5f5f5;
+}
+
+
+
+body {
+    padding: 0 1rem;
+}
+
+#featured-posts h2,
+#featured-posts p {
+    text-align: left;
+}
+
+#newsletter-cta {
+    scroll-margin-top: 2ex;
+}
+
+#newsletter-cta h2,
+#newsletter-cta p,
+#newsletter-cta input > label {
+    text-align: left;
+}
+
 @layer base {
     body {
         @apply bg-main text-base;
@@ -137,7 +192,7 @@ nav > Link {
 
     /* Buttons */
     .sb-component-button {
-        @apply border-2 inline-flex items-center justify-center no-underline text-center transition duration-200 ease-in hover:opacity-80;
+        @apply border-2 inline-flex items-center justify-center no-underline text-center transition duration-200 ease-in;
     }
 
     /* Links */
@@ -158,7 +213,7 @@ nav > Link {
 
     /* Socials */
     .sb-component-social {
-        @apply inline-flex items-center justify-center no-underline transition duration-200 ease-in hover:opacity-80;
+        @apply inline-flex items-center justify-center no-underline transition duration-200 ease-in;
     }
 
     .sb-component-social-primary,

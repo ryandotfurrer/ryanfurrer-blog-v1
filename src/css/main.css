@@ -5,7 +5,7 @@
 @tailwind components;
 @tailwind utilities;
 
-#newsletter-cta > h2 {
+#newsletter-cta {
     margin-top: 5rem;
 }
 

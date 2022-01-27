@@ -98,22 +98,6 @@ sections:
     text: >
       Subscribe to stay in the know for when I publish new articles, find
       interesting things on the web, and more!
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      destination: ''
-      action: /.netlify/functions/submission_created
-      fields:
-        - name: email
-          label: Email
-          hideLabel: false
-          isRequired: true
-          width: full
-          type: EmailFormControl
-      submitLabel: Subscribe
-      styles:
-        submitLabel:
-          textAlign: center
     styles:
       self:
         height: auto

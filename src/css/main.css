@@ -11,7 +11,7 @@
 
 #newsletter-cta h2,
 #newsletter-cta p,
-#newsletter-cta label {
+#newsletter-cta input > label {
     text-align: left;
 }
 

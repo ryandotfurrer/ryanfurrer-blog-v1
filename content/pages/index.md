@@ -129,7 +129,7 @@ sections:
           - pr-9
           - pl-9
         alignItems: center
-        justifyContent: flex-start
+        justifyContent: center
         flexDirection: row
         borderRadius: medium
         boxShadow: xx-large

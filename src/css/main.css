@@ -11,7 +11,7 @@ img {
   filter: brightness(.8) saturate(1.25);
 }
 
-sb-component-button-primary
+.sb-component-button-primary
 
 body {
     padding: 0 1rem;

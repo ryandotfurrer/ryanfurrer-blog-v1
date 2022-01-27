@@ -22,7 +22,7 @@ styles:
 topSections:
   - colors: colors-f
     elementId: ''
-    title: Key value propositions
+    title: Learn
     subtitle: ''
     items:
       - type: FeaturedItem

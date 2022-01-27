@@ -17,7 +17,7 @@
             {
                 "label": "Blogs",
                 "altText": "View all Blogs",
-                "url": "/",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

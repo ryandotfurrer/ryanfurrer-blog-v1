@@ -89,7 +89,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
-    backgroundSize: full
+    backgroundSize: inset
     subtitle: Check out these posts
   - type: ContactSection
     colors: colors-f

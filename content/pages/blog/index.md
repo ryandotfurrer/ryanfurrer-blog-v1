@@ -19,7 +19,7 @@ postFeed:
       margin:
         - mt-12
         - ml-4
-        - mb-4
+        - mb-6
         - mr-4
 styles:
   title:

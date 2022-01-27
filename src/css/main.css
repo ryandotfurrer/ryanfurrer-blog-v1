@@ -37,7 +37,7 @@ img {
 }
 
 .sb-component-social:hover {
-    color: #f5f5f5;
+    color: var(--text-primary);
 }
 
 .sb-component-link {

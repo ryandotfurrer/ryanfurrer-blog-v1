@@ -132,7 +132,7 @@ sections:
           - pl-9
         alignItems: center
         justifyContent: center
-        flexDirection: col
+        flexDirection: row
         borderRadius: medium
         boxShadow: xx-large
       title:

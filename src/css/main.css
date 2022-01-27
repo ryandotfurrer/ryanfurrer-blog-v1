@@ -5,6 +5,10 @@
 @tailwind components;
 @tailwind utilities;
 
+#newsletter-cta {
+    color: red;
+}
+
 @layer base {
     body {
         @apply bg-main text-base;

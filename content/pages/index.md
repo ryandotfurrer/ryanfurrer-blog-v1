@@ -119,7 +119,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-12
           - mb-6

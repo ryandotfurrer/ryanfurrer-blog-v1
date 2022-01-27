@@ -203,7 +203,7 @@ nav > Link {
 
     /* Socials */
     .sb-component-social {
-        @apply inline-flex items-center justify-center no-underline transition duration-200 ease-in hover:opacity-80;
+        @apply inline-flex items-center justify-center no-underline transition duration-200 ease-in;
     }
 
     .sb-component-social-primary,

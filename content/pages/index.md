@@ -51,7 +51,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - elementId: ''
+  - elementId: featured-posts
     showDate: true
     showAuthor: false
     showExcerpt: false

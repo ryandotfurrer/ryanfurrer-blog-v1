@@ -25,7 +25,7 @@ img {
 }
 
 .sb-component-button-secondary {
-    background-color: #263640;
+    background-color: var(--bg-secondary);
 }
 
 .sb-component-button-secondary:hover {

@@ -7,7 +7,7 @@
 
 
 
-html[data-theme='dark'] img {
+html > img {
   filter: brightness(.8) saturate(1.25);
 }
 

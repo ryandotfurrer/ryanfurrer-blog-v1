@@ -37,7 +37,7 @@ topSections:
         label: Subscribe to Newsletter
         url: /
         style: primary
-        altText: Subscribe to Newsletter
+        altText: Subscribe to The Ryan Furrer Newsletter
     media:
       type: ImageBlock
       url: /images/hero-1.png

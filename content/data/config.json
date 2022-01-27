@@ -43,15 +43,7 @@
                 "type": "Link"
             }
         ],
-        "secondaryLinks": [
-            {
-                "type": "Button",
-                "label": "Sign up",
-                "url": "/",
-                "altText": "Sign up",
-                "style": "primary"
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "wide",

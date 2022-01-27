@@ -20,7 +20,7 @@ img {
 }
 
 .sb-component-button-secondary {
-    background-color: transparent;
+    border-color: transparent;
 }
 
 .sb-component-button-secondary:hover {

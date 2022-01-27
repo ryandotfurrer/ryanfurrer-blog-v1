@@ -21,7 +21,7 @@ styles:
     textAlign: center
 topSections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-c
     backgroundSize: full
     title: 'A great feature, we’re proud of'
     subtitle: ''

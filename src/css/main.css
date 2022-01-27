@@ -6,7 +6,7 @@
 @tailwind utilities;
 
 #newsletter-cta {
-    justify-content: left;
+    justify-items: left;
 }
 
 @layer base {

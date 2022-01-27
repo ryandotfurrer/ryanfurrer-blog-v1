@@ -175,12 +175,6 @@ sections:
         label: Try it now
         url: /
         style: primary
-      - type: Button
-        label: Learn More
-        showIcon: true
-        icon: arrowRight
-        url: /
-        style: link
     backgroundImage:
       altText: altText of the image
       caption: Caption of the image

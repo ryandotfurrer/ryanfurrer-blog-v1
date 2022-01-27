@@ -22,6 +22,11 @@ img {
     color: red;
 }
 
+.sb-component-button-secondary {
+    border-color: #e6ebef;
+    color: red;
+}
+
 .sb-component-button-secondary:hover {
     background-color: #f9dd9f;
 }

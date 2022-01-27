@@ -76,7 +76,7 @@ sections:
           - pl-16
           - pr-16
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
         alignItems: center
         borderRadius: xx-large
         boxShadow: xx-large

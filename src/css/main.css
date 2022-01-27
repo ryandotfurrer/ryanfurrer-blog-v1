@@ -5,7 +5,9 @@
 @tailwind components;
 @tailwind utilities;
 
-#featured-posts
+#featured-posts {
+    
+}
 
 #newsletter-cta {
     scroll-margin-top: 2ex;

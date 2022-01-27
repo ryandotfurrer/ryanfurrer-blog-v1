@@ -165,7 +165,7 @@ sections:
     elementId: newsletter-cta
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Let's do this
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage

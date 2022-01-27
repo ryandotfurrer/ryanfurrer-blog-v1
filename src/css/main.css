@@ -19,6 +19,7 @@ img {
 
 .sb-component-button-secondary {
     border-color: #e6ebef;
+    color: #e6ebef;
 }
 
 .sb-component-button-secondary:hover {

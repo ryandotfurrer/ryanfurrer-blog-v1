@@ -175,6 +175,7 @@ sections:
         label: Subscribe
         url: /
         style: primary
+        altText: Subscribe to The Ryan Furrer Newsletter
     backgroundImage:
       altText: altText of the image
       caption: Caption of the image

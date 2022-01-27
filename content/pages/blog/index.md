@@ -22,7 +22,7 @@ styles:
 topSections:
   - colors: colors-f
     elementId: ''
-    title: What does "
+    title: What does "Front-End Web Development Blogs for all" mean?
     subtitle: ''
     items:
       - type: FeaturedItem

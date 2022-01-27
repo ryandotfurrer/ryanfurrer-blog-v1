@@ -70,6 +70,7 @@ topSections:
           - pl-9
           - pr-9
         justifyContent: center
+        borderRadius: medium
       title:
         textAlign: center
       subtitle:

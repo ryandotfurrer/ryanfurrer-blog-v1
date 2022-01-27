@@ -46,7 +46,7 @@
             "self": {
                 "width": "wide",
                 "padding": [
-                    "pt-0",
+                    "pt-12",
                     "pb-0",
                     "pr-0",
                     "pl-0"

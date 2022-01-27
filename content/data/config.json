@@ -22,7 +22,7 @@
             },
             {
                 "type": "Link",
-                "label": "FAQ",
+                "label": "About",
                 "url": "/faq",
                 "altText": ""
             },

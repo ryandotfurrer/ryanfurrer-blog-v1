@@ -190,7 +190,7 @@ sections:
         width: narrow
         margin:
           - mt-12
-          - mb-0
+          - mb-6
           - ml-4
           - mr-4
         padding:

@@ -5,8 +5,8 @@
 @tailwind components;
 @tailwind utilities;
 
-#newsletter-cta > h2 {
-    text-align: left;
+#newsletter-cta {
+    justify-content: ;
 }
 
 @layer base {

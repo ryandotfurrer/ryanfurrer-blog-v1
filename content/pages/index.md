@@ -96,8 +96,8 @@ sections:
     backgroundSize: inset
     title: Like what you've read?
     text: >
-      Sign up your team today to be the first to try out our new product to
-      increase your team’s productivity
+      Subscribe to stay in the know for when I publish new articles, find
+      interesting things on the web, and more!
     form:
       type: FormBlock
       variant: variant-b

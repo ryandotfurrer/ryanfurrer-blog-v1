@@ -109,7 +109,7 @@ sections:
           label: Email
           hideLabel: false
           isRequired: true
-          width: full
+          width: 1/2
           type: EmailFormControl
       submitLabel: Subscribe
       styles:

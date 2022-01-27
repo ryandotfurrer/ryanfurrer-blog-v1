@@ -5,6 +5,12 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
+html[data-theme='dark'] img {
+  filter: brightness(.8) saturate(1.25);
+}
+
 body {
     padding: 0 1rem;
 }

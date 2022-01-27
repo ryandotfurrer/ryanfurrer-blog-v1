@@ -15,7 +15,7 @@ sections:
         showIcon: false
         altText: View all Blogs
       - label: Newsletter
-        altText: View Portfolio
+        altText: Learn more about my newsletter
         url: '/#newsletter-cta'
         showIcon: false
         iconPosition: right

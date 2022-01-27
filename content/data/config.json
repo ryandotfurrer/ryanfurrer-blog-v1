@@ -119,18 +119,18 @@
             },
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/theryanfurrer",
-                "icon": "twitter",
-                "style": "link"
-            },
-            {
-                "type": "Social",
                 "altText": "Linkedin",
                 "label": "Linkedin",
                 "url": "https://www.linkedin.com/in/theryanfurrer/",
                 "icon": "linkedin",
+                "style": "link"
+            },
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "https://twitter.com/theryanfurrer",
+                "icon": "twitter",
                 "style": "link"
             },
             {

@@ -1,7 +1,7 @@
 ---
 layout: PostFeedLayout
 title: Blog List
-numOfPostsPerPage: 12
+numOfPostsPerPage: 6
 postFeed:
   showDate: true
   showAuthor: false

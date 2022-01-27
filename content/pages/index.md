@@ -98,6 +98,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+    backgroundSize: full
   - colors: colors-h
     subtitle: Trusted by
     elementId: ''

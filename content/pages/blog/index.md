@@ -82,12 +82,6 @@ bottomSections:
         label: Try it now
         url: /
         style: primary
-      - type: Button
-        label: Learn More
-        showIcon: true
-        icon: arrowRight
-        url: /
-        style: link
     backgroundImage: null
     styles:
       self:

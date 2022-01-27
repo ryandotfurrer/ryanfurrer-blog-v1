@@ -198,6 +198,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col
+        borderRadius: medium
       title:
         textAlign: left
       text:

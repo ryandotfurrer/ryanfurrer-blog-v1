@@ -52,46 +52,6 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-f
-    title: Don't know where to start?
-    badge:
-      type: Badge
-      label: Featured Posts
-      styles:
-        self:
-          textAlign: left
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-12
-          - mb-6
-          - ml-4
-          - mr-4
-        padding:
-          - pt-9
-          - pb-9
-          - pl-9
-          - pr-9
-        justifyContent: center
-        flexDirection: row
-        alignItems: center
-        borderRadius: medium
-        boxShadow: xx-large
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeatureHighlightSection
-    backgroundSize: inset
-    subtitle: Check out these posts
-  - elementId: ''
     showDate: false
     showAuthor: false
     showExcerpt: false

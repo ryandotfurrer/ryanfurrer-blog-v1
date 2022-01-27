@@ -150,14 +150,6 @@
                 "icon": "facebook",
                 "style": "link",
                 "elementId": ""
-            },
-            {
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "style": "link",
-                "elementId": ""
             }
         ],
         "legalLinks": [],

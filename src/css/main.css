@@ -44,7 +44,7 @@ time[data-sb-field-path = "date"] {
 }
 
 
-.sbmarkdown {
+footer > .sbmarkdown {
     color: #a5bbca;
 }
 

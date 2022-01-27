@@ -31,6 +31,16 @@
                 "label": "Contact",
                 "altText": "Contact",
                 "url": "https://furrer-2022.netlify.app/contact.html"
+            },
+            {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
             }
         ],
         "secondaryLinks": [

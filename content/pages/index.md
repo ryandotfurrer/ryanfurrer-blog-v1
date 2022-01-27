@@ -52,7 +52,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    showDate: false
+    showDate: true
     showAuthor: false
     showExcerpt: false
     variant: variant-a

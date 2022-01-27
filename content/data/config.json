@@ -62,35 +62,16 @@
                     "opacity": 100
                 }
             },
-            "type": "ImageBlock",
-            "url": "/images/99CD51D0-7295-4F1E-8FC5-46126C30C2FC_1_102_o.jpeg"
+            "type": "ImageBlock"
         }
     },
     "footer": {
-        "colors": "colors-h",
-        "logo": {
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": "",
-            "styles": {
-                "self": {
-                    "opacity": 100
-                }
-            },
-            "type": "ImageBlock",
-            "url": "/images/logo.svg"
-        },
-        "title": "Starter",
+        "colors": "colors-c",
+        "title": "The Ryan Furrer Blog",
         "contacts": {
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "Our phone",
-            "email": "info@lorem.mail",
-            "emailAltText": "Our email",
-            "address": "312 Lovely Street, NY",
-            "addressAltText": "Our address"
+            "title": "Contact details"
         },
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "copyrightText": "All rights reserved © [Ryan Furrer](https://furrer-2022.netlify.app/) 2022\n\n",
         "primaryLinks": [
             {
                 "type": "Link",
@@ -100,64 +81,82 @@
             },
             {
                 "type": "Link",
-                "label": "Careers",
-                "url": "/careers",
-                "altText": ""
+                "label": "Portfolio",
+                "url": "https://furrer-2022.netlify.app/",
+                "altText": "Portfolio"
             },
             {
                 "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
-                "altText": ""
+                "label": "About",
+                "url": "https://furrer-2022.netlify.app/about.html",
+                "altText": "About"
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
+                "label": "Contact",
+                "url": "https://furrer-2022.netlify.app/contact.html",
+                "altText": "Contact"
+            },
+            {
+                "label": "GitHub",
+                "altText": "GitHub",
+                "url": "https://github.com/TheRyanFurrer",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
+                "altText": "GitHub",
+                "label": "GitHub",
+                "url": "https://github.com/TheRyanFurrer",
+                "icon": "github",
+                "style": "link"
+            },
+            {
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
-                "url": "/",
-                "icon": "twitter"
+                "url": "https://twitter.com/theryanfurrer",
+                "icon": "twitter",
+                "style": "link"
             },
             {
                 "type": "Social",
-                "altText": "Instagram",
+                "altText": "Linkedin",
+                "label": "Linkedin",
+                "url": "https://www.linkedin.com/in/theryanfurrer/",
+                "icon": "linkedin",
+                "style": "link"
+            },
+            {
                 "label": "Instagram",
-                "url": "/",
-                "icon": "instagram"
-            },
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "/",
-                "icon": "facebook"
+                "altText": "Instagram",
+                "url": "https://www.instagram.com/theryanfurrer/",
+                "icon": "instagram",
+                "style": "link",
+                "elementId": ""
             }
         ],
-        "legalLinks": [
-            {
-                "type": "Link",
-                "label": "Privacy Policy",
-                "url": "/"
-            },
-            {
-                "type": "Link",
-                "label": "Terms & Conditions",
-                "url": "/"
-            }
-        ],
+        "legalLinks": [],
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "wide",
                 "padding": [
-                    "pt-16",
-                    "pb-16",
+                    "pt-12",
+                    "pb-6",
                     "pr-4",
                     "pl-4"
                 ]

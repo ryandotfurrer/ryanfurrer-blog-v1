@@ -6,7 +6,7 @@
 @tailwind utilities;
 
 #newsletter-cta {
-    scroll-margin-top: ;
+    scroll-margin-top: 5rem;
 }
 
 @layer base {

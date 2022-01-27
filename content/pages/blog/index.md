@@ -30,12 +30,6 @@ topSections:
     backgroundSize: full
     title: 'A great feature, we’re proud of'
     subtitle: ''
-    badge:
-      label: This is the badge
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
     text: >-
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together

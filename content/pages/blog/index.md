@@ -30,9 +30,8 @@ topSections:
     backgroundSize: full
     title: Blogging about web development one article at a time.
     subtitle: ''
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: |
+      Keep up to date with new posts via my newsletter or RSS feed.
     actions:
       - type: Button
         label: Sign Up

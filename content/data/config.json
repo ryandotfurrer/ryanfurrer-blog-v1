@@ -29,7 +29,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "altText": "Blog",
+                "altText": "Contact",
                 "url": "/blog"
             }
         ],

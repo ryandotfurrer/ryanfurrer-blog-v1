@@ -30,7 +30,7 @@
                 "type": "Link",
                 "label": "Contact",
                 "altText": "Contact",
-                "url": "/blog"
+                "url": "https://furrer-2022.netlify.app/contact.html"
             }
         ],
         "secondaryLinks": [

@@ -12,7 +12,7 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/",
-                "altText": ""
+                "altText": "Go to homepage"
             },
             {
                 "type": "Link",

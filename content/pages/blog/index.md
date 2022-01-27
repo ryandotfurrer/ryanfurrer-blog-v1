@@ -53,10 +53,10 @@ topSections:
           - ml-0
           - mr-0
         padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
+          - pt-9
+          - pb-9
+          - pl-9
+          - pr-9
         alignItems: center
         justifyContent: center
         flexDirection: row

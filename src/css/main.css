@@ -7,7 +7,7 @@
 
 #featured-posts h2,
 #featured-posts p {
-
+    text-align: left;
 }
 
 #newsletter-cta {

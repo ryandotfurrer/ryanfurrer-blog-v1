@@ -11,7 +11,10 @@ img {
   filter: brightness(.8) saturate(1.25);
 }
 
-.sb-component-button-primary
+.sb-component-button-primary:hover,
+.sb-component-button-secondary:hover {
+
+}
 
 body {
     padding: 0 1rem;

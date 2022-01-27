@@ -132,37 +132,6 @@ sections:
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
     type: FeaturedPostsSection
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: inset
-    title: Like what you've read?
-    text: >
-      Subscribe to stay in the know for when I publish new articles, find
-      interesting things on the web, and more!
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-12
-          - mb-6
-          - ml-4
-          - mr-4
-        padding:
-          - pt-9
-          - pb-9
-          - pr-9
-          - pl-9
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderRadius: medium
-        boxShadow: xx-large
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-    elementId: newsletter-cta
   - elementId: ''
     colors: colors-f
     backgroundSize: inset

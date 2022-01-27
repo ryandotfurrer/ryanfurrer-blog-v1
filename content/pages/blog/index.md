@@ -79,7 +79,7 @@ bottomSections:
       interesting things on the web, and more!
     actions:
       - type: Button
-        label: Try it now
+        label: Subscribe
         url: /
         style: primary
     backgroundImage: null

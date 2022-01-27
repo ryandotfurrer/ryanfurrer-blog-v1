@@ -113,7 +113,7 @@ function contactBody(props) {
     return (
         <>
             {props.title && (
-                <h2 className={classNames('text-left' styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
                 </h2>
             )}

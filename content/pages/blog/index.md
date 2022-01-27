@@ -72,7 +72,7 @@ topSections:
 bottomSections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Like what you've read?
     text: >
       Subscribe to stay in the know for when I publish new articles, find

@@ -74,9 +74,9 @@ bottomSections:
     colors: colors-f
     backgroundSize: full
     title: Like what you've read?
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Subscribe to stay in the know for when I publish new articles, find
+      interesting things on the web, and more!
     actions:
       - type: Button
         label: Try it now

@@ -82,6 +82,7 @@ bottomSections:
         label: Subscribe
         url: /
         style: primary
+        altText: Subscribe to the Ryan Furrer Newsletter
     backgroundImage: null
     styles:
       self:

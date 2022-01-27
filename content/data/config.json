@@ -79,7 +79,7 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/",
-                "altText": ""
+                "altText": "Homepage"
             },
             {
                 "type": "Link",

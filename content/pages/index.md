@@ -126,10 +126,10 @@ sections:
           - ml-4
           - mr-4
         padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
+          - pt-9
+          - pb-9
+          - pr-9
+          - pl-9
         alignItems: center
         justifyContent: center
         flexDirection: row

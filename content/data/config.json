@@ -16,7 +16,7 @@
             },
             {
                 "label": "Blogs",
-                "altText": "",
+                "altText": "View all Blogs",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",

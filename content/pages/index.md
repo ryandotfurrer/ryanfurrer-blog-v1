@@ -137,4 +137,5 @@ sections:
         textAlign: center
       text:
         textAlign: center
+    elementId: newsletter-cta
 ---

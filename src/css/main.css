@@ -44,6 +44,8 @@ time[data-sb-field-path = "date"] {
 }
 
 
+data-sb-field-path=".copyrightText"
+
 
 body {
     padding: 0 1rem;

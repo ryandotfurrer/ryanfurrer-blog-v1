@@ -21,7 +21,7 @@ img {
 }
 
 .sb-component-button-primary:hover {
-    background-color: #F2AD18;
+    background-color: var(--accent-dark);
 }
 
 .sb-component-button-secondary {

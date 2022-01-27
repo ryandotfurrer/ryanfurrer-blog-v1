@@ -89,7 +89,7 @@
                 "type": "Link",
                 "label": "About",
                 "url": "/faq",
-                "altText": ""
+                "altText": "About"
             },
             {
                 "type": "Link",

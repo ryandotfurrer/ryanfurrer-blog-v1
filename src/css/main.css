@@ -31,7 +31,9 @@ img {
     color: #f5f5f5;
 }
 
-.sb
+.sb-component-header > a {
+    color: red;
+}
 
 
 

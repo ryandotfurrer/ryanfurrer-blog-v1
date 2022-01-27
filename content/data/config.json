@@ -132,13 +132,7 @@
                 "elementId": ""
             }
         ],
-        "legalLinks": [
-            {
-                "type": "Link",
-                "label": "Privacy Policy",
-                "url": "/"
-            }
-        ],
+        "legalLinks": [],
         "styles": {
             "self": {
                 "width": "wide",

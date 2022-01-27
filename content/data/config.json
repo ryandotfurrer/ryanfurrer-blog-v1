@@ -93,7 +93,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Contact",
                 "url": "/blog",
                 "altText": ""
             }

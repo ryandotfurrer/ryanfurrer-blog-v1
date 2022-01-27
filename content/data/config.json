@@ -12,29 +12,39 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/",
-                "altText": ""
+                "altText": "Go to homepage"
+            },
+            {
+                "label": "Blogs",
+                "altText": "View all Blogs",
+                "url": "/blog",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
             },
             {
                 "type": "Link",
                 "label": "Portfolio",
                 "url": "https://furrer-2022.netlify.app/",
-                "altText": "Portfolio"
+                "altText": "View my portfolio"
             },
             {
                 "type": "Link",
                 "label": "About",
                 "url": "https://furrer-2022.netlify.app/about.html",
-                "altText": "About"
+                "altText": "Learn more about Ryan Furrer"
             },
             {
                 "type": "Link",
                 "label": "Contact",
-                "altText": "Contact",
+                "altText": "Contact Ryan Furrer",
                 "url": "https://furrer-2022.netlify.app/contact.html"
             },
             {
                 "label": "GitHub",
-                "altText": "GitHub",
+                "altText": "View my GitHub profile",
                 "url": "https://github.com/TheRyanFurrer",
                 "showIcon": false,
                 "icon": "arrowRight",
@@ -79,29 +89,29 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/",
-                "altText": ""
+                "altText": "Homepage"
             },
             {
                 "type": "Link",
                 "label": "Portfolio",
                 "url": "https://furrer-2022.netlify.app/",
-                "altText": "Portfolio"
+                "altText": "Visit my portfolio"
             },
             {
                 "type": "Link",
                 "label": "About",
                 "url": "https://furrer-2022.netlify.app/about.html",
-                "altText": "About"
+                "altText": "Learn more about Ryan Furrer"
             },
             {
                 "type": "Link",
                 "label": "Contact",
                 "url": "https://furrer-2022.netlify.app/contact.html",
-                "altText": "Contact"
+                "altText": "Contact Ryan Furrer"
             },
             {
                 "label": "GitHub",
-                "altText": "GitHub",
+                "altText": "View my GitHub Profile",
                 "url": "https://github.com/TheRyanFurrer",
                 "showIcon": false,
                 "icon": "arrowRight",
@@ -113,7 +123,7 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "GitHub",
+                "altText": "View my GitHub profile",
                 "label": "GitHub",
                 "url": "https://github.com/TheRyanFurrer",
                 "icon": "github",
@@ -121,7 +131,7 @@
             },
             {
                 "type": "Social",
-                "altText": "Linkedin",
+                "altText": "View my Linkedin profile",
                 "label": "Linkedin",
                 "url": "https://www.linkedin.com/in/theryanfurrer/",
                 "icon": "linkedin",
@@ -129,7 +139,7 @@
             },
             {
                 "type": "Social",
-                "altText": "Twitter",
+                "altText": "View my Twitter profile",
                 "label": "Twitter",
                 "url": "https://twitter.com/theryanfurrer",
                 "icon": "twitter",
@@ -137,7 +147,7 @@
             },
             {
                 "label": "Instagram",
-                "altText": "Instagram",
+                "altText": "View my Instagram",
                 "url": "https://www.instagram.com/theryanfurrer/",
                 "icon": "instagram",
                 "style": "link",

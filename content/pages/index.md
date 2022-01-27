@@ -10,11 +10,12 @@ sections:
     actions:
       - type: Button
         label: Read Blogs
-        url: 'https://www.stackbit.com/blog'
+        url: /blog
         style: primary
         showIcon: false
+        altText: View all Blogs
       - label: Newsletter
-        altText: View Portfolio
+        altText: Learn more about my newsletter
         url: '/#newsletter-cta'
         showIcon: false
         iconPosition: right
@@ -59,7 +60,7 @@ sections:
     actions:
       - type: Button
         label: View All
-        altText: View All Posts
+        altText: View All Blogs
         url: /blog
         style: primary
     styles:

@@ -9,6 +9,9 @@
     scroll-margin-top: 2ex;
 }
 
+#newsletter-cta h2,
+#newsletter
+
 @layer base {
     body {
         @apply bg-main text-base;

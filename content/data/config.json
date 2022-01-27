@@ -43,18 +43,7 @@
                 "type": "Link"
             }
         ],
-        "secondaryLinks": [
-            {
-                "label": "Learn more",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "wide",

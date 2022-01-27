@@ -133,7 +133,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderRadius: xx-large
+        borderRadius: large
         boxShadow: xx-large
       title:
         textAlign: center

@@ -182,7 +182,7 @@ nav > Link {
 
     /* Buttons */
     .sb-component-button {
-        @apply border-2 inline-flex items-center justify-center no-underline text-center transition duration-200 ease-in hover:opacity-80;
+        @apply border-2 inline-flex items-center justify-center no-underline text-center transition duration-200 ease-in;
     }
 
     /* Links */

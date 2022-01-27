@@ -17,7 +17,7 @@ img {
 
 
 
-/* .sb-component-button-secondary {
+.sb-component-button-secondary {
     border-color: #e6ebef;
     color: red;
 }
@@ -29,7 +29,7 @@ img {
 
 .sb-component-button-secondary:hover {
     background-color: #f2ad18;
-} */
+}
 
 body {
     padding: 0 1rem;

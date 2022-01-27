@@ -12,7 +12,7 @@ img {
 }
 
 .sb-component-button-primary:hover {
-    background-color: hsla(41, 89%, 52%, saturation, lightness, alpha)
+    background-color: hsla(41, 89%, 52%, 1);
 }
 
 

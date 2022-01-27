@@ -53,7 +53,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Here are some of my recommendations
     badge:
       type: Badge

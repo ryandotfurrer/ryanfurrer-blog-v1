@@ -28,7 +28,7 @@ topSections:
   - elementId: ''
     colors: colors-c
     backgroundSize: full
-    title: 'A great feature, we’re proud of'
+    title: Blogging about web development one article at a time.
     subtitle: ''
     text: >-
       Share WIP, comment on each other’s work, approve what’s ready to go, ship

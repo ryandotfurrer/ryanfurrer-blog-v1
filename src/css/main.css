@@ -41,7 +41,7 @@ img {
 }
 
 .sb-component-link {
-    color: #a5bbca;
+    color: var(--text-secondary);
 }
 
 .sb-component-link:hover {

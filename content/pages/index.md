@@ -173,7 +173,7 @@ sections:
     actions:
       - type: Button
         label: Subscribe
-        url: /
+        url: 'https://www.getrevue.co/profile/theryanfurrer/'
         style: primary
         altText: Subscribe to The Ryan Furrer Newsletter
     backgroundImage:

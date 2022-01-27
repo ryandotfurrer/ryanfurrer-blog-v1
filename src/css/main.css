@@ -10,7 +10,8 @@
 }
 
 #newsletter-cta h2,
-#newsletter
+#newsletter-cta p,
+#newsletter-cta label
 
 @layer base {
     body {

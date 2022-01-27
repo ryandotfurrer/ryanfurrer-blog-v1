@@ -33,7 +33,7 @@ img {
 }
 
 .sb-component-social {
-    color: ;
+    color: var(--text-secondary);
 }
 
 .sb-component-social:hover {

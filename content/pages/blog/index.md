@@ -17,7 +17,7 @@ postFeed:
         - pr-9
         - pb-9
       margin:
-        - mt-4
+        - mt-12
         - ml-4
         - mb-4
         - mr-4

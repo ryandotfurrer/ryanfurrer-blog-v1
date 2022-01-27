@@ -11,7 +11,9 @@
 
 #newsletter-cta h2,
 #newsletter-cta p,
-#newsletter-cta label
+#newsletter-cta label {
+    text-align: left;
+}
 
 @layer base {
     body {

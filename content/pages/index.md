@@ -72,10 +72,10 @@ sections:
           - ml-4
           - mr-4
         padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
+          - pt-9
+          - pb-9
+          - pl-9
+          - pr-9
         justifyContent: center
         borderRadius: medium
       title:

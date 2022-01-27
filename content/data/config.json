@@ -23,7 +23,7 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "/faq",
+                "url": "https://furrer-2022.netlify.app/about.html",
                 "altText": "About"
             },
             {

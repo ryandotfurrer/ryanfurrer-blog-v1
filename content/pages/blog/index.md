@@ -34,7 +34,7 @@ topSections:
       Keep up to date with new posts via my newsletter or RSS feed.
     actions:
       - type: Button
-        label: Sign Up
+        label: Subscribe to Newsletter
         url: /
         style: primary
     media:

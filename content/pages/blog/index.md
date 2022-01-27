@@ -48,10 +48,10 @@ topSections:
         height: auto
         width: wide
         margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+          - mt-4
+          - mb-4
+          - ml-4
+          - mr-4
         padding:
           - pt-9
           - pb-9

@@ -12,10 +12,10 @@ postFeed:
     self:
       width: wide
       padding:
-        - pt-0
-        - pl-4
-        - pr-4
-        - pb-12
+        - pt-9
+        - pl-9
+        - pr-9
+        - pb-9
 styles:
   title:
     textAlign: center

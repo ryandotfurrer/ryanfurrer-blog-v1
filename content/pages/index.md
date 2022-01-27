@@ -74,7 +74,7 @@ sections:
           - pt-0
           - pb-0
           - pl-0
-          - pr-0
+          - pr-9
         justifyContent: center
         flexDirection: row
         alignItems: center

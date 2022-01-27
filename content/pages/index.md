@@ -15,7 +15,7 @@ sections:
         showIcon: false
       - label: Newsletter
         altText: View Portfolio
-        url: 'https://furrer-2022.netlify.app'
+        url: '/#newsletter-cta'
         showIcon: false
         iconPosition: right
         style: secondary

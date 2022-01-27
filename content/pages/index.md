@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: Read Blogs
-        url: 'https://www.stackbit.com/blog'
+        url: /blog
         style: primary
         showIcon: false
       - label: Newsletter

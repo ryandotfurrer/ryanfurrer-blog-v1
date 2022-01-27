@@ -71,7 +71,7 @@
         "contacts": {
             "title": "Contact details"
         },
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "copyrightText": "All rights reserved © [Ryan Furrer](https://furrer-2022.netlify.app/) 2022\n\n",
         "primaryLinks": [
             {
                 "type": "Link",

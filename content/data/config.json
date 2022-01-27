@@ -113,7 +113,7 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "View my GitHub",
+                "altText": "View my GitHub profile",
                 "label": "GitHub",
                 "url": "https://github.com/TheRyanFurrer",
                 "icon": "github",

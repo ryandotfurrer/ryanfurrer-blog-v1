@@ -99,6 +99,7 @@ sections:
           opacity: 100
       type: ImageBlock
     backgroundSize: full
+    subtitle: Check out these posts
   - colors: colors-h
     subtitle: Trusted by
     elementId: ''

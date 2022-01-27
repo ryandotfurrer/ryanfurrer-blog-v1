@@ -49,7 +49,7 @@ img {
 }
 
 time[data-sb-field-path = "date"] {
-    color: #a5bbca;
+    color: var(--text-secondary);
 }
 
 body {

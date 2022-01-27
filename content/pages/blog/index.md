@@ -49,7 +49,7 @@ topSections:
         width: wide
         margin:
           - mt-12
-          - mb-6
+          - mb-8
           - ml-4
           - mr-4
         padding:

@@ -60,7 +60,7 @@ sections:
     actions:
       - type: Button
         label: View All
-        altText: View All Posts
+        altText: View All Blogs
         url: /blog
         style: primary
     styles:

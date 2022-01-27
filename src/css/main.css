@@ -5,8 +5,9 @@
 @tailwind components;
 @tailwind utilities;
 
-#featured-posts {
-    
+#featured-posts h2,
+#featured-posts p {
+
 }
 
 #newsletter-cta {

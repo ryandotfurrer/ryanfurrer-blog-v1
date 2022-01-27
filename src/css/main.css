@@ -15,6 +15,10 @@ img {
     background-color: #f9dd9f;
 }
 
+.sb-component-button-primary:hover {
+    background-color: #f9dd9f;
+}
+
 body {
     padding: 0 1rem;
 }

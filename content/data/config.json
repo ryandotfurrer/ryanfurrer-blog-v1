@@ -101,7 +101,7 @@
             },
             {
                 "label": "GitHub",
-                "altText": "GitHub",
+                "altText": "View my GitHub Profile",
                 "url": "https://github.com/TheRyanFurrer",
                 "showIcon": false,
                 "icon": "arrowRight",

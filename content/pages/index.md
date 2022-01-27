@@ -125,7 +125,7 @@ sections:
       actions:
         justifyContent: center
     title: Don't know where to start?
-    subtitle: Featured blog posts section example
+    subtitle: Check out some of my favorite posts below
     colors: colors-f
     posts:
       - content/pages/blog/post-three.md

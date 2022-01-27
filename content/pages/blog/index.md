@@ -37,6 +37,7 @@ topSections:
         label: Subscribe to Newsletter
         url: /
         style: primary
+        altText: Subscribe to Newsletter
     media:
       type: ImageBlock
       url: /images/hero-1.png

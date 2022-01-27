@@ -43,6 +43,7 @@ topSections:
       type: ImageBlock
       url: /images/blog-header.png
       altText: Illustration depicting a newsletter
+      caption: Illustration depicting a newsletter
     styles:
       self:
         height: auto

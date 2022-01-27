@@ -121,7 +121,7 @@
             },
             {
                 "type": "Social",
-                "altText": "Linkedin",
+                "altText": "View my Linkedin profile",
                 "label": "Linkedin",
                 "url": "https://www.linkedin.com/in/theryanfurrer/",
                 "icon": "linkedin",

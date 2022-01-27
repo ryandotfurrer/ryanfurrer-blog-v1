@@ -19,7 +19,9 @@ img {
     background-color: #263640;
 }
 
-
+.sb-component-button-secondary {
+    background-color: transparent;
+}
 
 .sb-component-button-secondary:hover {
     background-color: transparent;

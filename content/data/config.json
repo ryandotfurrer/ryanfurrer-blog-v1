@@ -94,7 +94,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "/blog",
+                "url": "https://furrer-2022.netlify.app/contact.html",
                 "altText": "Contact"
             }
         ],

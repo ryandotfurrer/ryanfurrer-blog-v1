@@ -44,7 +44,9 @@ time[data-sb-field-path = "date"] {
 }
 
 
-Markdown[data-sb-field-path=".copyrightText"
+Markdown[data-sb-field-path=".copyrightText"] {
+    
+}
 
 
 body {

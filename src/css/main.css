@@ -22,7 +22,7 @@ img {
     color: red;
 }
 
-.sb-component-button-secondary {
+.sb-component-button-secondary a {
     border-color: #e6ebef;
     color: red;
 }

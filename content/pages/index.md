@@ -32,7 +32,7 @@ sections:
         width: wide
         margin:
           - mt-12
-          - mb-9
+          - mb-8
           - ml-0
           - mr-0
         padding:

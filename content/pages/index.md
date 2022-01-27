@@ -100,7 +100,7 @@ sections:
       interesting things on the web, and more!
     form:
       type: FormBlock
-      variant: variant-b
+      variant: variant-a
       elementId: sign-up-form
       destination: ''
       action: /.netlify/functions/submission_created

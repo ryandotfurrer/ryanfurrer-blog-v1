@@ -53,7 +53,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    title: Here are some of my recommendations
+    title: Don't know where to start?
     badge:
       type: Badge
       label: Featured Posts

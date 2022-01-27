@@ -124,7 +124,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Featured
+    title: Don't know where to start?
     subtitle: Featured blog posts section example
     colors: colors-f
     posts:

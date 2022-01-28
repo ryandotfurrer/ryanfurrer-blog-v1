@@ -46,7 +46,7 @@ import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import Action from '../../atoms/Action';
 
-export default function CtaSection(props) {
+export default function NewsletterCTA(props) {
     const cssId = props.elementId || null;
     const colors = props.colors || 'colors-a';
     const bgSize = props.backgroundSize || 'full';

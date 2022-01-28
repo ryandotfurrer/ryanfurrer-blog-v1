@@ -77,7 +77,7 @@ body {
     background-color: var(--bg-secondary);
     border-radius: .5rem;
     color: var(--text-primary);
-    margin: 
+    margin: 48px 
 }
 
 .sb-post-layout > div[data-sb-field-path="bottomSections"] > div{

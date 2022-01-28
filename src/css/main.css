@@ -76,6 +76,8 @@ body {
     color: red;
 }
 
+
+
 @layer base {
     body {
         @apply bg-main text-base;

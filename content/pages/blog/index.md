@@ -69,44 +69,5 @@ topSections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
-bottomSections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: inset
-    title: Like what you've read?
-    text: >
-      Subscribe to stay in the know for when I publish new articles, find
-      interesting things on the web, and more!
-    actions:
-      - type: Button
-        label: Subscribe
-        url: 'https://www.getrevue.co/profile/theryanfurrer'
-        style: primary
-        altText: Subscribe to The Ryan Furrer Newsletter
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-12
-          - mb-6
-          - ml-4
-          - mr-4
-        padding:
-          - pt-9
-          - pb-9
-          - pl-9
-          - pr-9
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-        borderRadius: medium
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: CtaSection
+bottomSections: []
 ---

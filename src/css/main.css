@@ -81,6 +81,10 @@ body {
     text-align: left;
 }
 
+#newsletter-cta {
+    margin-top: 10rem;
+}
+
 .sb-post-layout > article {
     background-color: var(--bg-secondary);
     border-radius: .5rem;

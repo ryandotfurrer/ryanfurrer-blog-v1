@@ -21,7 +21,7 @@ export default function DefaultBaseLayout(props) {
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
                 {props.children}
-                {}
+                {props}
                 {<NewsletterCTA />}
                 {site.footer && <Footer {...site.footer} annotationPrefix={siteMeta.id} />}
             </div>

@@ -543,6 +543,10 @@ nav > Link {
   }
 }
 
+@media only screen and (max-width: 862px) {
+    
+}
+
 @media only screen and (min-width: 863px) {
     :root {
         font-size: 18px;

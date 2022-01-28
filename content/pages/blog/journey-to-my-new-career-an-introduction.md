@@ -52,4 +52,19 @@ That's where coding comes in. I've always been interested in it and threw around
 
 *   ...Front-End Web Development
 
-I suppose part of my desire to work on the front-end is the ability to create and be imaginative in what I create. \n\n###What I'm Working On###\n\nI am currently working on my portfolio site - it's ever expanding and something I'm not sure I'll truly feel is ever "finished." Beyond my own website I am working on a few sites for local businesses including a brewery, an environmental company, and a food business. \n\nI am also learning Vanilla JavaScript and will eventually move onto React, however, I want to have a solid and thorough understanding of JS before adding on any libraries. I'm learning via \<a href="https://teamtreehouse.com/" target="\_blank">Treehouse, \<a href="https://www.freecodecamp.org/" target="\_blank">freeCodeCamp, and my own practicing of what I learn.\n\nI often equate learning coding languages to learning music and incorporate similar practice techniques - it's something I'm very thankful for having learned.\n\n###Let's Wrap This Up###\n\nSo that's me in a nutshell. I'll probably write another post in the 1st half of this week to bring you all up to speed with what my site looked like before it's redesign this past week. \n\nIf you stuck around this long I seriously thank you for reading and hope you'll come back for more!
+I suppose part of my desire to work on the front-end is the ability to create and be imaginative in what I create. 
+
+### What I'm Working On
+
+I am currently working on my portfolio site - it's ever expanding and something I'm not sure I'll truly feel is ever "finished." Beyond my own website I am working on a few sites for local businesses including a brewery, an environmental company, and a food business.
+
+I am also learning Vanilla JavaScript and will eventually move onto React, however, I want to have a solid and thorough understanding of JS before adding on any libraries. I'm learning via [Treehouse](https://teamtreehouse.com/), [freeCodeCamp](https://www.freecodecamp.org/), and my own practicing of what I learn.
+
+I often equate learning coding languages to learning music and incorporate similar practice techniques - it's something I'm very thankful for having learned.
+
+### Let's Wrap This Up
+
+So that's me in a nutshell. I'll probably write another post in the 1st half of this week to bring you all up to speed with what my site looked like before it's redesign this past week. 
+
+If you stuck around this long I seriously thank you for reading and hope you'll come back for more!
+

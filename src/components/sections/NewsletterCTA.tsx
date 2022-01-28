@@ -51,7 +51,7 @@ export default function NewsletterCTA(props) {
                     borderWidth: sectionStyles.borderWidth ? `${sectionStyles.borderWidth}px` : null
                 }}
             >
-                {props.backgroundImage && NewsletterCTABackgroundImage(props.backgroundImage)}
+                {props.backgroundImage && ctaBackgroundImage(props.backgroundImage)}
                 <div
                     className={classNames(
                         'relative',

@@ -89,9 +89,9 @@ sections:
     subtitle: Check out some of my favorite posts below
     colors: colors-f
     posts:
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
+      - content/pages/blog/demo-post-1.md
+      - content/pages/blog/demo-post-2.md
+      - content/pages/blog/demo-post-3.md
     type: FeaturedPostsSection
   - elementId: ''
     colors: colors-f

@@ -15,7 +15,7 @@
                 "altText": "Go to homepage"
             },
             {
-                "label": "Blogs",
+                "label": "Blog",
                 "altText": "View all Blogs",
                 "url": "/blog",
                 "showIcon": false,
@@ -90,6 +90,16 @@
                 "label": "Home",
                 "url": "/",
                 "altText": "Homepage"
+            },
+            {
+                "label": "Blog",
+                "altText": "View all blogs",
+                "url": "/blog",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
             },
             {
                 "type": "Link",

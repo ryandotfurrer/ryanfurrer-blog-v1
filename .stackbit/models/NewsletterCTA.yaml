@@ -11,8 +11,8 @@
 #     name: title
 
 type: object
-name: CtaSection
-label: CTA
+name: NewsletterCTA
+label: NewsletterCTA
 labelField: title
 thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
 extends:

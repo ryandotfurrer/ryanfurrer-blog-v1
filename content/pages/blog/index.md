@@ -21,6 +21,7 @@ postFeed:
         - mb-6
         - mr-4
       borderRadius: medium
+      borderColor: border-secondary
 styles:
   title:
     textAlign: center

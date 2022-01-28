@@ -33,7 +33,6 @@ bottomSections:
       type: ImageBlock
     styles:
       self:
-        border-radius: rounded-lg
         height: auto
         width: narrow
         margin:

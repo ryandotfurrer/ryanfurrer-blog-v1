@@ -6,7 +6,7 @@
         "primaryColors": "colors-c",
         "secondaryColors": "colors-f",
         "title": "The Ryan Furrer Blog",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",

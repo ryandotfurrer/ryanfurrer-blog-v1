@@ -20,15 +20,15 @@ bottomSections:
         height: auto
         width: wide
         margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+          - mt-12
+          - mb-8
+          - ml-4
+          - mr-4
         padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
+          - pt-8
+          - pb-8
+          - pr-8
+          - pl-8
         justifyContent: center
       title:
         textAlign: center
@@ -37,6 +37,10 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
+  - text: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    type: NewsletterCTA
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---

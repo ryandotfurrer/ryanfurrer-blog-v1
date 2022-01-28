@@ -14,6 +14,10 @@
     --accent-dark: #F2AD18;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 p {
     font-size: 1.125rem;
 }

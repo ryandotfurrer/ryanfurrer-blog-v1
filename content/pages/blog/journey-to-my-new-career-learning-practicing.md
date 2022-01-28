@@ -56,7 +56,7 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-![](/images/blog-002-3dac52a2.webp)
+![Featured image of a desk with notebook, phone, and pencil](/images/blog-002-3dac52a2.webp)
 
 In today's entry I wanted to share how I learn and how I practice those things so I can say I've truly learned something.
 

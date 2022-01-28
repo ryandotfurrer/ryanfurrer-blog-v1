@@ -123,10 +123,10 @@ sections:
           - ml-4
           - mr-4
         padding:
-          - pt-8
-          - pb-8
-          - pl-8
-          - pr-8
+          - pt-9
+          - pb-9
+          - pl-9
+          - pr-9
         alignItems: center
         justifyContent: center
         flexDirection: col

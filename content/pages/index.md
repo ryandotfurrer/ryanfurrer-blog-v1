@@ -93,7 +93,7 @@ sections:
       - content/pages/blog/demo-post-2.md
       - content/pages/blog/demo-post-3.md
     type: FeaturedPostsSection
-  - elementId: ''
+  - elementId: newsletter-cta
     colors: colors-f
     backgroundSize: inset
     title: Like what you've read?
@@ -106,6 +106,7 @@ sections:
         url: 'https://www.getrevue.co/profile/theryanfurrer'
         style: primary
     backgroundImage:
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
@@ -123,10 +124,7 @@ sections:
           - ml-4
           - mr-4
         padding:
-          - pt-8
-          - pb-8
-          - pl-8
-          - pr-8
+          - p-9
         alignItems: center
         justifyContent: center
         flexDirection: col

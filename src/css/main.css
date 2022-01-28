@@ -14,7 +14,7 @@
     --accent-dark: #F2AD18;
 }
 
-html {
+html:focus-within {
     scroll-behavior: smooth;
 }
 
@@ -79,6 +79,10 @@ body {
 #newsletter-cta p,
 #newsletter-cta input > label {
     text-align: left;
+}
+
+#newsletter-cta > div {
+    margin-top: 10rem;
 }
 
 .sb-post-layout > article {

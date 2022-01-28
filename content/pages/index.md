@@ -121,7 +121,7 @@ sections:
           - mt-12
           - mb-8
           - ml-4
-          - mr-0
+          - mr-4
         padding:
           - pt-8
           - pb-8

@@ -21,7 +21,6 @@ export default function DefaultBaseLayout(props) {
                     {site.favicon && <link rel="icon" href={site.favicon} />}
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
-                {props.children}
                 {<NewsletterCTA />}
                 {site.footer && <Footer {...site.footer} annotationPrefix={siteMeta.id} />}
             </div>

@@ -92,6 +92,16 @@
                 "altText": "Homepage"
             },
             {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
                 "type": "Link",
                 "label": "Portfolio",
                 "url": "https://furrer-2022.netlify.app/",

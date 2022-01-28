@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-003.webp
   altText: Latte
-  caption: ''
+  caption: Latte
 bottomSections: []
 layout: PostLayout
 ---

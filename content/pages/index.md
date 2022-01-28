@@ -9,7 +9,7 @@ sections:
     subtitle: 'Technical articles, how-tos, devJournals, and more!'
     actions:
       - type: Button
-        label: view more blogs
+        label: View more blogs
         url: /blog
         style: primary
         showIcon: false

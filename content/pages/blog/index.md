@@ -97,7 +97,7 @@ bottomSections:
         width: narrow
         margin:
           - mt-12
-          - mb-4
+          - mb-8
           - ml-4
           - mr-4
         padding:

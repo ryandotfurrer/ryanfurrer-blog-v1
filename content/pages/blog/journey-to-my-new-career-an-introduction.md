@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/post-001.webp
   altText: Keyboard
-  caption: ''
+  caption: Keyboard
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

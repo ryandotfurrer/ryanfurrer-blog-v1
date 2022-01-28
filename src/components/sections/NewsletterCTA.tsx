@@ -106,6 +106,8 @@ function ctaBackgroundImage(image) {
     );
 }
 
+let props.title = 'test';
+
 function ctaBody(props) {
     if (!props.title && !props.text) {
         return null;

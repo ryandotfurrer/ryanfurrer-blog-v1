@@ -94,7 +94,7 @@
             {
                 "label": "Blog",
                 "altText": "View all blogs",
-                "url": "/",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

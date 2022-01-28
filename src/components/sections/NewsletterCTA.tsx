@@ -41,7 +41,7 @@ export default function NewsletterCTA(props) {
                     bgSize === 'inset' ? mapMaxWidthStyles(sectionWidth) : null,
                     mapMinHeightStyles(sectionHeight),
                     sectionStyles.borederRadius || 'rounded-lg',
-                    sectionStyles.padding || 'p-[',
+                    sectionStyles.padding || 'p-[36px]',
                     sectionStyles.borderColor,
                     sectionStyles.borderStyle ? mapStyles({ borderStyle: sectionStyles.borderStyle }) : 'border-none',
                     sectionStyles.borderRadius ? mapStyles({ borderRadius: sectionStyles.borderRadius }) : null,

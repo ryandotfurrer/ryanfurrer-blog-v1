@@ -19,7 +19,9 @@ p {
 }
 
 @media screen only and (min-width: 836px) {
-    
+    * {
+        color: red;
+    }
 }
 
 img {

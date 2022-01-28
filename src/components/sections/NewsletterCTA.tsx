@@ -112,22 +112,30 @@ function ctaBody(props) {
     }
     const styles = props.styles || {};
     return (
-        <div className="w-full lg:flex-grow">
-            {props.title && (
+
+        {
+            "title": "foo"
+        }
+        < div className = "w-full lg:flex-grow" >
+        {
+            props.title && (
                 <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
                 </h2>
-            )}
-            {props.text && (
-                <Markdown
-                    options={{ forceBlock: true, forceWrapper: true }}
-                    className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, { 'mt-4': props.title })}
-                    data-sb-field-path=".text"
-                >
-                    {props.text}
-                </Markdown>
-            )}
-        </div>
+            )
+        }
+    {
+    props.text && (
+        <Markdown
+            options={{ forceBlock: true, forceWrapper: true }}
+            className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, { 'mt-4': props.title })}
+            data-sb-field-path=".text"
+        >
+            {props.text}
+        </Markdown>
+    )
+    }
+        </div >
     );
 }
 

@@ -59,7 +59,7 @@ topSections:
           - pr-9
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: row-reverse
       title:
         textAlign: left
       subtitle:

@@ -1,4 +1,4 @@
-// src/components/sections/newsletter-cta-section.tsx
+// src/components/sections/NewsletterCTA.tsx
 import React from 'react'
 
 const NewsletterCTA = ({ text }) => {

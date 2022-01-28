@@ -1,0 +1,9 @@
+# .stackbit/models/AlertSection.yaml
+
+name: AlertSection
+label: Alert Section
+groups:
+  - sectionComponent
+fields:
+  - type: text
+    name: text

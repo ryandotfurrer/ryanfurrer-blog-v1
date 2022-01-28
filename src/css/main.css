@@ -107,7 +107,7 @@ body {
 
 .sb-component-cta-section > div{
     background: var(--bg-secondary);
-    color: var(--text-secondary)
+    color: var(--text-primary);
 }
 
 @layer base {

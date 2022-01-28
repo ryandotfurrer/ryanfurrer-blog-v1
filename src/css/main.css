@@ -543,7 +543,7 @@ nav > Link {
   }
 }
 
-@media only screen and (min-width: 862px) {
+@media only screen and (min-width: 100px) {
     h1 {
         font-size: 1.802rem;
     }

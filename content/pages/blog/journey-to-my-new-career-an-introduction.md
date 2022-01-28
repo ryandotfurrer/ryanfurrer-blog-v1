@@ -3,7 +3,7 @@ title: 'Journey to My New Career: An Introduction'
 date: '2019-07-07'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/post-001.webp
   altText: Post thumbnail image
   caption: ''
 bottomSections: []

@@ -22,9 +22,9 @@ img {
   filter: brightness(.8) saturate(1.25);
 }
 
-.sb-component-header {
+/* .sb-component-header {
     padding-bottom: 3rem;
-}
+} */
 
 .sb-component-button-primary:hover {
     background-color: var(--accent-dark);

@@ -45,7 +45,7 @@ fields:
     name: text
     label: Text
     default: |-
-      The Stackbit theme is flexible and scalable to every need. It can manage any layout and any screen.
+      Subscribe to stay in the know for when I publish new articles, find interesting things on the web, and more!
   - type: list
     name: actions
     label: Actions

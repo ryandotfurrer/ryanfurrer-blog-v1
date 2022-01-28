@@ -80,7 +80,7 @@ body {
     background-color: var(--bg-primary);
 }
 
-.sb-post-layout > div[data-sb-field-path="bottomSections"] > div{
+.sb-post-layout > div[data-sb-field-path="bottomSections"] > article{
     background-color: var(--bg-primary);
 }
 

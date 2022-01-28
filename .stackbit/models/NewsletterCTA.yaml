@@ -7,3 +7,5 @@ groups:
 fields:
   - type: text
     name: text
+  - type: h1
+    name: title

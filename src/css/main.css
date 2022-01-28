@@ -81,7 +81,7 @@ body {
     text-align: left;
 }
 
-#newsletter-cta {
+#newsletter-cta > div {
     margin-top: 10rem;
 }
 

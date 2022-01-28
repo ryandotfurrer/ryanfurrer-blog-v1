@@ -539,7 +539,7 @@ nav > Link {
   }
 }
 
-/* @media only screen and (min-width: 100px) {
+@media only screen and (min-width: 100px) {
     h1 {
         font-size: 1.802rem;
     }
@@ -551,7 +551,7 @@ nav > Link {
     h3 {
         font-size: 1.424rem;
     }
-} */
+}
 
 /* @media only screen and (min-width: 863px) {
     :root {

@@ -80,7 +80,7 @@ body {
     background-color: var(--bg-secondary);
 }
 
-.sb-post-layout > div[data-sb-field-path="bottomSections"] > article{
+.sb-post-layout > div[data-sb-field-path="bottomSections"] > div{
     background-color: red;
 }
 

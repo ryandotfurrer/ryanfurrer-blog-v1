@@ -107,7 +107,7 @@ bottomSections:
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
         borderRadius: none
         borderWidth: 0
         borderStyle: none

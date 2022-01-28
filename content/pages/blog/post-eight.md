@@ -25,10 +25,10 @@ bottomSections:
           - ml-0
           - mr-0
         padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
+          - pt-8
+          - pb-8
+          - pr-8
+          - pl-8
         justifyContent: center
       title:
         textAlign: center

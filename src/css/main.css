@@ -14,6 +14,10 @@
     --accent-dark: #F2AD18;
 }
 
+* {
+    font-size: initial;
+}
+
 p {
     font-size: 1.125rem;
 }

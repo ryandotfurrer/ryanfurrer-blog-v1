@@ -1,7 +1,7 @@
 // src/components/sections/newsletter-cta-section.tsx
 import React from 'react'
 
-const AlertSection = ({ text }) => {
+const newsletterCTA = ({ text }) => {
   return (
     <div className="py-6 bg-primary">
       <div className="container mx-auto">

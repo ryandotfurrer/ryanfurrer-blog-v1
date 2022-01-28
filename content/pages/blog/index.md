@@ -9,7 +9,7 @@ postFeed:
   colors: colors-c
   styles:
     self:
-      width: narrow
+      width: wide
       padding:
         - pt-9
         - pl-9

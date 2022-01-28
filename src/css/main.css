@@ -101,9 +101,9 @@ body {
     color: var(--text-primary);
 }
 
-div[data-sb-field-path] > .sb-component-post-feed-section {
+/* div[data-sb-field-path] > .sb-component-post-feed-section {
     margin: 4rem 1rem 2rem 1rem;
-}
+} */
 
 @layer base {
     body {

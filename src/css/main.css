@@ -545,11 +545,11 @@ nav > Link {
     }
 
     h2 {
-        font-size: 7rem;
+        font-size: 7rem !important;
     }
 
     h3 {
-        font-size: 1.424rem;
+        font-size: 1.424rem !important;
     }
 }
 

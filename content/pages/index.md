@@ -88,8 +88,7 @@ sections:
     title: Don't know where to start?
     subtitle: Check out some of my favorite posts below
     colors: colors-f
-    posts:
-      - content/pages/blog/post-one.md
+    posts: []
     type: FeaturedPostsSection
   - elementId: ''
     colors: colors-f

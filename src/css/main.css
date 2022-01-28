@@ -105,6 +105,10 @@ body {
     color: var(--text-primary);
 }
 
+.sb-component-cta-section {
+    background: red;
+}
+
 @layer base {
     body {
         @apply bg-main text-base;

@@ -91,6 +91,7 @@ sections:
     posts:
       - content/pages/blog/demo-post-1.md
       - content/pages/blog/demo-post-2.md
+      - content/pages/blog/demo-post-3.md
     type: FeaturedPostsSection
   - elementId: ''
     colors: colors-f

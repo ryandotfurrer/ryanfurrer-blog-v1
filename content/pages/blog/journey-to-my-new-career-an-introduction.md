@@ -4,7 +4,7 @@ date: '2019-07-07'
 featuredImage:
   type: ImageBlock
   url: /images/post-001.webp
-  altText: Keyboard
+  altText: 'Image of '
   caption: Keyboard
 bottomSections: []
 layout: PostLayout

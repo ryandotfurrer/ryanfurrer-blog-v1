@@ -82,15 +82,6 @@ bottomSections:
         label: Subscribe
         url: 'https://www.getrevue.co/profile/theryanfurrer'
         style: primary
-    backgroundImage:
-      url: ''
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
     styles:
       self:
         height: auto

@@ -9,7 +9,7 @@ sections:
     subtitle: 'Technical articles, how-tos, devJournals, and more!'
     actions:
       - type: Button
-        label: Read Blogs
+        label: View more blogs
         url: /blog
         style: primary
         showIcon: false
@@ -24,9 +24,9 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/home-header-image.png
-      altText: Illustration depicting a blog post
-      caption: Illustration depicting a blog post
+      url: /images/portfolio-image-dark-theme.webp
+      altText: Ryan Furrer Logo
+      caption: Ryan Furrer Logo
     styles:
       self:
         height: auto
@@ -59,7 +59,7 @@ sections:
     variant: variant-a
     actions:
       - type: Button
-        label: View All
+        label: view more blogs
         altText: View All Blogs
         url: /blog
         style: primary

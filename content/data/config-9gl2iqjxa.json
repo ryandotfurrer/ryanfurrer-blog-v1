@@ -1,0 +1,128 @@
+{
+    "favicon": "/images/portfolio-image-dark-theme-8307101b.webp",
+    "header": {
+        "headerVariant": "variant-c",
+        "primaryColors": "colors-a",
+        "secondaryColors": "colors-a",
+        "title": "The Ryan Furrer Blog",
+        "isTitleVisible": true,
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/portfolio-image-dark-theme-d155966e.webp",
+            "altText": "Ryan Furrer Logo",
+            "caption": "Ryan Furrer Logo"
+        },
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": "Home"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/",
+                "altText": "Blog"
+            }
+        ],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "label": "Sign up",
+                "url": "/",
+                "altText": "Sign up",
+                "style": "primary"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-5",
+                    "pb-5",
+                    "pl-4",
+                    "pr-4"
+                ]
+            }
+        }
+    },
+    "footer": {
+        "colors": "colors-f",
+        "logo": {
+            "default": null,
+            "type": "ImageBlock",
+            "url": "https://assets.stackbit.com/components/images/default/default-image.png",
+            "altText": "Your logo image",
+            "caption": ""
+        },
+        "title": "Your Brand",
+        "text": "A description of your brand",
+        "contacts": {
+            "phoneNumber": "850-123-5021",
+            "phoneAltText": "Call us",
+            "email": "john@doe.com",
+            "emailAltText": "Email us"
+        },
+        "copyrightText": "Copyright text",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Projects",
+                "url": "/",
+                "altText": "Projects"
+            },
+            {
+                "type": "Link",
+                "label": "Documentation",
+                "url": "/",
+                "altText": "Documentation"
+            }
+        ],
+        "socialLinks": [
+            {
+                "type": "facebook",
+                "icon": "facebook",
+                "label": "",
+                "altText": "facebook",
+                "url": "/",
+                "elementId": false,
+                "showIcon": true
+            },
+            {
+                "type": "twitter",
+                "icon": "twitter",
+                "label": "",
+                "altText": "twitter",
+                "url": "/",
+                "elementId": false,
+                "showIcon": true
+            }
+        ],
+        "legalLinks": [
+            {
+                "type": "Link",
+                "label": "Privacy Policy",
+                "url": "/",
+                "altText": "Privacy Policy"
+            },
+            {
+                "type": "Link",
+                "label": "Terms & Conditions",
+                "url": "/",
+                "altText": "Terms & Conditions"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pl-4",
+                    "pr-4"
+                ]
+            }
+        }
+    }
+}

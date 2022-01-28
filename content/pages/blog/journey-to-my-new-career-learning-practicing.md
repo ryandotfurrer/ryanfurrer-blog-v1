@@ -10,7 +10,7 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-In today's entry I wanted to share how I learn and how I practice those things so I can say I've truly learned something.
+dIn today's entry I wanted to share how I learn and how I practice those things so I can say I've truly learned something.
 
 Does this mean I don't forget anything? Of course not! However, I feel that these skills are something not taught or spoken about often enough.
 
@@ -51,8 +51,6 @@ While the above sites are great, you do have to become proficient at Googling, a
 This brings me to practicing. A viola instructor once said to me “Practice does not make perfect. Practice makes permanent..."
 
 This is a partial quote from Sara Kay's No Matter the Wreckage and it has rang true for me in so many parts of life. For me, there are many parallels between playing viola and coding. Without further adieu, here are 3 of my favorite practicing tips that you can tryout yourself:
-
-
 
 ### That's All Folks!
 

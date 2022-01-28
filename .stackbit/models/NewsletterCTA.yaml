@@ -58,7 +58,6 @@ fields:
       self:
         height: ['auto', 'screen']
         width: ['narrow', 'wide', 'full']
-          - value: 'narrow'
         margin: ['tw0:96']
         padding: ['tw0:96']
         alignItems: ['flex-start', 'flex-end', 'center']

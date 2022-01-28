@@ -117,6 +117,6 @@ bottomSections:
       text:
         textAlign: left
       actions:
-        justifyContent: flex-end
+        justifyContent: center
     type: NewsletterCTA
 ---

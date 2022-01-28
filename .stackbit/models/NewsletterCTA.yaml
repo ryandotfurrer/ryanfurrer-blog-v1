@@ -35,7 +35,7 @@ fields:
       - label: Full
         value: Full
       - label: Inset
-        value: inset
+        value: Inset
     default: full
   - type: string
     name: title

@@ -20,17 +20,17 @@ If you care to stick along I'd really appreciate it! I will be writing once a we
 
 I decided to write about my journey for a few reasons:
 
-1.  **Document what I am working on
-    **Instead of boring my girlfriend with whatever I am working on that day or week, I thought it better to write it down - think of it almost like a journal! Except for the fact that you don't have to deal with my horrendous handwriting.
+1.  \*\*Document what I am working on\*\*
+    Instead of boring my girlfriend with whatever I am working on that day or week, I thought it better to write it down - think of it almost like a journal! Except for the fact that you don't have to deal with my horrendous handwriting.
 
-2.  **Reflect on what I've done
-    **There will be times where I feel like I've made no progress or can't really see what I've been working on. This will act as a way for me to see what I've learned - kind of like taking progress pictures when losing weight.
+2.  \*\*Reflect on what I've done
+    \*\*There will be times where I feel like I've made no progress or can't really see what I've been working on. This will act as a way for me to see what I've learned - kind of like taking progress pictures when losing weight.
 
-3.  **Help others looking to make a change
-    **While I know this is said a lot, if I can do it you can do it. I, like many others, went to college for something completely unrelated to what I am pursuing now and am so dedicated and passionate about starting this career. Perhaps you just started your own journey or you're thinking about dipping your feet into web programming, either way I hope I can help.
+3.  \*\*Help others looking to make a change
+    \*\*While I know this is said a lot, if I can do it you can do it. I, like many others, went to college for something completely unrelated to what I am pursuing now and am so dedicated and passionate about starting this career. Perhaps you just started your own journey or you're thinking about dipping your feet into web programming, either way I hope I can help.
 
-4.  **Something for future employers
-    **If, by some chance, a future employer is looking at my social media platforms I want them to see this as a sort of time capsule. They can see how I've grown and keep up to date with what I'm working on in a different capacity than GitHub or my portfolio site will allow.
+4.  \*\*Something for future employers
+    \*\*If, by some chance, a future employer is looking at my social media platforms I want them to see this as a sort of time capsule. They can see how I've grown and keep up to date with what I'm working on in a different capacity than GitHub or my portfolio site will allow.
 
 Now that we have that out of the way, let me introduce myself more thoroughly.
 

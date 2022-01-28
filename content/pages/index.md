@@ -59,7 +59,7 @@ sections:
     variant: variant-a
     actions:
       - type: Button
-        label: View All
+        label: view more blogs
         altText: View All Blogs
         url: /blog
         style: primary

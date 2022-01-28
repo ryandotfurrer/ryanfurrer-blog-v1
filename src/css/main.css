@@ -540,7 +540,9 @@ nav > Link {
 }
 
 @media only screen and (max-width: 862px) {
-    
+    @layer base {
+        
+    }
     h1 {
         font-size: 1.802rem;
     }

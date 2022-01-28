@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-002.webp
   altText: 'Desk with phone, notebook, and pencil'
-  caption: ''
+  caption: 'Desk with phone, notebook, and pencil'
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

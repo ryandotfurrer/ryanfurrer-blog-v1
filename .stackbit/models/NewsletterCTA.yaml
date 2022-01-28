@@ -40,7 +40,7 @@ fields:
   - type: string
     name: title
     label: Title
-    default: "Let's do this"
+    default: "Like what you've read?"
   - type: markdown
     name: text
     label: Text

@@ -27,7 +27,6 @@ export default function NewsletterCTA(props) {
                 'sb-component-newsletter-cta',
                 bgSize === 'inset' ? 'flex' : null,
                 bgSize === 'inset' ? mapStyles({ justifyContent: sectionJustifyContent }) : null,
-                sectionStyles.borederRadius || 'rounded-lg',
                 sectionStyles.margin || 'mx-[1rem] mt-[4rem] mb-[2rem]'
             )}
         >
@@ -41,6 +40,7 @@ export default function NewsletterCTA(props) {
                     bgSize === 'inset' ? 'w-full' : null,
                     bgSize === 'inset' ? mapMaxWidthStyles(sectionWidth) : null,
                     mapMinHeightStyles(sectionHeight),
+                    sectionStyles.borederRadius || 'rounded-lg',
                     sectionStyles.padding || 'py-12 px-4',
                     sectionStyles.borderColor,
                     sectionStyles.borderStyle ? mapStyles({ borderStyle: sectionStyles.borderStyle }) : 'border-none',

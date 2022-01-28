@@ -10,6 +10,8 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
+![](/images/blog-003-bc29f04d.webp)
+
 ## New Week === New Start
 
 As I am reviewing this post before publishing it, it is a lovely Monday morning and I am more than ready to get this week underway with learning & practicing more and more skills. Knowing last week was going to be busy I didn't set too many goals but I did achieve the following:

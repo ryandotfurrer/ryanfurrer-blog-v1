@@ -15,7 +15,7 @@
                 "altText": "Go to homepage"
             },
             {
-                "label": "Blogs",
+                "label": "Blog",
                 "altText": "View all Blogs",
                 "url": "/blog",
                 "showIcon": false,

@@ -56,7 +56,7 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-![](/images/blog-003-bc29f04d.webp)
+![Featured image of a latte](/images/blog-003-bc29f04d.webp)
 
 ## New Week === New Start
 

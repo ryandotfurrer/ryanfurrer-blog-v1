@@ -44,7 +44,7 @@ import classNames from 'classnames';
 
 import { mapStylesToClassNames as mapStyles } from '../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../utils/get-data-attrs';
-import Action from '../../atoms/Action';
+import Action from '../atoms/Action';
 
 export default function NewsletterCTA(props) {
     const cssId = props.elementId || null;

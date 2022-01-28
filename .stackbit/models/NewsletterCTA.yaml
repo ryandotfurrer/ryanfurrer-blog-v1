@@ -1,14 +1,14 @@
 # .stackbit/models/NewsletterCTA.yaml
 
-name: NewsletterCTA
-label: Newsletter CTA
-groups:
-  - sectionComponent
-fields:
-  - type: text
-    name: text
-  - type: title
-    name: title
+# name: NewsletterCTA
+# label: Newsletter CTA
+# groups:
+#   - sectionComponent
+# fields:
+#   - type: text
+#     name: text
+#   - type: title
+#     name: title
 
 type: object
 name: CtaSection

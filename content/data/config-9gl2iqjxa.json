@@ -8,7 +8,7 @@
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
-            "url": "https://assets.stackbit.com/components/images/default/default-image.png",
+            "url": "/images/portfolio-image-dark-theme-d155966e.webp",
             "altText": "Your logo image",
             "caption": ""
         },

@@ -92,7 +92,7 @@ fields:
       self:
         height: auto
         width: narrow
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
+        margin: ["mt-12", "mb-8", "ml-4", "mr-4"]
         padding: ['p-9']
         alignItems: center
         justifyContent: center

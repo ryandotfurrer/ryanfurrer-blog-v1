@@ -42,7 +42,7 @@ import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
 
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import { mapStylesToClassNames as mapStyles } from '../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import Action from '../../atoms/Action';
 

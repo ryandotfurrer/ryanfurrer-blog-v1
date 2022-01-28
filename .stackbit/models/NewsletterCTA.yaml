@@ -56,7 +56,7 @@ fields:
     default:
       - type: Button
         label: Subscribe
-        url: '/about'
+        url: 'https://www.getrevue.co/profile/theryanfurrer'
         style: primary
   - type: model
     name: backgroundImage

@@ -1,9 +1,6 @@
 ---
 title: 'Journey to My New Career: Learning & Practicing'
 date: '2019-07-10'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
   url: /images/blog-002.webp

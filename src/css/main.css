@@ -24,7 +24,7 @@ p {
 
 img {
   filter: brightness(.8) saturate(1.25);
-  border-radius: ;
+  border-radius: rounded-lg;
 }
 
 .sb-component-header {

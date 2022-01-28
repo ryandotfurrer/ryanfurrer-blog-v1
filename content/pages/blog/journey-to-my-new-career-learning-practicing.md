@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/blog-002.webp
-  altText: Post thumbnail image
+  altText: 'Desk with phone, notebook, and pencil'
   caption: ''
 bottomSections: []
 layout: PostLayout

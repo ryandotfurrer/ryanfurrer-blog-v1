@@ -3,9 +3,9 @@ title: 'Journey to My New Career: An Introduction'
 date: '2019-07-07'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: ''
+  url: /images/post-001.webp
+  altText: Picture of keyboard
+  caption: Picture of keyboard
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

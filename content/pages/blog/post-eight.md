@@ -37,6 +37,10 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
+  - text: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    type: NewsletterCTA
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---

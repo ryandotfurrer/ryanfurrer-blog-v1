@@ -160,7 +160,6 @@ function ctaBody(props) {
             )}
             {props.text && (
                 <Markdown
-                    # test
                     options={{ forceBlock: true, forceWrapper: true }}
                     className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, { 'mt-4': props.title })}
                     data-sb-field-path=".text"

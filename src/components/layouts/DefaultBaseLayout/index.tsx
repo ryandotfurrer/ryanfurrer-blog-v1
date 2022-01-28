@@ -5,7 +5,7 @@ import classNames from 'classnames';
 import Header from '../../sections/Header';
 import Footer from '../../sections/Footer';
 import NewsletterCTA from '../../sections/NewsletterCTA';
-import newsletterProps from;
+import newsletterProps from '';
 
 export default function DefaultBaseLayout(props) {
     const { page, site, } = props;

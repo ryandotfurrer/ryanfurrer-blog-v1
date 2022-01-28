@@ -11,4 +11,4 @@ const NewsletterCTA = ({ text }) => {
     )
 }
 
-export default newsletterCTA
+export default NewsletterCTA

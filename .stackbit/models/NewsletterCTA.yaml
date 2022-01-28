@@ -55,7 +55,7 @@ fields:
         - Button
     default:
       - type: Button
-        label: Try it now
+        label: Subscribe
         url: '/about'
         style: primary
   - type: model

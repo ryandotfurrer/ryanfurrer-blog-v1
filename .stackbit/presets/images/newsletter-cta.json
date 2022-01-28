@@ -3,7 +3,7 @@
     "presets": [
         {
             "label": "CTA light - button bottom",
-            "thumbnail": "images/cta-light-bottom.png",
+            // "thumbnail": "images/cta-light-bottom.png",
             "data": {
                 "colors": "colors-f",
                 "backgroundImage": null,

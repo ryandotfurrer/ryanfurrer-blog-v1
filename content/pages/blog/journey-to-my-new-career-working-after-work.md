@@ -64,7 +64,10 @@ I also know that I am not alone in working this way. Some people are working 2 j
 
 I wanted to talk a bit about my schedule these days. Perhaps someone is thinking about jumping in but hesitant to because of the time commitment. Perhaps you are learning just like me but struggling to do as much learning as you want. Either way, let's talk about it!
 
-\##Work Schedule##
+![](/images/blog-004\_01.jpeg)
+
+## Work Schedule
+
 I work a modest 8:30am - 5:00pm job. While it pays the bills it is getting harder and harder to actually go to the office every day. Not because it's a difficult job, not because they're not paying me enough for my work, but because I wish I could put those 40 hours a week into my future career.
 
 I'd also like to point out that I am incredibly fortunate to have a 10 - 15 minute commute. This allows me (typically) to achieve something before I even go into the office.

@@ -25,7 +25,8 @@ const NewsletterCTA = ({ text }) => {
                                             <span>Subscribe</span>
                                     </a>
                                 </div>
-                            </div></div></div></div></div></div></div>
+                            </div>
+                            </div></div></div></div></div></div>
     )
 }
 

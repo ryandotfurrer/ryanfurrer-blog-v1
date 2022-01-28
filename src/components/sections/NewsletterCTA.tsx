@@ -1,5 +1,6 @@
 // src/components/sections/NewsletterCTA.tsx
 import React from 'react'
+import { getDataAttrs } from '../../utils/get-data-attrs'
 
 const NewsletterCTA = ({ text }) => {
     return (

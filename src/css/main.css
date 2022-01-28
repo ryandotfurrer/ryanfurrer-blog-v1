@@ -14,10 +14,16 @@
     --accent-dark: #F2AD18;
 }
 
-
+p {
+    font-size: 1.125rem;
+}
 
 img {
   filter: brightness(.8) saturate(1.25);
+}
+
+.sb-component-header {
+    padding-bottom: 1.5rem;
 }
 
 .sb-component-button-primary:hover {
@@ -69,6 +75,30 @@ body {
 #newsletter-cta p,
 #newsletter-cta input > label {
     text-align: left;
+}
+
+.sb-post-layout > article {
+    background-color: var(--bg-secondary);
+    border-radius: .5rem;
+    color: var(--text-primary);
+    /* margin: 48px 16px 32px 16px; */
+    margin: 0 auto;
+    margin-top: 48px;
+    margin-bottom: 32px;
+    max-width: 1080px;
+    padding: 36px;
+}
+
+.sb-post-layout > div[data-sb-field-path="bottomSections"] > div{
+    background-color: var(--bg-primary);
+}
+
+.sb-post-layout > div[data-sb-field-path="bottomSections"] > div > div > div > div> article{
+    background-color: var(--bg-secondary);
+}
+
+.sb-post-layout > div[data-sb-field-path="bottomSections"] > div > div > div > div> article > a > div > div > div > h3{
+    color: var(--text-primary);
 }
 
 @layer base {
@@ -490,5 +520,53 @@ nav > Link {
         .sb-component-item-hover {
             @apply hover:bg-primary hover:text-light;
         }
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+
+  html:focus-within {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@media only screen and (max-width: 862px) {
+    h1 {
+        font-size: 1.802rem !important;
+    }
+
+    h2 {
+        font-size: 1.602rem !important;
+    }
+
+    h3 {
+        font-size: 1.424rem !important;
+    }
+}
+
+@media only screen and (min-width: 863px) {
+    :root {
+        font-size: 18px;
+    }
+
+    h1 {
+        font-size: 1.802rem;
+    }
+
+    h2 {
+        font-size: 1.602rem;
+    }
+
+    h3 {
+        font-size: 1.424rem;
     }
 }

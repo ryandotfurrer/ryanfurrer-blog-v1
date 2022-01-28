@@ -1,6 +1,5 @@
 ---
 layout: PostFeedLayout
-title: Blog
 numOfPostsPerPage: 6
 postFeed:
   showDate: true
@@ -60,7 +59,7 @@ topSections:
           - pr-9
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: row-reverse
       title:
         textAlign: left
       subtitle:

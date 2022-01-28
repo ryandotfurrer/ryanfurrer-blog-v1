@@ -25,7 +25,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/portfolio-image-dark-theme.webp
-      altText: Illustration depicting a blog post
+      altText: Ryan Furrer Logo
       caption: Illustration depicting a blog post
     styles:
       self:

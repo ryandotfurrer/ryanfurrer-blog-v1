@@ -121,7 +121,6 @@ export default function NewsletterCTA(props) {
                     </div>
                 </div>
             </div>
-            <h1>Hello World</h1>
         </div>
 
     );

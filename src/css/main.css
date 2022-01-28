@@ -14,7 +14,7 @@
     --accent-dark: #F2AD18;
 }
 
-html {
+html:focus-wi {
     scroll-behavior: smooth;
 }
 

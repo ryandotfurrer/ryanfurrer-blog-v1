@@ -10,7 +10,7 @@
                 "actions": [
                     {
                         "type": "Button",
-                        "label": "Try it now",
+                        "label": "Subscribe",
                         "url": "/",
                         "style": "primary"
                     }

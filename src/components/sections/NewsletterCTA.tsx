@@ -2,7 +2,7 @@
 import React from 'react'
 import { getDataAttrs } from '../../utils/get-data-attrs'
 
-const NewsletterCTA = ({ text }) => {
+const NewsletterCTA = ({ text, ...props }) => {
     return (
 
         <div {...getDataAttrs(props)} id="newsletter-cta" data-sb-field-path="sections.2" className="sb-component sb-component-section sb-component-cta-section flex justify-center mt-12 mb-6 ml-4 mr-4">

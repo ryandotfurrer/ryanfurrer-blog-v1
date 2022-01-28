@@ -105,10 +105,10 @@ body {
     color: var(--text-primary);
 }
 
-.sb-component-cta-section > div{
+/* .sb-component-cta-section > div{
     background: var(--bg-secondary);
     color: var(--text-primary);
-}
+} */
 
 @layer base {
     body {

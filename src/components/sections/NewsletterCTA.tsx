@@ -24,14 +24,14 @@ const NewsletterCTA = ({ text }) => {
                                         data-sb-field-path=".0 .0.url#@href .0.altText#@aria-label .0.elementId#@id .0.label#span[1] .0.icon#svg[1]">
                                             <span>Subscribe</span>
                                     </a>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</div>
     )
 }
 

@@ -20,6 +20,7 @@ export default function DefaultBaseLayout(props) {
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
                 {props.children}
+                {<}
                 {site.footer && <Footer {...site.footer} annotationPrefix={siteMeta.id} />}
             </div>
         </div>

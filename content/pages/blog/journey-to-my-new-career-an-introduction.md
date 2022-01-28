@@ -10,6 +10,8 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
+![](/images/blog-001.webp)
+
 ## Getting Started
 
 This is it. I decided at the beginning of June 2019 to finally take coding seriously and get to work studying code, practicing what I've learned, and building projects.
@@ -52,7 +54,7 @@ That's where coding comes in. I've always been interested in it and threw around
 
 *   ...Front-End Web Development
 
-I suppose part of my desire to work on the front-end is the ability to create and be imaginative in what I create. 
+I suppose part of my desire to work on the front-end is the ability to create and be imaginative in what I create.
 
 ### What I'm Working On
 
@@ -64,7 +66,6 @@ I often equate learning coding languages to learning music and incorporate simil
 
 ### Let's Wrap This Up
 
-So that's me in a nutshell. I'll probably write another post in the 1st half of this week to bring you all up to speed with what my site looked like before it's redesign this past week. 
+So that's me in a nutshell. I'll probably write another post in the 1st half of this week to bring you all up to speed with what my site looked like before it's redesign this past week.
 
 If you stuck around this long I seriously thank you for reading and hope you'll come back for more!
-

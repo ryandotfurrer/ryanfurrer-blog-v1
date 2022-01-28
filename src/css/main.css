@@ -76,7 +76,7 @@ body {
     color: red;
 }
 
-data-sb-field-path="bottomSections"
+.sb-post-layout > div[data-sb-field-path="bottomSections"
 
 @layer base {
     body {

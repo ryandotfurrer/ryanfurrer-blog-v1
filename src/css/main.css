@@ -84,6 +84,10 @@ body {
     background-color: var(--bg-secondary);
 }
 
+.sb-post-layout > div[data-sb-field-path="bottomSections"] > div > div > div > div> article{
+    background-color: var(--bg-secondary);
+}
+
 @layer base {
     body {
         @apply bg-main text-base;

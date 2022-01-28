@@ -80,6 +80,10 @@ body {
     background-color: var(--bg-primary);
 }
 
+.sb-post-layout > div[data-sb-field-path="bottomSections"] > div{
+    background-color: var(--bg-primary);
+}
+
 @layer base {
     body {
         @apply bg-main text-base;

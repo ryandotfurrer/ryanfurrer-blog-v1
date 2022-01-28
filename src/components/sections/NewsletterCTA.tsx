@@ -23,7 +23,7 @@ export default function NewsletterCTA(props) {
             className={classNames(
                 'sb-component',
                 'sb-component-section',
-                'sb-component-cta-section',
+                'sb-component-newsletter-cta',
                 bgSize === 'inset' ? 'flex' : null,
                 bgSize === 'inset' ? mapStyles({ justifyContent: sectionJustifyContent }) : null,
                 sectionStyles.margin

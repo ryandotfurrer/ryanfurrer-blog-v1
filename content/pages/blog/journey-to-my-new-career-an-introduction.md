@@ -21,6 +21,7 @@ If you care to stick along I'd really appreciate it! I will be writing once a we
 I decided to write about my journey for a few reasons:
 
 1.  \*\*Document what I am working on\*\*
+
     Instead of boring my girlfriend with whatever I am working on that day or week, I thought it better to write it down - think of it almost like a journal! Except for the fact that you don't have to deal with my horrendous handwriting.
 
 2.  \*\*Reflect on what I've done

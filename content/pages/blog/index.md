@@ -34,7 +34,7 @@ topSections:
       Keep up to date with new posts via my newsletter or RSS feed.
     actions:
       - type: Button
-        label: subscribe to newsletter
+        label: Newsletter
         url: 'https://www.getrevue.co/profile/theryanfurrer'
         style: primary
         altText: Subscribe to The Ryan Furrer Newsletter

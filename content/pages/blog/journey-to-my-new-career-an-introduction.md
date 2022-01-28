@@ -56,7 +56,7 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-![](/images/blog-001.webp)
+![Featured Image of a Keyboard](/images/blog-001.webp)
 
 ## Getting Started
 

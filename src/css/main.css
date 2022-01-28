@@ -82,6 +82,7 @@ body {
     border-radius: .5rem;
     color: var(--text-primary);
     margin: 48px 16px 32px 16px;
+    max-width: 1440px;
     padding: 36px;
 }
 

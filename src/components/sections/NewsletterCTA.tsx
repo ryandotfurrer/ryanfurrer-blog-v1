@@ -111,6 +111,7 @@ function ctaBody(props) {
         return null;
     }
     const styles = props.styles || {};
+    const props.title = 'Hello';
     return (
         <div className="w-full lg:flex-grow">
             {props.title && (

@@ -535,4 +535,8 @@ nav > Link {
   }
 }
 
-@media only screen and (min-width: 1023px)
+@media only screen and (min-width: 863px) {
+    * {
+        color: red;
+    }
+}

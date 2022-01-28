@@ -6,7 +6,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/blog-002.webp
   altText: Post thumbnail image
   caption: ''
 bottomSections: []

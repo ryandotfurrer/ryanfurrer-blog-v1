@@ -33,7 +33,7 @@ fields:
     label: Background size
     options:
       - label: Full
-        value: full
+        value: Full
       - label: Inset
         value: inset
     default: full

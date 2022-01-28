@@ -14,7 +14,7 @@ sections:
         style: primary
         showIcon: false
         altText: View all Blogs
-      - label: newsletter
+      - label: Newsletter
         altText: Learn more about my newsletter
         url: '/#newsletter-cta'
         showIcon: false

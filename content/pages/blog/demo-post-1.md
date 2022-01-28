@@ -32,7 +32,6 @@ bottomSections:
           opacity: 100
       type: ImageBlock
     styles:
-      
       self:
         height: auto
         width: narrow

@@ -90,6 +90,7 @@ sections:
     colors: colors-f
     posts:
       - content/pages/blog/demo-post-1.md
+      - content/pages/blog/demo-post-2.md
     type: FeaturedPostsSection
   - elementId: ''
     colors: colors-f

@@ -1,5 +1,5 @@
 {
-    "model": "CtaSection",
+    "model": "newsletter-ctat",
     "presets": [
         {
             "label": "CTA light - button bottom",

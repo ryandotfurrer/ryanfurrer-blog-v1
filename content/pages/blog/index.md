@@ -6,7 +6,7 @@ postFeed:
   showAuthor: false
   showExcerpt: false
   variant: variant-a
-  colors: colors-c
+  colors: colors-f
   styles:
     self:
       width: wide
@@ -21,6 +21,7 @@ postFeed:
         - mb-6
         - mr-4
       borderRadius: medium
+      borderColor: border-secondary
 styles:
   title:
     textAlign: center

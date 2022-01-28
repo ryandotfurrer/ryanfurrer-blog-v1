@@ -88,23 +88,23 @@ export default function NewsletterCTA(props) {
     );
 }
 
-function ctaBackgroundImage(image) {
-    const imageUrl = image.url;
-    if (!imageUrl) {
-        return null;
-    }
-    const imageStyles = image.styles?.self || {};
-    const imageOpacity = imageStyles.opacity || imageStyles.opacity === 0 ? imageStyles.opacity : 100;
-    return (
-        <div
-            className="bg-cover bg-center block absolute inset-0"
-            style={{
-                backgroundImage: `url('${imageUrl}')`,
-                opacity: imageOpacity * 0.01
-            }}
-        />
-    );
-}
+// function ctaBackgroundImage(image) {
+//     const imageUrl = image.url;
+//     if (!imageUrl) {
+//         return null;
+//     }
+//     const imageStyles = image.styles?.self || {};
+//     const imageOpacity = imageStyles.opacity || imageStyles.opacity === 0 ? imageStyles.opacity : 100;
+//     return (
+//         <div
+//             className="bg-cover bg-center block absolute inset-0"
+//             style={{
+//                 backgroundImage: `url('${imageUrl}')`,
+//                 opacity: imageOpacity * 0.01
+//             }}
+//         />
+//     );
+// }
 
 function ctaBody(props) {
     if (!props.title && !props.text) {

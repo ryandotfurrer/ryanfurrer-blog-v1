@@ -5,7 +5,6 @@ import classNames from 'classnames';
 import Header from '../../sections/Header';
 import Footer from '../../sections/Footer';
 import NewsletterCTA from '../../sections/NewsletterCTA';
-import newsletterProps from '../../../../.stackbit/models/NewsletterCTA';
 
 export default function DefaultBaseLayout(props) {
     const { page, site, } = props;

@@ -11,4 +11,4 @@ const newsletterCTA = ({ text }) => {
   )
 }
 
-export default AlertSection
+export default newsletterCTA

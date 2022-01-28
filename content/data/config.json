@@ -74,8 +74,7 @@
                     "opacity": 100
                 }
             },
-            "type": "ImageBlock",
-            "url": "/images/dianne-ameter.jpg"
+            "type": "ImageBlock"
         }
     },
     "footer": {

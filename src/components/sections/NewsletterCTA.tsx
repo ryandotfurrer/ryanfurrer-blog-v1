@@ -27,7 +27,7 @@ export default function NewsletterCTA(props) {
                 'sb-component-newsletter-cta',
                 bgSize === 'inset' ? 'flex' : null,
                 bgSize === 'inset' ? mapStyles({ justifyContent: sectionJustifyContent }) : null,
-                sectionStyles.margin || 'm'
+                sectionStyles.margin || 'm-[16rem]'
             )}
         >
             <div

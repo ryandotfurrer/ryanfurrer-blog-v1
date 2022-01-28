@@ -128,7 +128,7 @@ sections:
           - pl-9
           - pr-9
         alignItems: center
-        justifyContent: flex-start
+        justifyContent: flex-end
         flexDirection: col
         borderRadius: none
         borderWidth: 0

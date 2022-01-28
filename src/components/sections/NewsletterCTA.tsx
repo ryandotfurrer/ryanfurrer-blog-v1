@@ -151,6 +151,7 @@ function ctaBody(props) {
     }
     const styles = props.styles || {};
     return (
+        <h1>Hello World</h1>
         <div className="w-full lg:flex-grow">
             {props.title && (
                 <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">

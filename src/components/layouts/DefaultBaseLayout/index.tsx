@@ -7,7 +7,7 @@ import Footer from '../../sections/Footer';
 import NewsletterCTA from '../../sections/NewsletterCTA';
 
 export default function DefaultBaseLayout(props) {
-    const { page, site } = props;
+    const { page, site, NewsletterCTA } = props;
     const siteMeta = site?.__metadata || {};
     const pageMeta = page?.__metadata || {};
     return (

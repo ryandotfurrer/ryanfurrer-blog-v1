@@ -24,10 +24,6 @@ bottomSections:
         url: 'https://assets.stackbit.com/components/images/default/image-3.jpeg'
         altText: Image three
         caption: Image three caption
-      - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-4.jpeg'
-        altText: Image four
-        caption: Image four caption
     spacing: 1
     columns: 4
     aspectRatio: '16:9'

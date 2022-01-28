@@ -76,7 +76,7 @@ body {
     color: red;
 }
 
-.sb-post-layout > div[data-sb-field-path="bottomSections"]{
+.sb-post-layout > div[data-sb-field-path="bottomSections"] > {
     background-color: var(--bg-primary);
 }
 

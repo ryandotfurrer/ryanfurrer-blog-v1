@@ -1,7 +1,7 @@
 # .stackbit/models/NewsletterCTA.yaml
 
 name: NewsletterCTA
-label: Alert Section
+label: Newsletter CTA
 groups:
   - sectionComponent
 fields:

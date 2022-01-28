@@ -4,7 +4,7 @@ date: '2019-07-17'
 featuredImage:
   type: ImageBlock
   url: /images/blog-004.webp
-  altText: Post thumbnail image
+  altText: Gloomy picture of table at coffee bar with laptop and notepad
   caption: ''
 bottomSections: []
 layout: PostLayout

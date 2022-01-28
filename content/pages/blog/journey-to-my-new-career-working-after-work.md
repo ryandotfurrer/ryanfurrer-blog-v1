@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-004.webp
   altText: Gloomy picture of table at coffee bar with laptop and notepad
-  caption: ''
+  caption: Gloomy picture of table at coffee bar with laptop and notepad
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

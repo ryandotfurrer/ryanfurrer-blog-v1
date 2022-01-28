@@ -22,7 +22,7 @@ img {
   filter: brightness(.8) saturate(1.25);
 }
 
-.header {
+header {
     padding-bottom: 5rem;
 }
 

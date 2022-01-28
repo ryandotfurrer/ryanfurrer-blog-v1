@@ -547,16 +547,16 @@ nav > Link {
     :root {
         font-size: 18px;
     }
-    
-  h1 {
-    font-size: 1.802rem;
-  }
 
-  h2 {
-    font-size: 1.602rem;
-  }
+    h1 {
+        font-size: 1.802rem;
+    }
 
-  h3 {
-    font-size: 1.424rem;
-  }
+    h2 {
+        font-size: 1.602rem;
+    }
+
+    h3 {
+        font-size: 1.424rem;
+    }
 }

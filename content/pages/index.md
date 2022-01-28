@@ -105,6 +105,9 @@ sections:
         label: Subscribe
         url: 'https://www.getrevue.co/profile/theryanfurrer'
         style: primary
+    backgroundImage:
+      altText: altText of the image
+      caption: Caption of the image
       elementId: ''
       styles:
         self:

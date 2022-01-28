@@ -8,7 +8,7 @@ import Action from '../atoms/Action';
 
 export default function NewsletterCTA(props) {
     const cssId = props.elementId || null;
-    const colors = props.colors || 'colors-b';
+    const colors = props.colors || 'colors-c';
     const bgSize = props.backgroundSize || 'full';
     const sectionStyles = props.styles?.self || {};
     const sectionWidth = sectionStyles.width || 'wide';

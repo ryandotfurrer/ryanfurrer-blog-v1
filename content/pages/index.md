@@ -93,7 +93,7 @@ sections:
       - content/pages/blog/demo-post-2.md
       - content/pages/blog/demo-post-3.md
     type: FeaturedPostsSection
-  - elementId: ''
+  - elementId: newsletter-cta
     colors: colors-f
     backgroundSize: inset
     title: Like what you've read?

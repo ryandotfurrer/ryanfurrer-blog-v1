@@ -18,12 +18,6 @@ p {
     font-size: 1.125rem;
 }
 
-@media screen only and (min-width: 836px) {
-    * {
-        color: red;
-    }
-}
-
 img {
   filter: brightness(.8) saturate(1.25);
 }

@@ -149,7 +149,6 @@ function ctaBody(props) {
         return null;
     }
     const styles = props.styles || {};
-    let props.text = 'this is a test';
     return (
         <div className="w-full lg:flex-grow">
 

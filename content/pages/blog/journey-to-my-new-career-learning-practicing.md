@@ -10,6 +10,8 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
+![](/images/blog-002-3dac52a2.webp)
+
 In today's entry I wanted to share how I learn and how I practice those things so I can say I've truly learned something.
 
 Does this mean I don't forget anything? Of course not! However, I feel that these skills are something not taught or spoken about often enough.

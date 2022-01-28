@@ -5,7 +5,7 @@
             "label": "CTA light - button bottom",
             "thumbnail": "images/cta-light-bottom.png",
             "data": {
-                "colors": "colors-a",
+                "colors": "colors-f",
                 "backgroundImage": null,
                 "actions": [
                     {

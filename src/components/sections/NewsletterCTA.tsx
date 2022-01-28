@@ -11,7 +11,7 @@ export default function NewsletterCTA(props) {
     const colors = props.colors || 'colors-f';
     const bgSize = props.backgroundSize || 'inset';
     const sectionStyles = props.styles?.self || {};
-    const sectionWidth = sectionStyles.width || 'narrow';
+    const sectionWidth = sectionStyles.width || 'wide';
     const sectionHeight = sectionStyles.height || 'auto';
     const sectionJustifyContent = sectionStyles.justifyContent || 'center';
     const sectionFlexDirection = sectionStyles.flexDirection || 'row';

@@ -14,10 +14,6 @@
     --accent-dark: #F2AD18;
 }
 
-p {
-    font-size: 20px;
-}
-
 
 img {
   filter: brightness(.8) saturate(1.25);

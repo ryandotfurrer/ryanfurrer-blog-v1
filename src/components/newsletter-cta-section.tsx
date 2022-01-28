@@ -1,4 +1,4 @@
-// src/components/sections/AlertSection.tsx
+// src/components/sections/newsletter-cta-section.tsx
 import React from 'react'
 
 const AlertSection = ({ text }) => {

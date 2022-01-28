@@ -24,7 +24,7 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/home-header-image.png
+      url: /images/portfolio-image-dark-theme.webp
       altText: Illustration depicting a blog post
       caption: Illustration depicting a blog post
     styles:

@@ -106,7 +106,7 @@ body {
 }
 
 .sb-component-cta-section > div{
-    background: red;
+    background: --
 }
 
 @layer base {

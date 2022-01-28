@@ -27,7 +27,7 @@ export default function NewsletterCTA(props) {
                 'sb-component-newsletter-cta',
                 bgSize === 'inset' ? 'flex' : null,
                 bgSize === 'inset' ? mapStyles({ justifyContent: sectionJustifyContent }) : null,
-                sectionStyles.boreder-radius || 'rounded-lg',
+                sectionStyles.borederRadius || 'rounded-lg',
                 sectionStyles.margin || 'mx-[1rem] mt-[4rem] mb-[2rem]'
             )}
         >

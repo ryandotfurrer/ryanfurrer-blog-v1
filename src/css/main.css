@@ -81,7 +81,7 @@ body {
 }
 
 .sb-post-layout > div[data-sb-field-path="bottomSections"] > div > div > div > div> article{
-    background-color: red;
+    background-color: var(--bg-secondary);
 }
 
 @layer base {

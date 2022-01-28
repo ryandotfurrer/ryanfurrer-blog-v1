@@ -20,7 +20,8 @@ const NewsletterCTA = ({ text }) => {
                                     <a 
                                         href="https://www.getrevue.co/profile/theryanfurrer/" 
                                         aria-label="Subscribe to The Ryan Furrer Newsletter" 
-                                        className="sb-component sb-component-block sb-component-button mb-3 mx-2 lg:whitespace-nowrap sb-component-button-primary" data-sb-field-path=".0 .0.url#@href .0.altText#@aria-label .0.elementId#@id .0.label#span[1] .0.icon#svg[1]"><span>Subscribe</span></a></div></div></div></div></div></div></div></div>
+                                        className="sb-component sb-component-block sb-component-button mb-3 mx-2 lg:whitespace-nowrap sb-component-button-primary" 
+                                        data-sb-field-path=".0 .0.url#@href .0.altText#@aria-label .0.elementId#@id .0.label#span[1] .0.icon#svg[1]"><span>Subscribe</span></a></div></div></div></div></div></div></div></div>
     )
 }
 

@@ -5,7 +5,7 @@ import { getDataAttrs } from '../../utils/get-data-attrs'
 const NewsletterCTA = ({ text }) => {
     return (
 
-        <div {...getDataAttrs(props)}  id="newsletter-cta" data-sb-field-path="sections.2" className="sb-component sb-component-section sb-component-cta-section flex justify-center mt-12 mb-6 ml-4 mr-4">
+        <div {...getDataAttrs(props)} id="newsletter-cta" data-sb-field-path="sections.2" className="sb-component sb-component-section sb-component-cta-section flex justify-center mt-12 mb-6 ml-4 mr-4">
             <div className="colors-f flex flex-col justify-center relative w-full max-w-screen-md pt-9 pb-9 pl-9 pr-9 border-none rounded-lg">
                 <div className="relative w-full"><div className="w-full">
                     <div className="flex flex-col items-center space-y-8">

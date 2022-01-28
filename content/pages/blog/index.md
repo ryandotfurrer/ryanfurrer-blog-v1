@@ -96,7 +96,7 @@ bottomSections:
         height: auto
         width: narrow
         margin:
-          - mt-4
+          - mt-12
           - mb-4
           - ml-4
           - mr-4

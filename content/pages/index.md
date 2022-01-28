@@ -119,7 +119,7 @@ sections:
         width: narrow
         margin:
           - mt-12
-          - mb-0
+          - mb-8
           - ml-0
           - mr-0
         padding:

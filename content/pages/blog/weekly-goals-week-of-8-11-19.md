@@ -4,7 +4,7 @@ date: '2019-08-12'
 featuredImage:
   type: ImageBlock
   url: /images/blog-012.jpeg
-  altText: Post thumbnail image
+  altText: Dark desk with a page titled "Goal Review"
   caption: ''
 bottomSections: []
 layout: PostLayout

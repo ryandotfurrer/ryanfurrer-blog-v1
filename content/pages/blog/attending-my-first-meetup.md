@@ -4,7 +4,7 @@ date: '2019-08-01'
 featuredImage:
   type: ImageBlock
   url: /images/blog-009.jpeg
-  altText: Post thumbnail image
+  altText: Classroom of people with a presentation
   caption: ''
 bottomSections: []
 layout: PostLayout

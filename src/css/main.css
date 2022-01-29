@@ -119,6 +119,10 @@ body {
     color: var(--text-secondary);
 }
 
+code {
+    background-color: black;
+}
+
 #revue-embed form div input {
   border-radius: 0.5rem;
   border: none;

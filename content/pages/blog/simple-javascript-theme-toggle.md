@@ -136,7 +136,7 @@ This sets the default theme to whatever is defined in our `.light` class. If you
 
 ### CSS
 
-There are a few steps involved in setting up the CSS. The first step is defining our CSS Variables in the `:root` psudo-class. The reason for this is so that you don't have to repeat the variable in different elements on the page. When you declare them in :root every element has access to them.
+There are a few steps involved in setting up the CSS. The first step is defining our CSS Variables in the `:root` psudo-class. The reason for this is so that you don't have to repeat the variable in different elements on the page. When you declare them in `:root` every element has access to them.
 
 ```
 /*--------------------Reusable Variables--------------------*/

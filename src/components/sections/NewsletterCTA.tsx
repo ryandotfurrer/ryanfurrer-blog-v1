@@ -127,6 +127,7 @@ function ctaBody(props) {
                                         }
                                         {
                                             props.text && (
+                                                <div>
                                                 <Markdown
                                                     options={{ forceBlock: true, forceWrapper: true }}
                                                     className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, { 'mt-4': props.title })}

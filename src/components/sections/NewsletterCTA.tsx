@@ -118,7 +118,7 @@ function ctaBody(props) {
                     <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                         {props.title}
                     </h2>
-                    var NewComponent = React.createClass({
+                    let NewComponent = React.createClass({
                         render: function() {
                             return (
 

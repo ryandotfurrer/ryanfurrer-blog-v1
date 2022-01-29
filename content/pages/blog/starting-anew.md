@@ -4,7 +4,7 @@ date: '2020-05-17'
 featuredImage:
   type: ImageBlock
   url: /images/blog-019.jpeg
-  altText: Post thumbnail image
+  altText: 'Table with laptop, headphones, smartwatch, and smartphone'
   caption: ''
 bottomSections: []
 layout: PostLayout

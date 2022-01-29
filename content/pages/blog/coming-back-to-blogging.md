@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-017.jpeg
   altText: Dark wood desk with modern white and black chair and Macbook
-  caption: ''
+  caption: Dark wood desk with modern white and black chair and Macbook
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

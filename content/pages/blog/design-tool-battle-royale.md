@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-008.webp
   altText: 'Logos for Sketch, Figma, and Adobe XD'
-  caption: ''
+  caption: 'Logos for Sketch, Figma, and Adobe XD'
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

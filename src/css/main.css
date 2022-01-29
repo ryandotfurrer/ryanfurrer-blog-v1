@@ -151,6 +151,10 @@ body {
   margin-bottom: 1.5rem;
 }
 
+.light-font {
+    color: red;
+}
+
 @layer base {
     body {
         @apply bg-main text-base;

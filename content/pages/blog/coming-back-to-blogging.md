@@ -3,7 +3,7 @@ title: Coming back to Blogging
 date: '2020-01-09'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/blog-017.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []

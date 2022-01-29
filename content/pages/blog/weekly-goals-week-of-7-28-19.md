@@ -4,7 +4,7 @@ date: '2019-07-28'
 featuredImage:
   type: ImageBlock
   url: /images/blog-007.webp
-  altText: Post thumbnail image
+  altText: 'Wood desk littered with desk items like notebook, pencil, and laptop'
   caption: ''
 bottomSections: []
 layout: PostLayout

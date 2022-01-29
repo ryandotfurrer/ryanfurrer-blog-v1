@@ -56,6 +56,8 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
+![](/images/blog-024.png)
+
 Welcome to the 3rd installment in my "Weekly Summary" series where I provide quick recaps for what I worked on the previous week to help keep myself accountable.
 
 First, let's go over my weekly schedule:

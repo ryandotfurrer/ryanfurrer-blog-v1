@@ -4,7 +4,7 @@ date: '2021-06-15'
 featuredImage:
   type: ImageBlock
   url: /images/blog-021.png
-  altText: Post thumbnail image
+  altText: '#100DaysOfCode'
   caption: ''
 bottomSections: []
 layout: PostLayout

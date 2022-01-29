@@ -4,7 +4,7 @@ date: '2021-06-27'
 featuredImage:
   type: ImageBlock
   url: /images/blog-022.webp
-  altText: Post thumbnail image
+  altText: 'Weekly Summary: 6/20 - 6/26'
   caption: ''
 bottomSections: []
 layout: PostLayout

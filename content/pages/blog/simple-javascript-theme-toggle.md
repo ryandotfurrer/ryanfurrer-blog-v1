@@ -66,7 +66,7 @@ This is my first JavaScript success story but, for those of you that are looking
 
 Best of all, it includes minimal JavaScript so anyone should be able to use it.
 
-```
+```js
 var body = document.querySelector('body');
 var bodyClass = body.classList;
 var themeToggle = document.querySelector('#theme-toggle');
@@ -129,7 +129,9 @@ Anywhere in the document I put `var(--light-theme-text-color);` it will take on 
 
 First off, we need to apply a class of light to our body tag:
 
-    <body class="light">
+```
+<body class="light">
+```
 
 This sets the default theme to whatever is defined in our `.light` class. If you want the default theme to be dark, just change it to `<body class="dark">`.
 
@@ -213,23 +215,14 @@ themeToggle.addEventListener('click', () => {
 
 The function listens for a click on the `themeToggle` button - the one that reads "Change Theme" on the website
 
-
-
 Upon the button being clicked it first identifies the classes of the element it is attached to. Followed by .toggle it then toggles (surprise) the specified class onto said element. It toggles between the light and dark classes.
-
-
 
 ## Wrapping Up
 
 Here's a summary of the steps needed to apply ezToggle to your website:
-
-
 
 I hope you enjoyed and understood my first technical blog. I'm looking forward to doing more of these in the future.
 
 If you have any questions or issues using ezToggle please don't hesitate to reach out to me via twitter or [my website](https://theryanfurrer.dev/contact).
 
 ### References
-
-
-

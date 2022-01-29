@@ -161,7 +161,7 @@ There are a few steps involved in setting up the CSS. The first step is defining
 }
 ```
 
-Next I created some classes for each theme. This included a general .light and .dark theme for the body, as well as a btn-light and .btn-dark, and .footer-light and .footer-dark.
+Next I created some classes for each theme. This included a general `.light` and `.dark` theme for the body, as well as a `btn-light` and `.btn-dark`, and `.footer-light` and `.footer-dark`.
 
 ```
 /*--------------------Light Theme Styles (Default)--------------------*/
@@ -216,7 +216,7 @@ The function listens for a click on the `themeToggle` button - the one that read
 
 ![](/images/blog-11\_01.png)
 
-Upon the button being clicked it first identifies the classes of the element it is attached to. Followed by .toggle it then toggles (surprise) the specified class onto said element. It toggles between the light and dark classes.
+Upon the button being clicked it first identifies the classes of the element it is attached to. Followed by `.toggle` it then toggles (surprise) the specified class onto said element. It toggles between the light and dark classes.
 
 ![](/images/CleanShot%202022-01-29%20at%2012.55.05.gif)
 
@@ -224,9 +224,9 @@ Upon the button being clicked it first identifies the classes of the element it 
 
 Here's a summary of the steps needed to apply ezToggle to your website:
 
-1.  Apply light or dark class to \`body\` in your HTML
+1.  Apply light or dark class to `<body>` in your HTML
 
-2.  Define your CSS variables in the :root pseudo-class. Make sure you change, add, or remove any colors you need for your theme.
+2.  Define your CSS variables in the `:root` pseudo-class. Make sure you change, add, or remove any colors you need for your theme.
 
 3.  Create, add, or remove any necessary classes for your themes and any items getting themed.
 

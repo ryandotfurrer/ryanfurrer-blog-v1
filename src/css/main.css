@@ -132,7 +132,7 @@ body {
 }
 
 #revue-embed form div #member_submit {
-  background-color: var(--text-secondary);
+  background-color: var(--accent-secondary);
   border-radius: 5em;
   color: var(--bg-primary);
   cursor: pointer;

@@ -155,7 +155,7 @@ body {
 }
 
 #revue-embed .revue-form-footer > p > small > a {
-    color: var(--text-primary);
+    /* color: var(--text-primary); */
     text-decoration: underline;
 }
 

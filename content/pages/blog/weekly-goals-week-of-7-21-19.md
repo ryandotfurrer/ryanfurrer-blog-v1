@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-005.webp
   altText: Open journal with pencil on top
-  caption: ''
+  caption: Open journal with pencil on top
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

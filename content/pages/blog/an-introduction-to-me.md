@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-020.png
   altText: An Introduction to Me
-  caption: ''
+  caption: An Introduction to Me
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

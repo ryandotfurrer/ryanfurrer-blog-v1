@@ -146,10 +146,10 @@ body {
   background-color: var(--accent-dark);
 }
 
-/* #revue-embed .revue-form-footer > p {
+#revue-embed .revue-form-footer > p {
   line-height: 1;
-  margin-bottom: 1.5rem;
-} */
+  /* margin-bottom: 1.5rem; */
+}
 
 .light-font {
     color: var(--text-secondary);

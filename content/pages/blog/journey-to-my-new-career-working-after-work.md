@@ -135,6 +135,12 @@ If you depend on motivation to get shit done, you'll never get it done. Motivati
 
 My motivation is currently:
 
+*   Enjoying my career
+
+*   Creating a better life for myself and my girlfriend
+
+*   Making more money
+
 ![](/images/blog-004\_04.png)
 
 I've been reading Atomic Habits by James Clear lately and the quote below (and at the top of this post) struck quite the chord with me.

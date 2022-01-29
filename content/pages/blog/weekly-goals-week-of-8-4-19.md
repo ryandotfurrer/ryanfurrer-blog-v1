@@ -4,7 +4,7 @@ date: '2019-08-06'
 featuredImage:
   type: ImageBlock
   url: /images/blog-010.webp
-  altText: Note
+  altText: To-do list
   caption: ''
 bottomSections: []
 layout: PostLayout

@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-021.png
   altText: '#100DaysOfCode'
-  caption: ''
+  caption: '#100DaysOfCode'
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

@@ -4,7 +4,7 @@ date: '2019-08-06'
 featuredImage:
   type: ImageBlock
   url: /images/blog-010.webp
-  altText: Post thumbnail image
+  altText: Note
   caption: ''
 bottomSections: []
 layout: PostLayout

@@ -62,7 +62,7 @@ author: content/data/team/person-p8afuy38p.json
 
 [Sketch](https://www.sketch.com/), [Figma](https://www.figma.com/), and [Adobe XD ](https://www.adobe.com/products/xd.html)- in my head these are the “Big 3,” so to speak.
 
-\*\*What do all of these applications have in common?\*\*
+**What do all of these applications have in common?**
 
 They are design tools that can create prototypes and design boards for websites and applications.
 

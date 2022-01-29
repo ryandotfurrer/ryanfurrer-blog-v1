@@ -115,6 +115,53 @@ body {
     color: var(--text-primary);
 } */
 
+#revue-embed form div label {
+    color: var(--text-secondary);
+}
+
+#revue-embed form div input {
+  border-radius: 0.5rem;
+  border: none;
+  margin-top: 0.75rem;
+  margin-bottom: 1.5rem;
+  padding: 2rem;
+  font-size: inherit;
+  color: var(--bg-primary);
+  background-color: var(--text-secondary);
+  width: 100%;
+}
+
+#revue-embed form div #member_submit {
+  background-color: var(--accent);
+  border-radius: 5em;
+  color: var(--bg-primary);
+  cursor: pointer;
+  -webkit-transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease;
+  padding: 0;
+  padding: 0.75em 1.5em;
+}
+
+#revue-embed form div #member_submit:hover {
+  background-color: var(--accent-dark);
+}
+
+#revue-embed .revue-form-footer > p {
+  line-height: 1;
+}
+
+#revue-embed .revue-form-footer > p > small {
+  line-height: 1;
+}
+
+#revue-embed .revue-form-footer > p > small > a {
+    text-decoration: underline;
+}
+
+.light-font {
+    color: var(--text-secondary);
+}
+
 @layer base {
     body {
         @apply bg-main text-base;

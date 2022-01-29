@@ -85,18 +85,19 @@ Other commitments such as family, maintaining my relationship, my dogs (as seen 
 Enjoy your life. As much as I just want to have a web development job already I'd rather be happy along the way - it's all about balance.
 
 ## Taking Breaks
+
 Everyone needs a break now and then. I'll be honest, sometimes I feel guilty for not coding regardless of how important it is to take some time off. If I'm sitting down to code for 2 hours, it's more like 1 hour and 40 minutes.
 
 I'm a firm believer in the Pomodoro Technique and if you feel you are struggling with productivity and efficiency with your time, I highly suggest you try it out. I personally use an app called Tide (available on both iOS and Android) to help keep track of my Pomodoros.
 
 Longer breaks are a good thing too! I usually take at least 1 day off each week which leads me to the Two Day Rule.
 
-\###Two Day Rule###
+### Two Day Rule
 The Two Day Rule is very simple: Never take two days off in a row.
 
 I personally know that if I take more than one day off in a row, those 2 days can quickly & easily turn into 3, 4, 5, or more days off. That simply cannot happen on this journey.
 
-\##Motivation##
+## Motivation
 The feeling of motivation can be incredibly powerful. Without motivation, we may never had made it to the moon. Without motivation, Arnold Schwarzenegger may not have created the physique he did. Without motivation, I would not have started working towards this new career.
 
 Motivation is wonderful tool - but that's all it should be treated as, a tool.
@@ -107,11 +108,9 @@ My motivation is currently:
 
 I've been reading Atomic Habits by James Clear lately and the quote below (and at the top of this post) struck quite the chord with me.
 
->
+> Don't let lack of motivation keep you from working towards your goals. If you wait for motivation to start losing weight, start learning code, whatever you want to do, it'll never happen. Just do it.
 
-Don't let lack of motivation keep you from working towards your goals. If you wait for motivation to start losing weight, start learning code, whatever you want to do, it'll never happen. Just do it.
-
-\##Grind Mentality##
+## Grind Mentality
 Grind mentality is not a smart mentality.
 
 Yes, everyone should be able to work hard and push through challenges when they need to, however, the belief that you need to grind 24/7 like all these "influencers" on Instagram and YouTube do in order to be successful is ridiculous.

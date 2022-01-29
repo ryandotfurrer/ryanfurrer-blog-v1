@@ -118,71 +118,91 @@ function ctaBody(props) {
                     <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                         {props.title}
                     </h2>
-                )
-            }
+                    <div id="revue-embed">
+                        <form action="https://www.getrevue.co/profile/theryanfurrer/add_subscriber" method="post" id="revue-form" name="revue-form" target="_blank">
+                            <div class="revue-form-group">
+                                <label for="member_email">Email address</label>
+                                <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
+  </div>
+                                <div class="revue-form-group">
+                                    <label for="member_first_name">First name <span class="optional">(Optional)</span></label>
+                                    <input class="revue-form-field" placeholder="First name... (Optional)" type="text" name="member[first_name]" id="member_first_name">
+  </div>
+                                    <div class="revue-form-group">
+                                        <label for="member_last_name">Last name <span class="optional">(Optional)</span></label>
+                                        <input class="revue-form-field" placeholder="Last name... (Optional)" type="text" name="member[last_name]" id="member_last_name">
+  </div>
+                                        <div class="revue-form-actions">
+                                            <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
+  </div>
+                                            <div class="revue-form-footer">By subscribing, you agree with Revue’s <a target="_blank" href="https://www.getrevue.co/terms">Terms of Service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.</div>
+  </form>
+                                    </div>
+                                    )
+                                }
             {
-                props.text && (
-                    <Markdown
-                        options={{ forceBlock: true, forceWrapper: true }}
-                        className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, { 'mt-4': props.title })}
-                        data-sb-field-path=".text"
-                    >
-                        {props.text}
-                    </Markdown>
-                )
-            }
-        </div >
-    );
-}
-
+                                        props.text && (
+                                            <Markdown
+                                                options={{ forceBlock: true, forceWrapper: true }}
+                                                className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, { 'mt-4': props.title })}
+                                                data-sb-field-path=".text"
+                                            >
+                                                {props.text}
+                                            </Markdown>
+                                        )
+                                    }
+                                </div >
+                                );
+                            }
+                            
 function ctaActions(props) {
     const actions = props.actions || [];
     if (actions.length === 0) {
         return null;
-    }
+                            }
     const styles = props.styles || {};
-    return (
+                                return (
         <div className={classNames('w-full', styles.self?.flexDirection === 'row' ? 'lg:w-auto' : null)}>
-            <div className="overflow-x-hidden">
-                <div
-                    className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', 'lg:flex-nowrap', styles.actions ? mapStyles(styles.actions) : null)}
-                    data-sb-field-path=".actions"
-                >
-                    {actions.map((action, index) => (
-                        <Action key={index} {...action} className="mb-3 mx-2 lg:whitespace-nowrap" data-sb-field-path={`.${index}`} />
-                    ))}
-                </div>
-            </div>
-        </div>
-    );
-}
-
+                                    <div className="overflow-x-hidden">
+                                        <div
+                                            className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', 'lg:flex-nowrap', styles.actions ? mapStyles(styles.actions) : null)}
+                                            data-sb-field-path=".actions"
+                                        >
+                                            {actions.map((action, index) => (
+                                                <Action key={index} {...action} className="mb-3 mx-2 lg:whitespace-nowrap" data-sb-field-path={`.${index}`} />
+                                            ))}
+                                        </div>
+                                    </div>
+                                </div>
+                                );
+                            }
+                            
 function mapMinHeightStyles(height) {
     switch (height) {
         case 'screen':
-            return 'min-h-screen';
-    }
-    return null;
-}
-
+                                    return 'min-h-screen';
+                            }
+                            return null;
+                        }
+                        
 function mapMaxWidthStyles(width) {
     switch (width) {
         case 'narrow':
-            return 'max-w-screen-md';
-        case 'wide':
-            return 'max-w-screen-xl';
-        case 'full':
-            return 'max-w-full';
-    }
-    return null;
-}
-
+                                    return 'max-w-screen-md';
+                                case 'wide':
+                                    return 'max-w-screen-xl';
+                                case 'full':
+                                    return 'max-w-full';
+                            }
+                            return null;
+                        }
+                        
 function mapFlexDirectionStyles(flexDirection) {
     switch (flexDirection) {
         case 'row':
-            return ['flex-col', 'lg:flex-row', 'lg:justify-between'];
-        case 'col':
-            return ['flex-col'];
-    }
-    return null;
-}
+                                    return ['flex-col', 'lg:flex-row', 'lg:justify-between'];
+                                case 'col':
+                                    return ['flex-col'];
+                            }
+                            return null;
+                        }

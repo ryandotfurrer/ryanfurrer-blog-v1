@@ -4,7 +4,7 @@ date: '2021-06-18'
 featuredImage:
   type: ImageBlock
   url: /images/blog-020.png
-  altText: Post thumbnail image
+  altText: An Introduction to Me
   caption: ''
 bottomSections: []
 layout: PostLayout

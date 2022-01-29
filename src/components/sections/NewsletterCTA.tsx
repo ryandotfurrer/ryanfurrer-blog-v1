@@ -188,7 +188,7 @@ function ctaBody(props) {
                                                 href="https://www.getrevue.co/privacy"
                                                 rel="noopener noreferrer"
                                             >
-                                                 Privacy Policy
+                                                Privacy Policy
                                     </a>
                                             . Powered by
                                     <a

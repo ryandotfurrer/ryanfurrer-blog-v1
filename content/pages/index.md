@@ -131,7 +131,7 @@ sections:
         borderRadius: none
         borderWidth: 1
         borderStyle: none
-        borderColor: border-dark
+        borderColor: border-primary
       title:
         textAlign: left
       text:

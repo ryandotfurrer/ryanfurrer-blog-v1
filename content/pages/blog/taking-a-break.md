@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-015.jpeg
   altText: Top-down view of a closed silver macbook on a dark wood table
-  caption: ''
+  caption: Top-down view of a closed silver macbook on a dark wood table
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

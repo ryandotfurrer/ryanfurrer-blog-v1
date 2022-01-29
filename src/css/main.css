@@ -120,7 +120,7 @@ body {
 }
 
 pre {
-    background-color: red;
+    background-color: var(--bg-primary);
 }
 
 code {

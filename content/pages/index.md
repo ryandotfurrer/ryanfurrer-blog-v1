@@ -129,7 +129,7 @@ sections:
         justifyContent: center
         flexDirection: col
         borderRadius: none
-        borderWidth: 1
+        borderWidth: 5
         borderStyle: none
         borderColor: border-primary
       title:

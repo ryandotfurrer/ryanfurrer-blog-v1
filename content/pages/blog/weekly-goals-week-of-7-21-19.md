@@ -3,7 +3,7 @@ title: Weekly Goals - Week of 7/21/19
 date: '2019-07-21'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/blog-005.webp
   altText: Post thumbnail image
   caption: ''
 bottomSections: []

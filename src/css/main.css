@@ -115,7 +115,37 @@ body {
     color: var(--text-primary);
 } */
 
+#footer .footer-container #newsletter #revue-embed form div input {
+  border-radius: 0.5rem;
+  border: none;
+  margin-top: 0.75rem;
+  margin-bottom: 1.5rem;
+  padding: 2rem;
+  font-size: inherit;
+  color: var(--text-primary);
+  background-color: var(--bg-secondary);
+  width: 100%;
+}
 
+#footer .footer-container #newsletter #revue-embed form div #member_submit {
+  background-color: var(--text-secondary);
+  border-radius: 5em;
+  color: var(--bg-primary);
+  cursor: pointer;
+  -webkit-transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease;
+  padding: 0;
+  padding: 0.75em 1.5em;
+}
+
+#footer .footer-container #newsletter #revue-embed form div #member_submit:hover {
+  background-color: var(--text-primary);
+}
+
+#footer .footer-container #newsletter #revue-embed .revue-form-footer > p {
+  line-height: 1;
+  margin-bottom: 1.5rem;
+}
 
 @layer base {
     body {

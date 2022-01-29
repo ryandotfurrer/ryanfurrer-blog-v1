@@ -156,7 +156,7 @@ body {
 
 #revue-embed .revue-form-footer > p > small > a {
     color: var(--text-primary);
-    text-deco
+    text-decoration: underline;
 }
 
 .light-font {

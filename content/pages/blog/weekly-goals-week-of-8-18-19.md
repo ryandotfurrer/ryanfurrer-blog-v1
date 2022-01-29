@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-014.jpeg
   altText: Sign that reads "I will start working when my coffee does"
-  caption: ''
+  caption: Sign that reads "I will start working when my coffee does"
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

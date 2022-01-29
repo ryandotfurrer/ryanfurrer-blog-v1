@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-007.webp
   altText: 'Wood desk littered with desk items like notebook, pencil, and laptop'
-  caption: ''
+  caption: 'Wood desk littered with desk items like notebook, pencil, and laptop'
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

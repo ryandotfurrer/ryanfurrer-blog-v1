@@ -125,6 +125,7 @@ pre {
 
 code {
     background-color: var(--bg-primary);
+    padding: .25rem;
 }
 
 #revue-embed form div input {

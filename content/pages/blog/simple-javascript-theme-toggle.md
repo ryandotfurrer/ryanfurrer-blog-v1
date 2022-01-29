@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-11.jpeg
   altText: Screenshot of eztoggle.netlify.app
-  caption: ''
+  caption: Screenshot of eztoggle.netlify.app
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

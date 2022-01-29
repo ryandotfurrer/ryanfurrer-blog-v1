@@ -1,6 +1,5 @@
 ---
-title: |
-  Design Tool Battle Royale
+title: Design Tool Battle Royale
 date: '2019-07-30'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer

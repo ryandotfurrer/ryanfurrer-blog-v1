@@ -79,6 +79,11 @@ I'd also like to point out that I am incredibly fortunate to have a 10 - 15 minu
 *   6:45am | *Meditate for 10-15 minutes*
 
 *   7:00am | *Sit down at the computer with my cup of cold brew coffee (prepared the night before) and do something productive such as:*
+    *   Check out what's new on [dev.to](https://dev.to/) or [Twitter](https://twitter.com/)
+
+    *   Jump into some code from the night before
+
+    *   Continue my current [Treehouse](https://teamtreehouse.com/home) course
 
 *   Check out what's new on [dev.to](https://dev.to/) or [Twitter](https://twitter.com/)
 
@@ -91,8 +96,7 @@ I'd also like to point out that I am incredibly fortunate to have a 10 - 15 minu
 *   8:30am - 5:00pm | [*Work work work work work*](https://youtu.be/HL1UzIK-flA?t=18)
 
 *   5:30pm - 9:30pm-ish | *Get home and do stuff*
-
-*   5:30pm is typically the latest I get home from work - some days I'll stay a little late to finish up a task. After I get home until around 9:30pm is when I do stuff such as: *House chores, taking care of my dogs, going for a walk, preparing and cooking dinner, and of course, work!*
+    *   5:30pm is typically the latest I get home from work - some days I'll stay a little late to finish up a task. After I get home until around 9:30pm is when I do stuff such as: *House chores, taking care of my dogs, going for a walk, preparing and cooking dinner, and of course, work!*
 
 After 9:30pm I hang out with my girlfriend and our dogs and we'll watch TV or read or just talk. This is time that I cherish and value so highly each day, even if we get just 1.5 - 2 hours of it before we go to bed.
 

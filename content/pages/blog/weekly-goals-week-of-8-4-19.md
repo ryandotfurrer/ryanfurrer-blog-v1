@@ -64,18 +64,15 @@ I feel like last week and weekend was a bit of a whirlwind, however, I keep stre
 
 It was stressful at times but I am happy that I was able to achieve some new stuff this week. Let's have a look at what I got done!
 
-\###Last Week’s Goals###
-
-
+### Last Week’s Goals
 
 According to my list I only missed one item which we'll talk about in a moment. I am implementing the mobile menu into my site redesigns which we talk about after doMore.
 
-\###What Happened to doMore?###
+### What Happened to doMore?
 
 doMore is my little to-do list project and I'll be returning to in the next week or so, however, I didn't feel good with how I was approaching it so I scrapped it for now. I want to tackle it in a more efficient manner so it will be coming back sooner rather than later, but in a better fashion.
 
 So what I did instead, that I'm very happy with was creating ezToggle!
-
 
 PS you should still hit the link above because there's a sweet transition you can see
 
@@ -83,17 +80,13 @@ ezToggle is a super simple theme changer that you can implement into a website u
 
 The project is up on my GitHub if you wish to view or use it :)
 
-\##Moving Forward##
+## Moving Forward
 
 I've quite a few things I'd like to do/work on this week including new portfolio site designs! I only started working on these on Saturday night but here's the (unfinished) homepage of one of the designs.
 
-
-
 In the above version I want to display each section in 100vh - it's presenting some challenges but I'm sure I'll get it down. Whatever my next design is, I want it to just be clean and minimal (in my own sense). I currently have 3 designs I've roughly sketched out.
 
-\###This Week’s Goals 8/5/19 - 8/11/19###
-
-
+### This Week’s Goals 8/5/19 - 8/11/19
 
 Another busy week but I don't see myself winding down until I get my first Web Development job. It is definitely exhausting but I am genuinely enjoying the process.
 

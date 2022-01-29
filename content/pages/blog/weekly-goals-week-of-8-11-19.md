@@ -56,12 +56,68 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+![](/images/blog-012-0c362a3d.jpeg)
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Happy Monday and welcome to another weekly roundup! This is my weekly thread on what I did or didn't do last week, what happened, and what my goals are for this new week. Let's get started!
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+## Last Week’s Goals
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   3 Blog Posts
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   *One of which being my first technical blog* ✅
+
+*   Meeting with my mentor
+
+*   Continue working on JS 30 ✅
+
+*   Portfolio Redesign ✅
+
+*   *Anything I create I want to be clean, semantic, and meaningful - No extra fluff*
+
+*   *Include some JS but don't rely on it*
+
+*   Continue working through my Treehouse Track ✅
+
+*   *Bonus: Start my React course on Udemy*
+
+## What Happened?
+
+Let's get through what I didn't get done last week.
+
+*   Writing 3 Blog Posts
+
+I didn't have anything new or exciting for my "Journey to My New Career" series and this is the first week I didn't write anything for it. I'm not too upset about it, however, as I was able to get [my first technical blog](/simple-javascript-theme-toggle) out into the world! I'd like to write more of these as I continue learning so I can give back and hopefully help all of you out in some way, shape, or form!
+
+*   Meeting with my mentor
+
+I try to have a weekly video call with my mentor, [Benjamin Lannon](https://twitter.com/lannonbr), who I found via [coadingcoach.io](https://codingcoach.io/). This week, however, I did not feel well and accidentally slept through our appointment - sorry, Ben!
+
+![](/images/blog-012\_01.png)
+
+*I already spoke to him regarding this - if you ever have a mentor or teacher please communicate with them as much as you can. Remember, they are giving up their time to you.*
+
+## Moving Forward
+
+My new portfolio site is almost done! This is what I have been working on the most and I am very excited to unveil it. I am hoping to complete it by next Saturday, August 17th. Here's a quick peak:
+
+![](/images/blog-012\_02.jpeg)
+
+After my portfolio site is done, I have a new project to work on - a website for my father's local business. This is going to be the biggest site and project I've worked on but I have some great ideas and want to get it underway for him.
+
+### This Week’s Goals 8/12/19 - 8/18/19
+
+*   Finish portfolio site redesign
+
+*   Write blog about portfolio site redesign
+
+*   Video call with mentor
+
+*   Continue working on Wes Bos' [JS 30](https://javascript30.com/)
+
+*   Get started on new project
+
+*   KEEP LEARNING JAVASCRIPT
+
+I feel like my goals are just kind of broad lately. Learn this, keep working on that, write blogs. But that is what I am doing right now - learning and absorbing as much as possible. Writing these blogs helps me reflect on the past week and see where I was and where I'm going.
+
+As usual, feel free to comment down below or you can always reach out to me on [Twitter](https://twitter.com/TheRyanFurrer).

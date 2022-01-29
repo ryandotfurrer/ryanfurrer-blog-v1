@@ -66,7 +66,7 @@ This is my first JavaScript success story but, for those of you that are looking
 
 Best of all, it includes minimal JavaScript so anyone should be able to use it.
 
-```javascript
+```
 var body = document.querySelector('body');
 var bodyClass = body.classList;
 var themeToggle = document.querySelector('#theme-toggle');
@@ -225,3 +225,4 @@ I hope you enjoyed and understood my first technical blog. I'm looking forward t
 If you have any questions or issues using ezToggle please don't hesitate to reach out to me via twitter or [my website](https://theryanfurrer.dev/contact).
 
 ### References
+

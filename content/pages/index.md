@@ -130,7 +130,7 @@ sections:
         flexDirection: col
         borderRadius: none
         borderWidth: 5
-        borderStyle: solid
+        borderStyle: none
         borderColor: border-primary
       title:
         textAlign: left

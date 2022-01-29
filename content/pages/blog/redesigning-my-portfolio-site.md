@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-013.webp
   altText: HTML code
-  caption: ''
+  caption: HTML code
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

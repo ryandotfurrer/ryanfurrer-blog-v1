@@ -100,11 +100,11 @@ sections:
     text: >-
       Subscribe to stay in the know for when I publish new articles, find
       interesting things on the web, and more!
-    # actions:
-    #   - type: Button
-    #     label: Subscribe
-    #     url: 'https://www.getrevue.co/profile/theryanfurrer'
-    #     style: primary
+    actions:
+      - type: Button
+        label: Subscribe
+        url: 'https://www.getrevue.co/profile/theryanfurrer'
+        style: primary
     backgroundImage:
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
       altText: altText of the image

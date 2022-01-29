@@ -56,6 +56,8 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
+![](/images/blog-020.png)
+
 I haven't written in a while but I'm trying to enter the blogging world again and thought it best to start off with an introductory post. If this doesn't interest you feel free to wait until the next one!
 
 👋🏻 Hey there, and welcome to my blog! This is my home to write about all things web development including:

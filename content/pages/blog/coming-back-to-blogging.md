@@ -4,7 +4,7 @@ date: '2020-01-09'
 featuredImage:
   type: ImageBlock
   url: /images/blog-017.jpeg
-  altText: Post thumbnail image
+  altText: Dark wood desk with modern white and black chair and Macbook
   caption: ''
 bottomSections: []
 layout: PostLayout

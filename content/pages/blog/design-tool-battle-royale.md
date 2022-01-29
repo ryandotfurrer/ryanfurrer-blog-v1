@@ -4,7 +4,7 @@ date: '2019-07-30'
 featuredImage:
   type: ImageBlock
   url: /images/blog-008.webp
-  altText: Post thumbnail image
+  altText: 'Logos for Sketch, Figma, and Adobe XD'
   caption: ''
 bottomSections: []
 layout: PostLayout

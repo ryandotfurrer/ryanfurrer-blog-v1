@@ -236,7 +236,7 @@ Here's a summary of the steps needed to apply ezToggle to your website:
 
 I hope you enjoyed and understood my first technical blog. I'm looking forward to doing more of these in the future.
 
-If you have any questions or issues using ezToggle please don't hesitate to reach out to me via twitter or [my website](https://theryanfurrer.dev/contact).
+If you have any questions or issues using ezToggle please don't hesitate to reach out to me via [Twitter](https://twitter.com/TheRyanFurrer) or [my website](https://theryanfurrer.dev/contact).
 
 ### References
 

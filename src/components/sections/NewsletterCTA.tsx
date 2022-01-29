@@ -118,7 +118,8 @@ function ctaBody(props) {
                     <div>
                         <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                             {props.title}
-                        </h2><div id="revue-embed">
+                        </h2>
+                        <div id="revue-embed">
   <form
     action="https://www.getrevue.co/profile/theryanfurrer/add_subscriber"
     method="post"

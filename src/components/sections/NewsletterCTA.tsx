@@ -223,9 +223,9 @@ function ctaActions(props) {
                     className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', 'lg:flex-nowrap', styles.actions ? mapStyles(styles.actions) : null)}
                     data-sb-field-path=".actions"
                 >
-                    {actions.map((action, index) => (
+                    {/* {actions.map((action, index) => (
                         <Action key={index} {...action} className="mb-3 mx-2 lg:whitespace-nowrap" data-sb-field-path={`.${index}`} />
-                    ))}
+                    ))} */}
                 </div>
             </div>
         </div>

@@ -115,6 +115,10 @@ body {
     color: var(--text-primary);
 } */
 
+#revue-embed form div label {
+    color: var(--text-secondary);
+}
+
 #revue-embed form div input {
   border-radius: 0.5rem;
   border: none;

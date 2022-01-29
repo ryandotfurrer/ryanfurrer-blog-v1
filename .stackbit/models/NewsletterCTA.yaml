@@ -34,18 +34,18 @@ fields:
     label: Text
     default: |-
       Subscribe to stay in the know for when I publish new articles, find interesting things on the web, and more!
-  - type: list
-    name: actions
-    label: Actions
-    items:
-      type: model
-      models:
-        - Button
-    default:
-      - type: Button
-        label: Subscribe
-        url: 'https://www.getrevue.co/profile/theryanfurrer'
-        style: primary
+  # - type: list
+  #   name: actions
+  #   label: Actions
+  #   items:
+  #     type: model
+  #     models:
+  #       - Button
+  #   default:
+  #     - type: Button
+  #       label: Subscribe
+  #       url: 'https://www.getrevue.co/profile/theryanfurrer'
+  #       style: primary
   - type: model
     name: backgroundImage
     group: styles

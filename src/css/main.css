@@ -155,7 +155,8 @@ body {
 }
 
 #revue-embed .revue-form-footer > p > small > a {
-    color: red;
+    color: var(--text-primary);
+    text-dur
 }
 
 .light-font {

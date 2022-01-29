@@ -69,7 +69,7 @@ sections:
         width: wide
         margin:
           - mt-12
-          - mb-6
+          - mb-0
           - ml-4
           - mr-4
         padding:
@@ -119,7 +119,7 @@ sections:
         height: auto
         width: narrow
         margin:
-          - mt-12
+          - mt-0
           - mb-8
           - ml-4
           - mr-4
@@ -131,7 +131,7 @@ sections:
         borderRadius: none
         borderWidth: 0
         borderStyle: none
-        borderColor: border-dark
+        borderColor: border-primary
       title:
         textAlign: left
       text:

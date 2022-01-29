@@ -7,14 +7,14 @@
             "data": {
                 "colors": "colors-f",
                 "backgroundImage": null,
-                // "actions": [
-                //     {
-                //         "type": "Button",
-                //         "label": "Subscribe",
-                //         "url": "https://www.getrevue.co/profile/theryanfurrer",
-                //         "style": "primary"
-                //     }
-                // ],
+                "actions": [
+                    {
+                        "type": "Button",
+                        "label": "Subscribe",
+                        "url": "https://www.getrevue.co/profile/theryanfurrer",
+                        "style": "primary"
+                    }
+                ],
                 "styles": {
                     "self": {
                         "height": "auto",
@@ -43,22 +43,22 @@
             "data": {
                 "colors": "colors-f",
                 "backgroundImage": null,
-                // "actions": [
-                //     {
-                //         "type": "Button",
-                //         "label": "Try it now",
-                //         "url": "/",
-                //         "style": "primary"
-                //     },
-                //     {
-                //         "type": "Button",
-                //         "label": "Learn More",
-                //         "showIcon": true,
-                //         "icon": "arrowRight",
-                //         "url": "/",
-                //         "style": "link"
-                //     }
-                // ],
+                "actions": [
+                    {
+                        "type": "Button",
+                        "label": "Try it now",
+                        "url": "/",
+                        "style": "primary"
+                    },
+                    {
+                        "type": "Button",
+                        "label": "Learn More",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "url": "/",
+                        "style": "link"
+                    }
+                ],
                 "styles": {
                     "self": {
                         "height": "auto",
@@ -87,14 +87,14 @@
             "data": {
                 "colors": "colors-f",
                 "backgroundImage": null,
-                // "actions": [
-                //     {
-                //         "type": "Button",
-                //         "label": "Try it now",
-                //         "url": "/",
-                //         "style": "primary"
-                //     }
-                // ],
+                "actions": [
+                    {
+                        "type": "Button",
+                        "label": "Try it now",
+                        "url": "/",
+                        "style": "primary"
+                    }
+                ],
                 "styles": {
                     "self": {
                         "height": "auto",

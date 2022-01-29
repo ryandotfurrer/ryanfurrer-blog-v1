@@ -7,14 +7,14 @@
             "data": {
                 "colors": "colors-f",
                 "backgroundImage": null,
-                "actions": [
-                    {
-                        "type": "Button",
-                        "label": "Subscribe",
-                        "url": "https://www.getrevue.co/profile/theryanfurrer",
-                        "style": "primary"
-                    }
-                ],
+                // "actions": [
+                //     {
+                //         "type": "Button",
+                //         "label": "Subscribe",
+                //         "url": "https://www.getrevue.co/profile/theryanfurrer",
+                //         "style": "primary"
+                //     }
+                // ],
                 "styles": {
                     "self": {
                         "height": "auto",

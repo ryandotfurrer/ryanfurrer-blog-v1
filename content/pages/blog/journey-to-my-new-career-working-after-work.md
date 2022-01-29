@@ -75,8 +75,7 @@ I'd also like to point out that I am incredibly fortunate to have a 10 - 15 minu
 ## Daily Routine
 
 *   6:30am | *Wake up and let the dogs out*
-
-*   6:45am | *Meditate for 10-15 minutes*
+    6:45am | *Meditate for 10-15 minutes*
 
 *   7:00am | *Sit down at the computer with my cup of cold brew coffee (prepared the night before) and do something productive such as:*
     *   Check out what's new on [dev.to](https://dev.to/) or [Twitter](https://twitter.com/)

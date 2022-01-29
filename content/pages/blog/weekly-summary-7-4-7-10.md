@@ -101,7 +101,7 @@ Before that, however, I got in some studying React. Not a very productive night 
 
 Thursday was fun! I got new switches for my mechanical keyboard so I installed those before diving into studying React.
 
-![](/images/blog-024\_01.jpg)<https://twitter.com/theryanfurrer/status/1413276585554333702>
+![](/images/blog-024\_01.jpg)
 
 ## Friday, July 9th
 

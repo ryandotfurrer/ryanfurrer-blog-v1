@@ -119,7 +119,7 @@ sections:
         height: auto
         width: narrow
         margin:
-          - mt-12
+          - mt-0
           - mb-8
           - ml-4
           - mr-4

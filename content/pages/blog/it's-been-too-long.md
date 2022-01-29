@@ -4,7 +4,7 @@ date: '2019-10-07'
 featuredImage:
   type: ImageBlock
   url: /images/blog-016.webp
-  caption: ''
+  caption: iPhone on a wooden table with text that says "Hello"
   altText: iPhone on a wooden table with text that says "Hello"
 bottomSections: []
 layout: PostLayout

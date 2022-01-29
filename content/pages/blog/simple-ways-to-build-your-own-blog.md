@@ -4,7 +4,7 @@ date: '2021-01-17'
 featuredImage:
   type: ImageBlock
   url: /images/blog-018.jpeg
-  altText: Post thumbnail image
+  altText: Person typing on laptop
   caption: ''
 bottomSections: []
 layout: PostLayout

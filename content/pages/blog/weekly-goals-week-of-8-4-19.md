@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-010.webp
   altText: To-do list
-  caption: ''
+  caption: To-do list
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

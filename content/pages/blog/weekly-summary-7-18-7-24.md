@@ -3,7 +3,7 @@ title: 'Weekly Summary: 7/18 - 7/24'
 date: '2021-07-25'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/blog-027.png
   altText: Post thumbnail image
   caption: ''
 bottomSections: []

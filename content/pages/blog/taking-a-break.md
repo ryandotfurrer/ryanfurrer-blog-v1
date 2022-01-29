@@ -4,7 +4,7 @@ date: '2019-08-30'
 featuredImage:
   type: ImageBlock
   url: /images/blog-015.jpeg
-  altText: 'Top-down view of silver macbook '
+  altText: Top-down view of a closed silver macbook on a dark wood table
   caption: ''
 bottomSections: []
 layout: PostLayout

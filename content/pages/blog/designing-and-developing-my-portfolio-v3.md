@@ -4,7 +4,7 @@ date: '2021-07-25'
 featuredImage:
   type: ImageBlock
   url: /images/blog-026.png
-  altText: Post thumbnail image
+  altText: Designing and Developing My Portfolio - v3
   caption: ''
 bottomSections: []
 layout: PostLayout

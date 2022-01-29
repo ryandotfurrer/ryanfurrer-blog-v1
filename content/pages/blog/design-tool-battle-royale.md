@@ -62,8 +62,9 @@ author: content/data/team/person-p8afuy38p.json
 
 [Sketch](https://www.sketch.com/), [Figma](https://www.figma.com/), and [Adobe XD ](https://www.adobe.com/products/xd.html)- in my head these are the “Big 3,” so to speak.
 
-**What do all of these applications have in common?
-**They are design tools that can create prototypes and design boards for websites and applications.
+\*\*What do all of these applications have in common?\*\*
+
+They are design tools that can create prototypes and design boards for websites and applications.
 
 **What makes them different?**
 
@@ -94,8 +95,6 @@ Lastly, this is for me in two ways:
 1.  While I am still learning and training for my first job, I want to practice building a website from something a Web Designer would give me. This can give me a leg up when I eventually get my first job.
 
 2.  This is a great way for me to exercise my creative side. Being a musician formerly, although not as active these days, I need a creative outlet. Why not use something that will help me with my future career?
-
-
 
 ## Focusing on Figma
 

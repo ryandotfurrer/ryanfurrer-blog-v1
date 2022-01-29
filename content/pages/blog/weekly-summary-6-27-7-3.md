@@ -102,7 +102,7 @@ Tuesday was a *very* productive night despite not originally being able to focus
 
 How did I get all this done despite not feeling like it? [The 5-minute rule](https://twitter.com/TheRyanFurrer/status/1410059609105178629?s=20).
 
-><blockquote class="twitter-tweet">\<p lang="en" dir="ltr">2/3The 5-minute rule. This is something I learned from \<a href="https://twitter.com/mattdavella?ref_src=twsrc%5Etfw">@mattdavella\</a> and it has become invaluable to me. The 5-minute rule is simply this: If there is something you should be doing/want to do but can’t seem to focus/start, promise yourself you’ll do it for just 5 minutes.\</p>\&mdash; Ryan Furrer (@TheRyanFurrer) \<a href="https://twitter.com/TheRyanFurrer/status/1410059609105178629?ref_src=twsrc%5Etfw">June 30, 2021\</a>\</blockquote> \<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">\</script>
+/<blockquote class="twitter-tweet">\<p lang="en" dir="ltr">2/3The 5-minute rule. This is something I learned from \<a href="https://twitter.com/mattdavella?ref_src=twsrc%5Etfw">@mattdavella\</a> and it has become invaluable to me. The 5-minute rule is simply this: If there is something you should be doing/want to do but can’t seem to focus/start, promise yourself you’ll do it for just 5 minutes.\</p>\&mdash; Ryan Furrer (@TheRyanFurrer) \<a href="https://twitter.com/TheRyanFurrer/status/1410059609105178629?ref_src=twsrc%5Etfw">June 30, 2021\</a>\</blockquote> \<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">\</script>
 
 ## Wednesday, June 30th
 

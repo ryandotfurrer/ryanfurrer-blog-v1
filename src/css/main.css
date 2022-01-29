@@ -27,7 +27,7 @@ img {
   border-radius: .5rem;
 }
 
-img {
+img:hover {
     filter: none;
 }
 

@@ -56,12 +56,20 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+![](/images/blog-015.jpeg)
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+## Hello, World 👋
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+I'm still alive! I should have announced this prior to taking it, however, I am nearing the end of my week long break from coding and blog writing.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Actually, I've taken a break from email, Twitter, Coding, Blogging, reading, and really anything to do with web development. I'll dive into more on why in a future blog.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+While I am itching to get back to it, I will give myself the full week (until Sunday) before diving back into things.
+
+![](/images/blog-015\_01.jpeg)
+
+I've got to say, it feels like a hell of a lot longer than a week. I'm a little paranoid that everything I've learned will vanish in an instant.
+
+While I know this isn't true I wanted to ask how you all go about taking breaks? How often? How long? What do you do in place of coding/reading/learning?
+
+I'm looking forward to writing regular blog posts starting again, this Sunday!

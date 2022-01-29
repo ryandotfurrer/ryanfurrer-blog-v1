@@ -102,7 +102,7 @@ Tuesday was a *very* productive night despite not originally being able to focus
 
 How did I get all this done despite not feeling like it? [The 5-minute rule](https://twitter.com/TheRyanFurrer/status/1410059609105178629?s=20).
 
-/<blockquote class="twitter-tweet">\<p lang="en" dir="ltr">2/3The 5-minute rule. This is something I learned from \<a href="https://twitter.com/mattdavella?ref_src=twsrc%5Etfw">@mattdavella\</a> and it has become invaluable to me. The 5-minute rule is simply this: If there is something you should be doing/want to do but can’t seem to focus/start, promise yourself you’ll do it for just 5 minutes.\</p>\&mdash; Ryan Furrer (@TheRyanFurrer) \<a href="https://twitter.com/TheRyanFurrer/status/1410059609105178629?ref_src=twsrc%5Etfw">June 30, 2021\</a>\</blockquote> \<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">\</script>
+![](/images/blog-023\_01.jpg)
 
 ## Wednesday, June 30th
 
@@ -131,8 +131,6 @@ Lastly I submitted my mostly "finished" project to my peers in my [dip.chat](htt
 The first thing I did was remove the "Skills" section from my website based on feedback from the people in my [dip.chat](http://dip.chat) group. I will 100% take their word for it and was not attached to it - I merely put it in there as I've seen others do the same.
 
 In case you are interested to see what it looked like:
-
-
 
 Again, it's nothing I'm too worried about losing. What took more effort was un-doing the work I had done the night before in adding a mobile hamburger menu as I no longer needed it due to having more space in the navbar on mobile.
 

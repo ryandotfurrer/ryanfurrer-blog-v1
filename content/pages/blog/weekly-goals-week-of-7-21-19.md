@@ -10,6 +10,8 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
+![](/images/blog-005-f55ce435.webp)
+
 Hello and welcome to a new series of mine, Weekly Goals. I wanted to separate this from my other series, "Journey to My New Career" because although these goals will help me with my career, separating it makes it easier for me to easily go back and see what I accomplished that past week.
 
 *Note: I plan my week starting on Monday, so Sunday is the last day of my week that I have to complete my goals.*
@@ -24,7 +26,7 @@ Let's get into it.
 
 *   Post at least 2 blogs
 
-While this doesn't seem like a lot, I knew that the 6.5 hours of Treehouse would take closer to at least 8 hours. Between taking breaks, getting distracted, or struggling to understand JavaScript, time adds up. 
+While this doesn't seem like a lot, I knew that the 6.5 hours of Treehouse would take closer to at least 8 hours. Between taking breaks, getting distracted, or struggling to understand JavaScript, time adds up.
 
 I'm happy to say I have successfully completed everything on my list this week! I have definitely noticed some anxiety and pressure I am putting on myself that I'm not a fan of, however, I think I need to get comfortable with being uncomfortable. Part of that involves my deep dive into learning JavaScript this past week.
 

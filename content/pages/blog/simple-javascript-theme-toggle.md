@@ -60,7 +60,7 @@ author: content/data/team/person-p8afuy38p.json
 
 ## Introducing ezToggle
 
-This past weekend I created ezToggle - a simple way to add a theme toggle to your website using HTML, CSS, and basic JavaScript.
+This past weekend I created [ezToggle](https://eztoggle.netlify.app/) (has since been archived and no longer maintained/updated) - a simple way to add a theme toggle to your website using HTML, CSS, and basic JavaScript.
 
 This is my first JavaScript success story but, for those of you that are looking for a simple way to add a light/dark theme toggle to your site this might be it!
 

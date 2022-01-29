@@ -125,7 +125,7 @@ sections:
           - mr-4
         padding:
           - p-9
-        alignItems: center
+        alignItems: flex-start
         justifyContent: center
         flexDirection: col
         borderRadius: none

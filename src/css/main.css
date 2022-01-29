@@ -115,6 +115,57 @@ body {
     color: var(--text-primary);
 } */
 
+.form-section {
+  background: var(--bg-secondary);
+}
+
+.form-section .form-container {
+  width: 100%;
+}
+
+.form-section .form-container .form label {
+  color: var(--text-primary);
+}
+
+.form-section .form-container .form input,
+.form-section .form-container .form textarea {
+  border-radius: 0.5rem;
+  border: none;
+  display: block;
+  margin-top: 0.75rem;
+  margin-bottom: 1.5rem;
+  padding: 2rem;
+  font-size: inherit;
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
+  width: 100%;
+}
+
+.form-section .form-container .form textarea {
+  height: 25vh;
+  resize: none;
+}
+
+.form-section .form-container .form button {
+  border-radius: 5em;
+  border: 2px solid transparent;
+  background-color: var(--color-accent-100);
+  color: var(--color-dark-200);
+  display: block;
+  margin-top: 3rem;
+  text-align: center;
+  -webkit-transition: background-color 0.3s ease, border 0.3s ease;
+  transition: background-color 0.3s ease, border 0.3s ease;
+  padding: 0;
+  padding: 1.5em 3em;
+  width: 100%;
+}
+
+.form-section .form-container .form button:hover {
+  background-color: var(--color-accent-200);
+  border-color: var(--text-primary);
+}
+
 @layer base {
     body {
         @apply bg-main text-base;

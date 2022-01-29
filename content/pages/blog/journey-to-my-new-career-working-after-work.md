@@ -72,11 +72,11 @@ I work a modest 8:30am - 5:00pm job. While it pays the bills it is getting harde
 
 I'd also like to point out that I am incredibly fortunate to have a 10 - 15 minute commute. This allows me (typically) to achieve something before I even go into the office.
 
-\##Daily Routine##
+## Daily Routine
 
 After 9:30pm I hang out with my girlfriend and our dogs and we'll watch TV or read or just talk. This is time that I cherish and value so highly each day, even if we get just 1.5 - 2 hours of it before we go to bed.
 
-\##Outside Commitments##
+## Outside Commitments
 
 Sometimes I wish I could devote 100% of each and every day to getting job ready, however, that's not life. To be honest, I'd be a lot more lonely if that was the case as well.
 
@@ -84,7 +84,7 @@ Other commitments such as family, maintaining my relationship, my dogs (as seen 
 
 Enjoy your life. As much as I just want to have a web development job already I'd rather be happy along the way - it's all about balance.
 
-\##Taking Breaks##
+## Taking Breaks
 Everyone needs a break now and then. I'll be honest, sometimes I feel guilty for not coding regardless of how important it is to take some time off. If I'm sitting down to code for 2 hours, it's more like 1 hour and 40 minutes.
 
 I'm a firm believer in the Pomodoro Technique and if you feel you are struggling with productivity and efficiency with your time, I highly suggest you try it out. I personally use an app called Tide (available on both iOS and Android) to help keep track of my Pomodoros.

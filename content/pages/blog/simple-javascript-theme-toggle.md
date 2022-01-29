@@ -82,7 +82,6 @@ themeToggle.addEventListener('click', () => {
     footer.classList.toggle("footer-light");
     footer.classList.toggle("footer-dark");
 });
-
 ```
 
 Now then, if your footer doesn't change colors that's 3 lines you could remove from this - the real secret is in using CSS Variables. Let's go over how you can implement this in your website!

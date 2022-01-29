@@ -132,6 +132,8 @@ The first thing I did was remove the "Skills" section from my website based on f
 
 In case you are interested to see what it looked like:
 
+![](/images/blog-023\_02.jpeg)
+
 Again, it's nothing I'm too worried about losing. What took more effort was un-doing the work I had done the night before in adding a mobile hamburger menu as I no longer needed it due to having more space in the navbar on mobile.
 
 After that and some other tidying up I felt it was ready for exposure to the entire world so I moved this page to be my index.html and [Tweeted](https://twitter.com/TheRyanFurrer/status/1411129302662402052?s=20) about it!

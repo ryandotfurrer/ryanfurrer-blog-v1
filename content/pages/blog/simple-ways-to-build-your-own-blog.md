@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-018.jpeg
   altText: Person typing on laptop
-  caption: ''
+  caption: Person typing on laptop
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

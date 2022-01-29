@@ -154,6 +154,10 @@ body {
   line-height: 1;
 }
 
+#revue-embed .revue-form-footer > p > small {
+  line-height: 1;
+}
+
 .light-font {
     color: var(--text-secondary);
 }

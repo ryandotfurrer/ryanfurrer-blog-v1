@@ -115,10 +115,6 @@ body {
     color: var(--text-primary);
 } */
 
-.form-section {
-  background: var(--bg-secondary);
-}
-
 .form-section .form-container {
   width: 100%;
 }

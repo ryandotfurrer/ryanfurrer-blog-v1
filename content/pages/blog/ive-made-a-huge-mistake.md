@@ -3,7 +3,7 @@ title: I’ve Made A Huge Mistake
 date: '2019-07-24'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/blog-006.webp
   altText: Post thumbnail image
   caption: ''
 bottomSections: []

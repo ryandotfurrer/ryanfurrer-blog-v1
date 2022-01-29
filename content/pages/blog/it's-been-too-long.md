@@ -3,7 +3,7 @@ title: It's Been Too Long
 date: '2019-10-07'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/blog-016.webp
   altText: Post thumbnail image
   caption: ''
 bottomSections: []

@@ -77,7 +77,7 @@ It sucks - there’s no denying that. It felt even worse because I pride myself 
 
 Perhaps it was an off night, or the fact that I couldn’t really focus, or maybe I just don’t know this stuff like I thought I did. But it’s okay. Everyone has bad days. Everyone has times where everything feels more difficult than it should. Haven’t you had a day where just getting out of bed feels like a huge challenge?
 
-\>*“Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.” - Brian Tracy*
+> *“Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.” - Brian Tracy*
 
 I’m going to live by these words moving forward as I want to grow into the best developer I can. I have the motivation and (I think) the work ethic to do so. I may have to adjust my goals for next week to allow myself more time for the ones I set out for this week, and that’s okay - I’m adjusting my deadline.
 

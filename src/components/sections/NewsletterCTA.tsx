@@ -196,7 +196,7 @@ function ctaBody(props) {
                                                 target="_blank"
                                                 rel="noopener noreferrer"
                                             >
-                                                Revue
+                                                &nbsp;Revue
                                     </a>
                                         </small>
                                     </p>

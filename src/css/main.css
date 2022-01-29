@@ -143,7 +143,7 @@ body {
 }
 
 #revue-embed form div #member_submit:hover {
-  background-color: var(--text-primary);
+  background-color: var(--accent-dark);
 }
 
 #revue-embed .revue-form-footer > p {

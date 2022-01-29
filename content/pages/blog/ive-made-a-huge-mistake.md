@@ -4,7 +4,7 @@ date: '2019-07-24'
 featuredImage:
   type: ImageBlock
   url: /images/blog-006.webp
-  altText: Ma
+  altText: 'Macbook Pro with lid partially open '
   caption: ''
 bottomSections: []
 layout: PostLayout

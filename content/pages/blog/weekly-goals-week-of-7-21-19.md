@@ -4,7 +4,7 @@ date: '2019-07-21'
 featuredImage:
   type: ImageBlock
   url: /images/blog-005.webp
-  altText: Post thumbnail image
+  altText: Open journal with pencil on top
   caption: ''
 bottomSections: []
 layout: PostLayout

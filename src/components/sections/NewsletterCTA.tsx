@@ -174,7 +174,7 @@ function ctaBody(props) {
                                 <div className="revue-form-footer">
                                     <p className=" light-font">
                                         <small>
-                                            By subscribing, you agree with Revue's
+                                            By subscribing, you agree with Revue's 
                                     <a
                                                 target="_blank"
                                                 href="https://www.getrevue.co/terms"

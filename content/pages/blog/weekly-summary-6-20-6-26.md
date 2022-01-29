@@ -1,9 +1,6 @@
 ---
 title: 'Weekly Summary: 6/20 - 6/26'
 date: '2021-06-27'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

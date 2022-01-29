@@ -4,7 +4,7 @@ date: '2019-08-30'
 featuredImage:
   type: ImageBlock
   url: /images/blog-015.jpeg
-  altText: Post thumbnail image
+  altText: 'Top-down view of '
   caption: ''
 bottomSections: []
 layout: PostLayout

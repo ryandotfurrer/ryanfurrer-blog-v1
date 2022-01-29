@@ -152,7 +152,7 @@ body {
 }
 
 .light-font {
-    color: red;
+    color: var(--text-secondary);
 }
 
 @layer base {

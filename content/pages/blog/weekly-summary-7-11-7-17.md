@@ -4,7 +4,7 @@ date: '2021-07-18'
 featuredImage:
   type: ImageBlock
   url: /images/blog-025.png
-  altText: Post thumbnail image
+  altText: 'Weekly Summary: 7/11 - 7/17'
   caption: ''
 bottomSections: []
 layout: PostLayout

@@ -138,7 +138,7 @@ Again, it's nothing I'm too worried about losing. What took more effort was un-d
 
 After that and some other tidying up I felt it was ready for exposure to the entire world so I moved this page to be my index.html and [Tweeted](https://twitter.com/TheRyanFurrer/status/1411129302662402052?s=20) about it!
 
-\<blockquote class="twitter-tweet">\<p lang="en" dir="ltr">1/3 🧵 \<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash\&amp;ref_src=twsrc%5Etfw">#100DaysOfCode\</a> \<a href="https://twitter.com/hashtag/LearnInPublic?src=hash\&amp;ref_src=twsrc%5Etfw">#LearnInPublic\</a> Day 15/100My new portfolio site is live! Please visit it at \<a href="https://t.co/sRNj6LfZ5N">https://t.co/sRNj6LfZ5N\</a> and let me know what you think - be honest.Built simply with \<a href="https://twitter.com/hashtag/HTML?src=hash\&amp;ref_src=twsrc%5Etfw">#HTML\</a> and \<a href="https://twitter.com/hashtag/CSS?src=hash\&amp;ref_src=twsrc%5Etfw">#CSS\</a> (SASS) because why not? \<a href="https://t.co/DF8eJCXuAU">https://t.co/DF8eJCXuAU\</a>\</p>\&mdash; Ryan Furrer (@TheRyanFurrer) \<a href="https://twitter.com/TheRyanFurrer/status/1411129302662402052?ref_src=twsrc%5Etfw">July 3, 2021\</a>\</blockquote> \<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">\</script>
+![](/images/blog-023\_03.jpg)
 
 If you'd care to check out my site please do - [The Ryan Furrer](https://theryanfurrer.dev/).
 

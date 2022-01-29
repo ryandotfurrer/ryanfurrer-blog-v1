@@ -119,6 +119,19 @@ body {
     color: var(--text-secondary);
 }
 
+pre {
+    background-color: var(--bg-primary);
+}
+
+code {
+    background-color: var(--bg-primary);
+    padding: .15rem;
+}
+
+img {
+    margin: 0 auto;
+}
+
 #revue-embed form div input {
   border-radius: 0.5rem;
   border: none;

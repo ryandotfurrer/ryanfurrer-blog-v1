@@ -5,6 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-016.webp
   caption: ''
+  altText: iPhone on a wooden table with text that says "Hello"
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

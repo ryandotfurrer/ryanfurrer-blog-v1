@@ -74,6 +74,26 @@ I'd also like to point out that I am incredibly fortunate to have a 10 - 15 minu
 
 ## Daily Routine
 
+*   6:30am | *Wake up and let the dogs out*
+
+*   6:45am | *Meditate for 10-15 minutes*
+
+*   7:00am | *Sit down at the computer with my cup of cold brew coffee (prepared the night before) and do something productive such as:*
+
+*   Check out what's new on [dev.to](https://dev.to/) or [Twitter](https://twitter.com/)
+
+*   Jump into some code from the night before
+
+*   Continue my current [Treehouse](https://teamtreehouse.com/home) course
+
+*   7:45am | *Get ready for work and leave by 8:15am*
+
+*   8:30am - 5:00pm | [*Work work work work work*](https://youtu.be/HL1UzIK-flA?t=18)
+
+*   5:30pm - 9:30pm-ish | *Get home and do stuff*
+
+*   5:30pm is typically the latest I get home from work - some days I'll stay a little late to finish up a task. After I get home until around 9:30pm is when I do stuff such as: *House chores, taking care of my dogs, going for a walk, preparing and cooking dinner, and of course, work!*
+
 After 9:30pm I hang out with my girlfriend and our dogs and we'll watch TV or read or just talk. This is time that I cherish and value so highly each day, even if we get just 1.5 - 2 hours of it before we go to bed.
 
 ## Outside Commitments
@@ -93,11 +113,13 @@ I'm a firm believer in the Pomodoro Technique and if you feel you are struggling
 Longer breaks are a good thing too! I usually take at least 1 day off each week which leads me to the Two Day Rule.
 
 ### Two Day Rule
+
 The Two Day Rule is very simple: Never take two days off in a row.
 
 I personally know that if I take more than one day off in a row, those 2 days can quickly & easily turn into 3, 4, 5, or more days off. That simply cannot happen on this journey.
 
 ## Motivation
+
 The feeling of motivation can be incredibly powerful. Without motivation, we may never had made it to the moon. Without motivation, Arnold Schwarzenegger may not have created the physique he did. Without motivation, I would not have started working towards this new career.
 
 Motivation is wonderful tool - but that's all it should be treated as, a tool.
@@ -111,6 +133,7 @@ I've been reading Atomic Habits by James Clear lately and the quote below (and a
 > Don't let lack of motivation keep you from working towards your goals. If you wait for motivation to start losing weight, start learning code, whatever you want to do, it'll never happen. Just do it.
 
 ## Grind Mentality
+
 Grind mentality is not a smart mentality.
 
 Yes, everyone should be able to work hard and push through challenges when they need to, however, the belief that you need to grind 24/7 like all these "influencers" on Instagram and YouTube do in order to be successful is ridiculous.

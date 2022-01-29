@@ -3,7 +3,7 @@ title: Starting Anew
 date: '2020-05-17'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/blog-019.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []

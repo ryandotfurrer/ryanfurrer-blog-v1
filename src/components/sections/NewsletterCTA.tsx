@@ -180,7 +180,7 @@ function ctaBody(props) {
                                                 href="https://www.getrevue.co/terms"
                                                 rel="noopener noreferrer"
                                             >
-                                                Terms of Service{" "}
+                                                &nbsp;Terms of Service{" "}
                                             </a>
                                             and
                                     <a

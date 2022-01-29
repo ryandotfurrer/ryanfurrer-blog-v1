@@ -150,7 +150,7 @@ body {
   line-height: 1;
 }
 
-#revue-embed .revue-form-footer > a {
+#revue-embed > a {
     color: red;
 }
 

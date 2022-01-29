@@ -142,7 +142,7 @@ body {
   background-color: var(--text-primary);
 }
 
-#footer .footer-container #newsletter #revue-embed .revue-form-footer > p {
+#revue-embed .revue-form-footer > p {
   line-height: 1;
   margin-bottom: 1.5rem;
 }

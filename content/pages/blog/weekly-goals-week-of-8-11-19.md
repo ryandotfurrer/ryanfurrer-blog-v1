@@ -86,7 +86,7 @@ Let's get through what I didn't get done last week.
 
 *   Writing 3 Blog Posts
 
-I didn't have anything new or exciting for my "Journey to My New Career" series and this is the first week I didn't write anything for it. I'm not too upset about it, however, as I was able to get [my first technical blog](/simple-javascript-theme-toggle) out into the world! I'd like to write more of these as I continue learning so I can give back and hopefully help all of you out in some way, shape, or form!
+I didn't have anything new or exciting for my "Journey to My New Career" series and this is the first week I didn't write anything for it. I'm not too upset about it, however, as I was able to get [my first technical blog](/blog/simple-javascript-theme-toggle) out into the world! I'd like to write more of these as I continue learning so I can give back and hopefully help all of you out in some way, shape, or form!
 
 *   Meeting with my mentor
 

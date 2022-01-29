@@ -80,8 +80,6 @@ v2 was built about 6 months after the "completion" of v1. I learned a lot in thi
 
 v3 was recently completed and announced to the world on 7/2/21, which is *quite* some time since August 2019. A lot has happened over the years, and I will not make excuses for my insufficient progress... I was simply not disciplined enough to do the work that needs to be done to change careers as I want.
 
-
-
 ## The Tech Stack
 
 *   HTML
@@ -110,13 +108,13 @@ So first I thought about what colors I would like to use...
 
 My original goal was to identify a brand color for me and one for my tech blog Coding Catchup. I chose purple for myself as an evolution of the indigo color that I featured in the previous version of my portfolio.
 
-v2 main color: #646FCB
-v3 main color: #AD96E9
+v2 main color: `#646FCB`
+v3 main color: `#AD96E9`
 
 As for Coding Catchup, I've had my eyes on this sort of green-blue color for a while and decided to run with it.
 
-v1 main color: #3FC8A7
-v3 main color: #96E9D8
+v1 main color: `#3FC8A7`
+v3 main color: `#96E9D8`
 
 ![](/images/blog-026\_03.png)
 
@@ -187,4 +185,3 @@ After the main site was built, there were just a few things left to do, these in
 That's all I've got for now. I hope you enjoyed reading about my process, and I hope you choose to return for more! Feel free to contact me [via my website](https://theryanfurrer.dev/index.html#contact-me) or on [Twitter](https://twitter.com/TheRyanFurrer) if you have any questions or want to say hello.
 
 There is always more work to be done, but only so many hours in the day! My next project (at the moment) is an e-commerce site built with React. This is new for me, but I am enjoying it so far. Subscribe for more weekly updates, project summaries, and tech articles, and/or follow me on Twitter!
-

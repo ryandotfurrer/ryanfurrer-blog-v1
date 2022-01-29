@@ -86,4 +86,4 @@ I've joined the group again and this time it is running from June 15th - July 15
 
 I look forward to writing more and more as I learn. This will not only be a good place for me to get my thoughts out but help those that are learning now and in the future. If you look in the right places the web development community is *amazing* which is why I want to not only give back but pay it forward to those that might find my articles down the road.
 
-Feel free to reach out to me on Twitter and I hope you'll come back for more!
+Feel free to reach out to me on [Twitter](https://twitter.com/TheRyanFurrer) and I hope you'll come back for more!

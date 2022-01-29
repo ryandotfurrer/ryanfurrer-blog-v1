@@ -80,7 +80,7 @@ So what did I use to build the site? Good old HTML and CSS - There’s nothing m
 
 Technologies out of the way, I wanted to pick a color palette and I used [Coolors](https://coolors.co/) to help me out. The “Tea Green” #C2EABD and “Oxford Blue” #011936 were paired together and I loved them right away…to be honest they give me some [Game Boy Color Palettes](https://en.wikipedia.org/wiki/Game_Boy_Color#Color_palettes) vibes. From there I made a couple of edits and used just 5 colors across both dark and light themes.
 
-
+![](/images/blog-019\_02.png)
 
 ![](/images/blog-019\_03.png)
 

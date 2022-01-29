@@ -151,7 +151,7 @@ body {
 }
 
 #revue-embed .revue-form-footer > p > a {
-  line-height: 1;
+    color: red;
 }
 
 .light-font {

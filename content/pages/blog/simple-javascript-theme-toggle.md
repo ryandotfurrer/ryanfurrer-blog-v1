@@ -88,7 +88,7 @@ Now then, if your footer doesn't change colors that's 3 lines you could remove f
 
 ## Getting Started
 
-To begin you'll need the CSS & JS files which you can find in the GitHub Repo.
+To begin you'll need the CSS & JS files which you can find in the [GitHub Repo](https://github.com/TheRyanFurrer/ezToggle).
 
 I have recently discovered CSS Variables and absolutely love them and knew they'd be perfect for this project - and every project moving forward.
 
@@ -212,17 +212,37 @@ themeToggle.addEventListener('click', () => {
 });
 ```
 
-The function listens for a click on the `themeToggle` button - the one that reads "Change Theme" on the website
+The function listens for a click on the `themeToggle` button - the one that reads "Change Theme" on the website.
+
+![](/images/blog-11\_01.png)
 
 Upon the button being clicked it first identifies the classes of the element it is attached to. Followed by .toggle it then toggles (surprise) the specified class onto said element. It toggles between the light and dark classes.
+
+![](/images/CleanShot%202022-01-29%20at%2012.55.05.gif)
 
 ## Wrapping Up
 
 Here's a summary of the steps needed to apply ezToggle to your website:
+
+1.  Apply light or dark class to \`body\` in your HTML
+
+2.  Define your CSS variables in the :root pseudo-class. Make sure you change, add, or remove any colors you need for your theme.
+
+3.  Create, add, or remove any necessary classes for your themes and any items getting themed.
+
+4.  Define JavaScript Variables
+
+5.  Enjoy your theme toggle!
 
 I hope you enjoyed and understood my first technical blog. I'm looking forward to doing more of these in the future.
 
 If you have any questions or issues using ezToggle please don't hesitate to reach out to me via twitter or [my website](https://theryanfurrer.dev/contact).
 
 ### References
+
+*   [MDN - *element*.classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
+
+*   [MDN - toggle Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLDetailsElement/toggle_event)
+
+*   [ezToggle](https://eztoggle.netlify.com/)
 

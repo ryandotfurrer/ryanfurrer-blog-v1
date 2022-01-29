@@ -56,7 +56,7 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-
+![](/images/blog-016-e3730f72.webp)
 
 ## Hello World,
 
@@ -76,13 +76,13 @@ That meetup is what brought me back and I am *so* thankful for that. It was all 
 
 ![](/images/blog-016\_01.png)
 
-I am finally hitting my React Course hard with 2-4 hours per day. I started it over from the beginning as a refresher is never bad.
+I am finally hitting my [React Course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) hard with 2-4 hours per day. I started it over from the beginning as a refresher is never bad.
 
-As I'm not 100% comfortable with Vanilla JavaScript, I am also going through Front-End Masters Bootcamp - just the sections I am not so confident on though. The information is presented in a clear fashion and each video is pretty short so it doesn't eat up too much time. Speaking of time, something new that I've been implementing is...
+As I'm not 100% comfortable with Vanilla JavaScript, I am also going through [Front-End Masters Bootcamp](https://frontendmasters.com/bootcamp/) - just the sections I am not so confident on though. The information is presented in a clear fashion and each video is pretty short so it doesn't eat up too much time. Speaking of time, something new that I've been implementing is...
 
 ### **Time Blocking**
 
-There are *plenty* **of** ***articles*** going over time blocking within coding, so I won't go in-depth.
+There are [***plenty***](https://blog.rescuetime.com/time-blocking-101/)** **[**of**](https://toggl.com/track/time-blocking/)** **[***articles***](https://blog.hubstaff.com/time-blocking-simple-guide/)** **going over time blocking within coding, so I won't go in-depth.
 
 Time blocking is just as it sounds, blocking off time for specific tasks, chores, things you need to do, etc. For me, I am blocking off 2-4 hours per day for React, 1 hour for working on my existing Portfolio site, 1 hour for reading Web Development articles, so on and so forth.
 

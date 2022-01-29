@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-025.png
   altText: 'Weekly Summary: 7/11 - 7/17'
-  caption: ''
+  caption: 'Weekly Summary: 7/11 - 7/17'
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

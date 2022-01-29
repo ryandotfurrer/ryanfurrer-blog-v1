@@ -3,7 +3,7 @@ title: Designing and Developing My Portfolio - v3
 date: '2021-07-25'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/blog-026.png
   altText: Post thumbnail image
   caption: ''
 bottomSections: []

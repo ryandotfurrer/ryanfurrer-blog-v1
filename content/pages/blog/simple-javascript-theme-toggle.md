@@ -66,7 +66,7 @@ This is my first JavaScript success story but, for those of you that are looking
 
 Best of all, it includes minimal JavaScript so anyone should be able to use it.
 
-```js
+```javascript
 var body = document.querySelector('body');
 var bodyClass = body.classList;
 var themeToggle = document.querySelector('#theme-toggle');

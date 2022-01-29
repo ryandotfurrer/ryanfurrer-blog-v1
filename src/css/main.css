@@ -23,8 +23,13 @@ p {
 }
 
 img {
-  filter: brightness(.8) saturate(1.25);
   border-radius: .5rem;
+  filter: brightness(.8) saturate(1.25);
+  transition: filter .3s ease;
+}
+
+img:hover {
+    filter: none;
 }
 
 .sb-component-header {

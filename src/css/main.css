@@ -128,7 +128,9 @@ code {
     padding: .15rem;
 }
 
-img 
+img {
+    margin: 0 auto;
+}
 
 #revue-embed form div input {
   border-radius: 0.5rem;

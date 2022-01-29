@@ -119,6 +119,10 @@ body {
     color: var(--text-secondary);
 }
 
+pre {
+    background-color: red;
+}
+
 code {
     background-color: var(--bg-primary);
 }

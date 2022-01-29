@@ -90,7 +90,7 @@ doMore is my little to-do list project and I'll be returning to in the next week
 
 So what I did instead, that I'm very happy with was creating [ezToggle](https://eztoggle.netlify.app/)!
 
-[https://cln.sh/Gtt3Gf ](https://cln.sh/Gtt3Gf)
+![](/images/CleanShot%202022-01-29%20at%2012.55.05.gif)
 
 ezToggle is a super simple theme changer that you can implement into a website using just HTML, CSS, and JavaScript. This only took me a few hours to complete and takes advantage of CSS Variables so you can easily inject the colors of your choice for a dark and light theme without much of a hassle.
 

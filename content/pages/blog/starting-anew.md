@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-019.jpeg
   altText: 'Table with laptop, headphones, smartwatch, and smartphone'
-  caption: ''
+  caption: 'Table with laptop, headphones, smartwatch, and smartphone'
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

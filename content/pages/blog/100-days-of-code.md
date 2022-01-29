@@ -3,7 +3,7 @@ title: '#100DaysOfCode'
 date: '2021-06-15'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/blog-021.png
   altText: Post thumbnail image
   caption: ''
 bottomSections: []

@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/blog-012.jpeg
   altText: Dark desk with a page titled "Goal Review"
-  caption: ''
+  caption: Dark desk with a page titled "Goal Review"
 bottomSections: []
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json

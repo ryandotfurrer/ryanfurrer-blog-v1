@@ -4,7 +4,7 @@ date: '2019-08-07'
 featuredImage:
   type: ImageBlock
   url: /images/blog-11.jpeg
-  altText: Post thumbnail image
+  altText: Screenshot of eztoggle.netlify.app
   caption: ''
 bottomSections: []
 layout: PostLayout

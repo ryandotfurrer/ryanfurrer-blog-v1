@@ -89,7 +89,6 @@ sections:
     subtitle: Check out some of my favorite posts below
     colors: colors-f
     posts:
-      - content/pages/blog/demo-post-1.md
       - content/pages/blog/demo-post-2.md
       - content/pages/blog/demo-post-3.md
       - content/pages/blog/designing-and-developing-my-portfolio-v3.md

@@ -91,7 +91,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Portfolio",
+                "label": "Portfolio Home",
                 "url": "https://furrer-2022.netlify.app/",
                 "altText": "Visit my portfolio"
             },

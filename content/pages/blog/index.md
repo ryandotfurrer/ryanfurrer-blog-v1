@@ -148,7 +148,7 @@ bottomSections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: - w-6/12
         margin:
           - mt-12
           - mb-8

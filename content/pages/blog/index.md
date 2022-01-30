@@ -147,7 +147,7 @@ topSections:
           - pb-12
           - pl-4
           - pr-4
-        justifyContent: center
+        justifyContent: flex-end
       title:
         textAlign: center
       subtitle:

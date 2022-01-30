@@ -71,7 +71,7 @@ topSections:
         justifyContent: flex-start
     type: FeatureHighlightSection
   - elementId: ''
-    colors: colors-b
+    colors: colors-a
     backgroundSize: full
     title: Read Blog
     subtitle: Publish Date

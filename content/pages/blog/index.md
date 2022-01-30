@@ -160,8 +160,8 @@ bottomSections:
           - mr-4
         padding:
           - p-9
-            width: 
-              - w-6/12
+        width: 
+          - w-6/12
         alignItems: center
         justifyContent: center
         flexDirection: col

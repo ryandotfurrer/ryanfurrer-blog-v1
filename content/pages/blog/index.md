@@ -73,7 +73,7 @@ topSections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: Blog Post Title
+    title: Read Blog
     subtitle: Publish Date
     badge:
       label: LATEST POST

@@ -138,7 +138,7 @@ img {
 }
 
 #main article > div > div {
-    overflow: scroll;
+    overflow: auto;
 }
 
 #revue-embed form div input {

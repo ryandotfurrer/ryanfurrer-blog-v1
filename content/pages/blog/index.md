@@ -158,7 +158,6 @@ topSections:
     subtitle: Featured blog posts section example
     colors: colors-a
     posts:
-      - content/pages/blog/post-one.md
       - content/pages/blog/100-days-of-code.md
     type: FeaturedPostsSection
     variant: variant-c

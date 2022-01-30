@@ -123,44 +123,6 @@ topSections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
-  - elementId: ''
-    showDate: false
-    showAuthor: false
-    showExcerpt: false
-    actions:
-      - type: Button
-        label: View All
-        altText: View All Posts
-        url: /blog
-        style: primary
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    title: Featured
-    subtitle: Featured blog posts section example
-    colors: colors-a
-    posts:
-      - content/pages/blog/100-days-of-code.md
-    type: FeaturedPostsSection
-    variant: variant-b
 bottomSections:
   - elementId: ''
     colors: colors-f

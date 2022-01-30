@@ -98,7 +98,7 @@
             {
                 "type": "Link",
                 "label": "Projects",
-                "url": "/",
+                "url": "https://furrer-2022.netlify.app/#projects",
                 "altText": "View my projects"
             },
             {

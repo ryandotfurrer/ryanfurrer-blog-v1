@@ -127,7 +127,6 @@ topSections:
     showDate: false
     showAuthor: false
     showExcerpt: false
-    variant: variant-c
     actions:
       - type: Button
         label: View All

@@ -56,7 +56,7 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-![](/images/blog-026.png)
+![](/images/portfolio-cover-image-v3.svg)
 
 ## The Why
 

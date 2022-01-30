@@ -73,7 +73,7 @@ topSections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: Read Blog
+    title: Another Modern CSS Reset
     subtitle: Published 1/31/22
     badge:
       label: LATEST POST

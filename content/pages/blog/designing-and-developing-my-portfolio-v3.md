@@ -3,7 +3,7 @@ title: Designing and Developing My Portfolio - v3
 date: '2021-07-25'
 featuredImage:
   type: ImageBlock
-  url: /images/blog-026.png
+  url: /images/portfolio-cover-image-v3.svg
   altText: Designing and Developing My Portfolio - v3
   caption: Designing and Developing My Portfolio - v3
 bottomSections:

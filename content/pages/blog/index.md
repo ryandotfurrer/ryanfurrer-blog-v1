@@ -160,6 +160,7 @@ topSections:
     posts:
       - content/pages/blog/100-days-of-code.md
     type: FeaturedPostsSection
+    variant: variant-b
 bottomSections:
   - elementId: ''
     colors: colors-f

@@ -15,6 +15,16 @@
                 "altText": "View my portfolio"
             },
             {
+                "label": "Projects",
+                "altText": "View my projects",
+                "url": "https://furrer-2022.netlify.app/#projects",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
                 "label": "Blog",
                 "altText": "View all Blogs",
                 "url": "/blog",
@@ -40,16 +50,6 @@
                 "label": "GitHub",
                 "altText": "View my GitHub profile",
                 "url": "https://github.com/TheRyanFurrer",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
-                "label": "Projects",
-                "altText": "View my projects",
-                "url": "https://furrer-2022.netlify.app/#projects",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/portfolio-cover-image-v3.svg
   altText: v3 of Ryan Furrer logo
-  caption: Designing and Developing My Portfolio - v3
+  caption: v3 of Ryan Furrer logo
 bottomSections:
   - elementId: ''
     colors: colors-f

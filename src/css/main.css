@@ -138,7 +138,7 @@ img {
 }
 
 #main article > div > div {
-    overflow: auto;
+    overflow: visible;
 }
 
 #revue-embed form div input {

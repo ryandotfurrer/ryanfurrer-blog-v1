@@ -48,7 +48,7 @@
             },
             {
                 "label": "Projects",
-                "altText": "",
+                "altText": "View my projects",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",

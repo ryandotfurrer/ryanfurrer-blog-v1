@@ -162,7 +162,7 @@ topSections:
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
     type: FeaturedPostsSection
-    variant: variant-a
+    variant: variant-c
 bottomSections:
   - elementId: ''
     colors: colors-f

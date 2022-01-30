@@ -137,7 +137,7 @@ img {
     margin: 0 auto;
 }
 
-#main article {
+#main article > div > div {
     overflow: scroll;
 }
 

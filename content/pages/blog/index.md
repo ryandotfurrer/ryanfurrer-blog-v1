@@ -81,7 +81,16 @@ topSections:
       styles:
         self:
           textAlign: left
-    actions: []
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     media:
       type: ImageBlock
       url: /images/portfolio-cover-image-v3.svg

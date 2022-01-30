@@ -91,7 +91,7 @@ topSections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/portfolio-cover-image-v3.svg
       altText: Hero image
     styles:
       self:

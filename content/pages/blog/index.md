@@ -156,7 +156,7 @@ topSections:
         justifyContent: center
     title: Featured
     subtitle: Featured blog posts section example
-    colors: colors-h
+    colors: colors-a
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md

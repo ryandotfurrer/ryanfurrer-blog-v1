@@ -72,7 +72,7 @@ topSections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-h
-    backgroundSize: full
+    backgroundSize: inset
     title: 'A great feature, we’re proud of'
     subtitle: ''
     text: >-

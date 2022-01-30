@@ -86,7 +86,7 @@ sections:
       actions:
         justifyContent: center
     title: Don't know where to start?
-    subtitle: Check out some of my favorite posts below
+    subtitle: 'Check out some of my favorite posts below:'
     colors: colors-f
     posts:
       - content/pages/blog/designing-and-developing-my-portfolio-v3.md

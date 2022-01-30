@@ -146,7 +146,7 @@ img {
   font-size: inherit;
   color: var(--bg-primary);
   background-color: var(--text-secondary);
-  width: 100%;
+  /* width: 100%; */
 }
 
 #revue-embed form div #member_submit {

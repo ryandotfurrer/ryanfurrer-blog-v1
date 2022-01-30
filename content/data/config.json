@@ -97,7 +97,7 @@
             },
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "Projects",
                 "url": "/",
                 "altText": "Homepage"
             },

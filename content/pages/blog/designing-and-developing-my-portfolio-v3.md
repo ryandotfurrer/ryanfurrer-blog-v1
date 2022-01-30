@@ -3,9 +3,9 @@ title: Designing and Developing My Portfolio - v3
 date: '2021-07-25'
 featuredImage:
   type: ImageBlock
-  url: /images/blog-026.png
-  altText: Designing and Developing My Portfolio - v3
-  caption: Designing and Developing My Portfolio - v3
+  url: /images/portfolio-cover-image-v3.svg
+  altText: v3 of Ryan Furrer logo
+  caption: v3 of Ryan Furrer logo
 bottomSections:
   - elementId: ''
     colors: colors-f
@@ -56,7 +56,7 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-![](/images/blog-026.png)
+![](/images/portfolio-cover-image-v3.svg)
 
 ## The Why
 

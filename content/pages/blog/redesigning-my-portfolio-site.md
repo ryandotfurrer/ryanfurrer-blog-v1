@@ -1,5 +1,5 @@
 ---
-title: Redesigning My Portfolio Site
+title: Redesigning My Portfolio Site - v2
 date: '2019-08-16'
 featuredImage:
   type: ImageBlock

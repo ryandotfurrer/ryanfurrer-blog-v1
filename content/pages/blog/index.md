@@ -70,6 +70,57 @@ topSections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+  - elementId: ''
+    colors: colors-a
+    backgroundSize: full
+    title: Another Modern CSS Reset
+    subtitle: Published 1/31/22
+    badge:
+      label: LATEST POST
+      elementId: ''
+      styles:
+        self:
+          textAlign: left
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
+    media:
+      type: ImageBlock
+      url: /images/portfolio-cover-image-v3.svg
+      altText: Hero image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-12
+          - mb-8
+          - ml-4
+          - mr-4
+        padding:
+          - pt-4
+          - pb-4
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: FeatureHighlightSection
 bottomSections:
   - elementId: ''
     colors: colors-f

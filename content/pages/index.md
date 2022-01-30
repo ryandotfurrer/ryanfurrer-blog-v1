@@ -5,8 +5,8 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-c
-    title: Front-End Web Development Blogs for all
-    subtitle: 'Technical articles, how-tos, devJournals, and more!'
+    title: The Ryan Furrer Blog
+    subtitle: Front-End Web Development blogs for all
     actions:
       - type: Button
         label: View more blogs
@@ -86,7 +86,7 @@ sections:
       actions:
         justifyContent: center
     title: Don't know where to start?
-    subtitle: Check out some of my favorite posts below
+    subtitle: 'Check out some of my favorite posts below:'
     colors: colors-f
     posts:
       - content/pages/blog/designing-and-developing-my-portfolio-v3.md

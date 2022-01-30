@@ -91,6 +91,12 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Portfolio",
+                "url": "https://furrer-2022.netlify.app/",
+                "altText": "Visit my portfolio"
+            },
+            {
+                "type": "Link",
                 "label": "Home",
                 "url": "/",
                 "altText": "Homepage"
@@ -104,12 +110,6 @@
                 "iconPosition": "right",
                 "elementId": "",
                 "type": "Link"
-            },
-            {
-                "type": "Link",
-                "label": "Portfolio",
-                "url": "https://furrer-2022.netlify.app/",
-                "altText": "Visit my portfolio"
             },
             {
                 "type": "Link",

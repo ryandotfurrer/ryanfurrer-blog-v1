@@ -81,11 +81,7 @@ topSections:
       styles:
         self:
           textAlign: left
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/portfolio-cover-image-v3.svg

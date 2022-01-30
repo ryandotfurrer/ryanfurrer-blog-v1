@@ -158,6 +158,7 @@ img {
   transition: background-color 0.3s ease;
   padding: 0;
   padding: 0.75em 1.5em;
+  max-width: 50%;
 }
 
 #revue-embed form div #member_submit:hover {

@@ -76,7 +76,7 @@ topSections:
     title: Blog Post Title
     subtitle: ''
     badge:
-      label: This is the badge
+      label: LATEST POST
       elementId: ''
       styles:
         self:

@@ -90,9 +90,9 @@ sections:
     colors: colors-f
     posts:
       - content/pages/blog/designing-and-developing-my-portfolio-v3.md
+      - content/pages/blog/simple-ways-to-build-your-own-blog.md
       - content/pages/blog/redesigning-my-portfolio-site.md
       - content/pages/blog/journey-to-my-new-career-an-introduction.md
-      - content/pages/blog/simple-ways-to-build-your-own-blog.md
     type: FeaturedPostsSection
   - elementId: newsletter-cta
     colors: colors-f

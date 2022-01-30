@@ -648,4 +648,7 @@ nav > Link {
     h3 {
         font-size: 1.424rem;
     }
+    #revue-embed form div input {
+        width: 50%;
+    }
 }

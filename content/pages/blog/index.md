@@ -73,7 +73,7 @@ topSections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'A great feature, we’re proud of'
+    title: Blog Post Title
     subtitle: ''
     badge:
       label: This is the badge

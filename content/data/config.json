@@ -49,7 +49,7 @@
             {
                 "label": "Projects",
                 "altText": "View my projects",
-                "url": "/",
+                "url": "https://furrer-2022.netlify.app/#projects",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

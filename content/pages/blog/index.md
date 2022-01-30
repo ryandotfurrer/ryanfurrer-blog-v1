@@ -136,6 +136,9 @@ bottomSections:
         label: Subscribe
         url: 'https://www.getrevue.co/profile/theryanfurrer'
         style: primary
+        styles:
+          self:
+            width: 
     backgroundImage:
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
       altText: altText of the image

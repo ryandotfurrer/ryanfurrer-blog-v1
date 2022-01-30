@@ -71,7 +71,7 @@ topSections:
         justifyContent: flex-start
     type: FeatureHighlightSection
   - elementId: ''
-    colors: colors-b
+    colors: colors-a
     backgroundSize: full
     title: 'A great feature, we’re proud of'
     subtitle: ''

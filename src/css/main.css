@@ -138,7 +138,7 @@ img {
 }
 
 #main article > div > div {
-    overflow: visible;
+    overflow-wrap: break-word;
 }
 
 #revue-embed form div input {

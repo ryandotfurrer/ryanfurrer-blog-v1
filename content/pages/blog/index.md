@@ -31,8 +31,10 @@ topSections:
     backgroundSize: full
     title: Blogging about web development one article at a time.
     subtitle: ''
-    text: |
-      Keep up to date with new posts via my newsletter or RSS feed.
+    text: >
+      Keep up to date with new posts via my
+      [newsletter](https://www.getrevue.co/profile/theryanfurrer) or
+      [Twitter](https://twitter.com/TheRyanFurrer).
     actions:
       - type: Button
         label: Newsletter

@@ -137,6 +137,10 @@ img {
     margin: 0 auto;
 }
 
+#main article > div > div {
+    overflow-wrap: break-word;
+}
+
 #revue-embed form div input {
   border-radius: 0.5rem;
   border: none;
@@ -647,5 +651,11 @@ nav > Link {
 
     h3 {
         font-size: 1.424rem;
+    }
+    #revue-embed form div input {
+        width: 65%;
+    }
+    #revue-embed form div #member_submit {
+        width: 50%;
     }
 }

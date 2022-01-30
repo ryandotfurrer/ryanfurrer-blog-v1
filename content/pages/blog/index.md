@@ -138,8 +138,7 @@ bottomSections:
         style: primary
         styles:
           self:
-            width: 
-              - w-6/12
+            width: - w-6/12
     backgroundImage:
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
       altText: altText of the image

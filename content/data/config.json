@@ -10,9 +10,19 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": "Go to homepage"
+                "label": "Portfolio Home",
+                "url": "https://furrer-2022.netlify.app/",
+                "altText": "View my portfolio"
+            },
+            {
+                "label": "Projects",
+                "altText": "View my projects",
+                "url": "https://furrer-2022.netlify.app/#projects",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
             },
             {
                 "label": "Blog",
@@ -23,12 +33,6 @@
                 "iconPosition": "right",
                 "elementId": "",
                 "type": "Link"
-            },
-            {
-                "type": "Link",
-                "label": "Portfolio",
-                "url": "https://furrer-2022.netlify.app/",
-                "altText": "View my portfolio"
             },
             {
                 "type": "Link",

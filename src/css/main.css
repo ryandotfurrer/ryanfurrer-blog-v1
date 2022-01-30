@@ -137,6 +137,10 @@ img {
     margin: 0 auto;
 }
 
+#main article {
+    overflow: hidden;
+}
+
 #revue-embed form div input {
   border-radius: 0.5rem;
   border: none;

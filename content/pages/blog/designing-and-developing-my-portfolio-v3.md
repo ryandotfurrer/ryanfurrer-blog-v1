@@ -4,7 +4,7 @@ date: '2021-07-25'
 featuredImage:
   type: ImageBlock
   url: /images/portfolio-cover-image-v3.svg
-  altText: Designing and Developing My Portfolio - v3
+  altText: v3 of Ryan Furrer logo
   caption: Designing and Developing My Portfolio - v3
 bottomSections:
   - elementId: ''

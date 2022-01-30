@@ -74,7 +74,7 @@ topSections:
     colors: colors-a
     backgroundSize: full
     title: Read Blog
-    subtitle: Publish Date
+    subtitle: Published 1/31/22
     badge:
       label: LATEST POST
       elementId: ''

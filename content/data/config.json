@@ -15,12 +15,6 @@
                 "altText": "View my portfolio"
             },
             {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": "Go to homepage"
-            },
-            {
                 "label": "Blog",
                 "altText": "View all Blogs",
                 "url": "/blog",

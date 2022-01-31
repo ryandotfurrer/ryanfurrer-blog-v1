@@ -138,7 +138,7 @@ img {
 }
 
 div[data-sb-field-path="postFeed"] > div > div > div > div { 
-    color: red;
+    background-color: red;
 }
 
 #main article > div > div {

@@ -137,6 +137,10 @@ img {
     margin: 0 auto;
 }
 
+div[data-sb-field-path="postFeed"] > div > div > div:last-child { 
+    transform: scale(.65);
+}
+
 #main article > div > div {
     overflow-wrap: break-word;
 }

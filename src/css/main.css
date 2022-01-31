@@ -138,7 +138,7 @@ img {
 }
 
 div[data-sb-field-path="postFeed"] > div > div > div:last-child { 
-    transform: scale(.65);
+    transform: scale(.75);
 }
 
 #main article > div > div {

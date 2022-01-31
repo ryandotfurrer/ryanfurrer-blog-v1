@@ -138,7 +138,7 @@ img {
 }
 
 * {
-    overflow: fit;
+    overflow: contain;
 }
 
 #main article > div > div {

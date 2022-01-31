@@ -174,17 +174,17 @@ After the main site was built, there were just a few things left to do, these in
 
     I have 3 domains currently forwarded:
 
-    *   [~~blog.theryanfurrer.dev](http://blog.theryanfurrer.dev/) points to [codingcatchup.com~~](http://codingcatchup.com/)
+    *   [blog.theryanfurrer.dev](http://blog.theryanfurrer.dev/) points to [codingcatchup.com](http://codingcatchup.com/)
 
     *   [links.theryanfurrer.dev](http://links.theryanfurrer.dev/) points to [theryanfurrer.dev/pages/links.html](http://theryanfurrer.dev/pages/links.html)
 
     *   [timeline.theryanfurrer.dev](http://timeline.theryanfurrer.dev/) points to my [Polywork](https://www.polywork.com/theryanfurrer) profile
 
 *UPDATE 1/30/21*
-[*blog.theryanfurrer.dev*](http://blog.theryanfurrer.dev/)* no longer works as my blog is now hosted at *[*theryanfurrer.blog*](https://www.theryanfurrer.blog/)*, thus no need for redundancy.*
+[*blog.theryanfurrer.dev*](http://blog.theryanfurrer.dev/)\* no longer works as my blog is now hosted at [*theryanfurrer.blog*](https://www.theryanfurrer.blog/), thus no need for redundancy.\*
 
 ## Wrapping up
 
-That's all I've got for now. I hope you enjoyed reading about my process, and I hope you choose to return for more! Feel free to contact me [via my website](https://theryanfurrer.dev/index.html#contact-me) or on [Twitter](https://twitter.com/TheRyanFurrer) if you have any questions or want to say hello.
+That's all I've got for now. I hope you enjoyed reading about my process, and I hope you choose to return for more! Feel free to contact me via [my website](https://theryanfurrer.dev/contact.html) or on [Twitter](https://twitter.com/TheRyanFurrer) if you have any questions or want to say hello.
 
 There is always more work to be done, but only so many hours in the day! My next project (at the moment) is an e-commerce site built with React. This is new for me, but I am enjoying it so far. Subscribe for more weekly updates, project summaries, and tech articles, and/or follow me on Twitter!

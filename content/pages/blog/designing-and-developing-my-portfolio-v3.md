@@ -76,7 +76,7 @@ This was built about a month after I started learning HTML and CSS. It's nothing
 
 v2 was built about 6 months after the "completion" of v1. I learned a lot in this time, which, I believe, can be observed in the design language. Looking at it now, I see many things that need refinement, but I remember being pleased with the way this one came together at the time.
 
-### [v3](https://theryanfurrer.dev/) - Brand new!
+### [v3](https://the-ryan-furrer-v3.netlify.app/) - Published July 2021
 
 v3 was recently completed and announced to the world on 7/2/21, which is *quite* some time since August 2019. A lot has happened over the years, and I will not make excuses for my insufficient progress... I was simply not disciplined enough to do the work that needs to be done to change careers as I want.
 
@@ -180,8 +180,11 @@ After the main site was built, there were just a few things left to do, these in
 
     *   [timeline.theryanfurrer.dev](http://timeline.theryanfurrer.dev/) points to my [Polywork](https://www.polywork.com/theryanfurrer) profile
 
+*UPDATE 1/30/21*
+[*blog.theryanfurrer.dev*](http://blog.theryanfurrer.dev/)\* no longer works as my blog is now hosted at [*theryanfurrer.blog*](https://www.theryanfurrer.blog/), thus no need for redundancy.\*
+
 ## Wrapping up
 
-That's all I've got for now. I hope you enjoyed reading about my process, and I hope you choose to return for more! Feel free to contact me [via my website](https://theryanfurrer.dev/index.html#contact-me) or on [Twitter](https://twitter.com/TheRyanFurrer) if you have any questions or want to say hello.
+That's all I've got for now. I hope you enjoyed reading about my process, and I hope you choose to return for more! Feel free to contact me via [my website](https://theryanfurrer.dev/contact.html) or on [Twitter](https://twitter.com/TheRyanFurrer) if you have any questions or want to say hello.
 
 There is always more work to be done, but only so many hours in the day! My next project (at the moment) is an e-commerce site built with React. This is new for me, but I am enjoying it so far. Subscribe for more weekly updates, project summaries, and tech articles, and/or follow me on Twitter!

@@ -11,13 +11,13 @@
             {
                 "type": "Link",
                 "label": "Portfolio Home",
-                "url": "https://furrer-2022.netlify.app/",
+                "url": "https://theryanfurrer.dev/",
                 "altText": "View my portfolio"
             },
             {
                 "label": "Projects",
                 "altText": "View my projects",
-                "url": "https://furrer-2022.netlify.app/#projects",
+                "url": "https://theryanfurrer.dev/#projects",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -37,14 +37,14 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "https://furrer-2022.netlify.app/about.html",
+                "url": "https://theryanfurrer.dev/about.html",
                 "altText": "Learn more about Ryan Furrer"
             },
             {
                 "type": "Link",
                 "label": "Contact",
                 "altText": "Contact Ryan Furrer",
-                "url": "https://furrer-2022.netlify.app/contact.html"
+                "url": "https://theryanfurrer.dev/contact.html"
             },
             {
                 "label": "GitHub",
@@ -92,13 +92,13 @@
             {
                 "type": "Link",
                 "label": "Portfolio Home",
-                "url": "https://furrer-2022.netlify.app/",
+                "url": "https://theryanfurrer.dev/",
                 "altText": "Visit my portfolio"
             },
             {
                 "type": "Link",
                 "label": "Projects",
-                "url": "https://furrer-2022.netlify.app/#projects",
+                "url": "https://theryanfurrer.dev/#projects",
                 "altText": "View my projects"
             },
             {
@@ -114,13 +114,13 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "https://furrer-2022.netlify.app/about.html",
+                "url": "https://theryanfurrer.dev/about.html",
                 "altText": "Learn more about Ryan Furrer"
             },
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "https://furrer-2022.netlify.app/contact.html",
+                "url": "https://theryanfurrer.dev/contact.html",
                 "altText": "Contact Ryan Furrer"
             },
             {

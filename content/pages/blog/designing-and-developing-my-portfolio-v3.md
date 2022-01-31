@@ -76,7 +76,7 @@ This was built about a month after I started learning HTML and CSS. It's nothing
 
 v2 was built about 6 months after the "completion" of v1. I learned a lot in this time, which, I believe, can be observed in the design language. Looking at it now, I see many things that need refinement, but I remember being pleased with the way this one came together at the time.
 
-### [v3](https://theryanfurrer.dev/) - Brand new!
+### [v3](https://the-ryan-furrer-v3.netlify.app/) - Brand new!
 
 v3 was recently completed and announced to the world on 7/2/21, which is *quite* some time since August 2019. A lot has happened over the years, and I will not make excuses for my insufficient progress... I was simply not disciplined enough to do the work that needs to be done to change careers as I want.
 

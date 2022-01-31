@@ -138,7 +138,7 @@ img {
 }
 
 * {
-    overflow: contain;
+    overflow: scroll;
 }
 
 #main article > div > div {

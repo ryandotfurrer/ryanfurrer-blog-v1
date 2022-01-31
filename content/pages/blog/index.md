@@ -16,10 +16,10 @@ postFeed:
         - pr-9
         - pb-9
       margin:
-        - mt-12
-        - ml-4
-        - mb-6
-        - mr-4
+        - mt-0
+        - ml-0
+        - mb-0
+        - mr-0
       borderRadius: medium
       borderColor: border-secondary
 styles:

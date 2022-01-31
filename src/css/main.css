@@ -138,7 +138,7 @@ img {
 }
 
 * {
-    overflow-x: clip;
+    overflow-x: visible;
 }
 
 #main article > div > div {

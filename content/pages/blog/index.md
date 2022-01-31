@@ -11,10 +11,10 @@ postFeed:
     self:
       width: wide
       padding:
-        - pt-0
-        - pl-0
-        - pr-0
-        - pb-0
+        - pt-9
+        - pl-9
+        - pr-9
+        - pb-9
       margin:
         - mt-0
         - ml-0

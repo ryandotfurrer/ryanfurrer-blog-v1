@@ -137,7 +137,7 @@ img {
     margin: 0 auto;
 }
 
-div[data-sb-field-path="postFeed"] { 
+div[data-sb-field-path="postFeed"] > div > div > div > div { 
     color: red;
 }
 

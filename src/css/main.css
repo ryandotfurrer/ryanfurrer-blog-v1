@@ -137,9 +137,7 @@ img {
     margin: 0 auto;
 }
 
-/* * {
-    overflow-x: visible;
-} */
+div[]
 
 #main article > div > div {
     overflow-wrap: break-word;

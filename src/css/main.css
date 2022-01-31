@@ -137,7 +137,9 @@ img {
     margin: 0 auto;
 }
 
-div[]
+div[data-sb-field-path="postFeed"] { 
+    color: red;
+}
 
 #main article > div > div {
     overflow-wrap: break-word;

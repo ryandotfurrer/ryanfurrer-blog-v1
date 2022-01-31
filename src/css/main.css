@@ -138,7 +138,7 @@ img {
 }
 
 * {
-    overflow-wrap: auto;
+    overflow: auto;
 }
 
 #main article > div > div {

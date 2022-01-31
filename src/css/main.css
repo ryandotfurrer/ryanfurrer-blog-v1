@@ -138,7 +138,7 @@ img {
 }
 
 * {
-    overflow: scroll;
+    overflow-x: scroll;
 }
 
 #main article > div > div {

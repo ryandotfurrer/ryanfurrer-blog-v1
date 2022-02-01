@@ -442,6 +442,8 @@ Next, I add some defaults that I prefer:
 
 `-webkit-font-smoothing: antialiased;` - I can’t explain this any better than [Josh](https://www.joshwcomeau.com/css/custom-css-reset/#digit-font-smoothing); however, know it only applies to computers running macOS.
 
+\<hr />
+
 ## Part 3: Inner-Element Styles
 
 ```
@@ -520,6 +522,8 @@ button {
   cursor: pointer;
 }
 ```
+
+
 
 ### Improving Accessibility and Improving Styling
 
@@ -690,6 +694,8 @@ button {
 
 The above removes the default `background` and `border` of buttons and ensures the cursor becomes a 👆🏻 to suggest something will happen when you click it.
 
+\<hr />
+
 ## Part 4: Fixing Browser Inconsistencies
 
 ```
@@ -748,6 +754,8 @@ The CSS rules above I saw on [Kent C. Dodds’](https://kentcdodds.com/) new sit
 
 Read the comments in the code above to learn more about each rule.
 
+\<hr />
+
 ## Part 5: Increasing Accessibility
 
 ```
@@ -771,6 +779,8 @@ Read the comments in the code above to learn more about each rule.
 The above media query is something I consider a *must-have* for all projects. This is because it respects users that prefer reduced motion when viewing websites, mobile apps, and operating systems - basically, any piece of software.
 
 Some people have reported experiencing bouts of motion sickness and vertigo when they see too much motion in software partially caused by [vestibular disorders](https://www.a11yproject.com/posts/understanding-vestibular-disorders/).
+
+\<hr />
 
 ## Wrapping Up
 

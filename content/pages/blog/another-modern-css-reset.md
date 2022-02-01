@@ -378,6 +378,8 @@ Lastly, adding `height: 100%;` to our `<html>` and `<body>` tags allows us to us
 
 I don’t use `vh` on mobile sites because all the browsers are different and often show/hide elements based on what direction the user is scrolling; as such, using `vh` can cause unexpected effects.
 
+\<hr>
+
 ```
 body {
   display: flex;

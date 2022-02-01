@@ -4,7 +4,7 @@ date: '2022-01-31'
 featuredImage:
   type: ImageBlock
   url: /images/another-modern-reset-cover.jpg
-  altText: Post thumbnail image
+  altText: 'Clean white desk with laptop, mouse, and phone.'
   caption: ''
 bottomSections:
   - elementId: ''

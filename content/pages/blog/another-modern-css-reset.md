@@ -3,7 +3,7 @@ title: Another Modern CSS Reset
 date: '2022-01-31'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/another-modern-reset-cover.jpg
   altText: Post thumbnail image
   caption: ''
 bottomSections:

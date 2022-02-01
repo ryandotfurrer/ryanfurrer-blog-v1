@@ -60,7 +60,7 @@ author: content/data/team/person-p8afuy38p.json
 
 [View it on GitHub](https://github.com/TheRyanFurrer/css-reset)
 
-What is a CSS Reset for the uninitiated, and why is it useful?
+What is a CSS Reset and why is it useful?
 
 In its simplest form, a CSS Reset is a stylesheet used to remove any unwanted default styling a browser might apply to your HTML elements. Many people - myself included - choose to use CSS Resets to add their *preferred* default styling to their projects so there is some form of consistency and continuity between their projects.
 

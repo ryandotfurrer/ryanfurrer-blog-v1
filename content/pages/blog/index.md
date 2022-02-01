@@ -84,9 +84,9 @@ topSections:
         self:
           textAlign: left
     actions:
-      - label: Learn more
-        altText: ''
-        url: /
+      - label: Read Blog
+        altText: Read Blog
+        url: /blog/another-modern-css-reset
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -95,7 +95,7 @@ topSections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/portfolio-cover-image-v3.svg
+      url: /images/another-modern-reset-cover.jpg
       altText: Hero image
     styles:
       self:

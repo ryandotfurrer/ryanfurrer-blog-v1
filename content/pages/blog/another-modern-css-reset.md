@@ -372,9 +372,9 @@ Next up is `html:focus-within` - this enables smooth scrolling without an issue 
 
 Lastly, adding `height: 100%;` to our `<html>` and `<body>` tags allows us to use percentage-based heights on elements on our page. I always wondered by this did not work as you’d expect, and as [Josh explains](https://www.joshwcomeau.com/css/custom-css-reset/#digit-percentage-based-heights) “…the *height* of an element is calculated based on its *children*.”
 
-## I don’t use `vh` on mobile sites because all the browsers are different and often show/hide elements based on what direction the user is scrolling; as such, using `vh` can cause unexpected effects.
+I don’t use `vh` on mobile sites because all the browsers are different and often show/hide elements based on what direction the user is scrolling; as such, using `vh` can cause unexpected effects.
 
-```css
+```
 body {
   display: flex;
   flex-direction: column;
@@ -407,7 +407,7 @@ body > footer {
 
 This part is a bit magical for me; we’ll break this down piece by piece again. You may see some reused styles, such as `display: flex;` - that is because, in my reset, I don’t like to do much nesting or truncating so that I can easily see what is happening I need to fix any issues.
 
-```css
+```
 body {
   display: flex;
   flex-direction: column;
@@ -438,7 +438,7 @@ Next, I add some defaults that I prefer:
 
 ## Part 3: Inner-Element Styles
 
-```css
+```
 /*-----Element Styles-----*/
 ul[role='list'],
 ol[role='list'] {
@@ -517,7 +517,7 @@ button {
 
 ### Improving Accessibility and Improving Styling
 
-```css
+```
 ul[role='list'],
 ol[role='list'] {
   list-style: none;
@@ -528,7 +528,7 @@ This removes the `list-style` on any `ol` or `ul` with an attribute of `role=‘
 
 ### Improving Working with Images
 
-```css
+```
 img,
 picture,
 video,
@@ -543,7 +543,7 @@ This rule is rather straightforward - it makes any image render as a block eleme
 
 ### Baseline Text Styles
 
-```css
+```
 p,
 h1,
 h2,
@@ -567,7 +567,7 @@ The second rule above reduces the `line-height` of heading elements `<h1>`, `<h2
 
 ### Preferred Styles
 
-```css
+```
 small {
   font-size: 80%;
 }
@@ -615,7 +615,7 @@ button {
 
 The rules above are more so preferred styles that also do away with any browser inconsistencies. We’ll go through these quickly as they are relatively straightforward.
 
-```css
+```
 small { 
 	font-size: 80%;
 }
@@ -623,7 +623,7 @@ small {
 
 Sets `font-size` of any text inside the html `<small>` tag to 80% of the regular size for that element. For example, if we have a `<p>` tag with a regular size of `1rem` or `16px`, the `<small>` size is `0.8rem`, or `12.8px`.
 
-```css
+```
 b, strong { 
 	font-weight: bolder; 
 }
@@ -631,7 +631,7 @@ b, strong {
 
 Old Microsoft Edge (before it was Chromium-based) and Safari render the `<b>` and `<strong>` tags differently from other browsers. This rule sets a standard boldness (`font-weight`) to display any text wrapped in those tags.
 
-```css
+```
 sub,
 sup {
   font-size: 75%;
@@ -649,7 +649,7 @@ sup {
 
 Prevent `<sub>` and `<sup>` elements from affecting the `line-height` in all browsers.
 
-```css
+```
 a:not([class]) {
   text-decoration-skip-ink: auto;
 }
@@ -663,7 +663,7 @@ The first rule assigns default styles (`text-decoration: underline;`) to any `<a
 
 The critical thing to remember when using these rules and get the most out of them - to [keep your code DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don't%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.)) - is to *never* apply a class to an anchor tag you’d like to maintain default styling on.
 
-```css
+```
 input,
 button,
 textarea,
@@ -674,7 +674,7 @@ select {
 
 This rule tells the `<input>`, `<button>`, `<texture>`, and `<select>` elements to use, or *inherit* the same font as their parent element. By default, these will use a different font which, for me, is unwanted.
 
-```css
+```
 button {
   background: none;
   border: none;
@@ -686,7 +686,7 @@ The above removes the default `background` and `border` of buttons and ensures t
 
 ## Part 4: Fixing Browser Inconsistencies
 
-```css
+```
 /*-----Browser Inconsistancy Fixes-----*/
 /* Correct the inability to style clickable types in iOS and Safari */
 button,
@@ -744,7 +744,7 @@ Read the comments in the code above to learn more about each rule.
 
 ## Part 5: Increasing Accessibility
 
-```css
+```
 /*-----Media Queries-----*/
 @media (prefers-reduced-motion: reduce) {
   html:focus-within {

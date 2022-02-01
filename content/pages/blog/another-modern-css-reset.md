@@ -74,6 +74,8 @@ This CSS Reset is a conglomerate of cherry-picked properties for my use case fro
 
 ## The Entire Reset
 
+\[View it on GitHub]\(https://github.com/TheRyanFurrer/css-reset)
+
 ```
 /*
   This CSS Reset is a conglomerate of Andy Bell's, Josh Commeau, and some properties I found from Kent C. Dodds' website.

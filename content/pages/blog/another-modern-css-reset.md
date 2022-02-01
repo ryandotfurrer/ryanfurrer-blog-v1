@@ -56,7 +56,7 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-![](/images/another-modern-reset-cover.jpg)
+![Clean white desk with laptop, mouse, and phone.](/images/another-modern-reset-cover.jpg)
 
 What is a CSS Reset for the uninitiated, and why is it useful?
 

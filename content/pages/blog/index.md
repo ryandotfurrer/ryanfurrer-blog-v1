@@ -86,7 +86,7 @@ topSections:
     actions:
       - label: Read Blog
         altText: ''
-        url: /
+        url: /blog/another-modern-css-reset
         showIcon: false
         icon: arrowRight
         iconPosition: right

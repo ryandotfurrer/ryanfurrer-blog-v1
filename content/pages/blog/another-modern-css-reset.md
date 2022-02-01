@@ -5,7 +5,7 @@ featuredImage:
   type: ImageBlock
   url: /images/another-modern-reset-cover.jpg
   altText: 'Clean white desk with laptop, mouse, and phone.'
-  caption: ''
+  caption: 'Clean white desk with laptop, mouse, and phone.'
 bottomSections:
   - elementId: ''
     colors: colors-f

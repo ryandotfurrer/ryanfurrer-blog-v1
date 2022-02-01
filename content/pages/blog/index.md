@@ -85,7 +85,7 @@ topSections:
           textAlign: left
     actions:
       - label: Read Blog
-        altText: ''
+        altText: Read Blog
         url: /blog/another-modern-css-reset
         showIcon: false
         icon: arrowRight

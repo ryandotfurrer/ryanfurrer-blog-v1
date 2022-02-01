@@ -84,7 +84,7 @@ topSections:
         self:
           textAlign: left
     actions:
-      - label: Learn more
+      - label: Read Blog
         altText: ''
         url: /
         showIcon: false

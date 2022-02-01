@@ -74,7 +74,7 @@ This CSS Reset is a conglomerate of cherry-picked properties for my use case fro
 
 ## The Entire Reset
 
-\[View it on GitHub]\(https://github.com/TheRyanFurrer/css-reset)
+[View it on GitHub]\(https://github.com/TheRyanFurrer/css-reset)
 
 ```
 /*

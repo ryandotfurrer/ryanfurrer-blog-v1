@@ -56,7 +56,7 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-I will also update the GitHub repogood-looking
+![](/images/another-modern-reset-cover.jpg)
 
 [View it on GitHub](https://github.com/TheRyanFurrer/css-reset)
 

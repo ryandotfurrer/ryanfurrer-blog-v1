@@ -296,8 +296,7 @@ If you only chose to include these two stylings, you would be set up for success
 
 ## Part 2: Default Body Styles
 
-```
-
+```css
 html {
   text-size-adjust: none;
   -moz-text-size-adjust: none;
@@ -769,9 +768,11 @@ Read the comments in the code above to learn more about each rule.
 }
 ```
 
+
+
 The above media query is something I consider a *must-have* for all projects. It respects users that prefer reduced motion when viewing websites, mobile apps, and operating systems - basically, any piece of software.
 
-Some people have reported experiencing bouts of motion sickness and vertigo when they see too much motion in software partially caused by [vestibular disorders](https://www.a11yproject.com/posts/understanding-vestibular-disorders/).
+Some people have reported experiencing bouts of motion sickness and vertigo when they see too much motion in software partially caused by [vestibular disorders](https://www.a11yproject.com/posts/understanding-vestibular-disorders/). 
 
 ## Wrapping Up
 

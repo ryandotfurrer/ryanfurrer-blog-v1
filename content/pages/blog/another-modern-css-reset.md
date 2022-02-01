@@ -56,13 +56,15 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-![Clean white desk with laptop, mouse, and phone.](/images/another-modern-reset-cover.jpg)
+I will also update the GitHub repogood-looking
+
+[View it on GitHub](https://github.com/TheRyanFurrer/css-reset)
 
 What is a CSS Reset for the uninitiated, and why is it useful?
 
 In its simplest form, a CSS Reset is a stylesheet used to remove any unwanted default styling a browser might apply to your HTML elements. Many people - myself included - choose to use CSS Resets to add their *preferred* default styling to their projects so there is some form of consistency and continuity between their projects.
 
-While browsers have pared down their default stylings and brought them more in line with one another, a CSS Reset can still offer you a handful of benefits. We’ll dig more into those as we move along in my CSS reset, but first, let us take a look at the reset in its entirety. This can seem a bit lengthy but stick with me.
+While browsers have pared down their default stylings and brought them more in line with one another, a CSS Reset can still offer you a handful of benefits. We’ll dig more into those as we move along in my CSS reset, but first, let us take a look at the reset in its entirety. Today's blog will be a bit lengthy but stick with me.
 
 <hr>
 
@@ -74,7 +76,7 @@ This CSS Reset is a conglomerate of cherry-picked properties for my use case fro
 
 ## The Entire Reset
 
-[View it on GitHub]\(https://github.com/TheRyanFurrer/css-reset)
+[View it on GitHub](https://github.com/TheRyanFurrer/css-reset)
 
 ```
 /*
@@ -349,7 +351,7 @@ body > footer {
 }
 ```
 
-This part is a bit lengthy so let’s break it down a bit further.
+This part is a bit lengthy so let’s break it down further.
 
 ```
 html {
@@ -368,11 +370,11 @@ body {
 }
 ```
 
-First, we set `text-size-adjust` and its accompanying browser pre-fixes to none.  When Apple released the first iPhone, and you would rotate your device when viewing a site, the text size would enlarge to make things easier to see. This made sense before responsive websites; however, it is archaic and unnecessary. That being said, Apple still makes it happen. This disables it from occurring.
+First, we set `text-size-adjust` and its accompanying browser pre-fixes to none.  When Apple released the first iPhone, and you would rotate your device when viewing a site, the text size would enlarge to make things easier to see. This made sense before responsive websites; however, it is archaic and unnecessary. That being said, Apple still makes it happen. `text-size-adjust` disables it from occurring.
 
 Next up is `html:focus-within` - this enables smooth scrolling without an issue pointed out in this article on CSS-Tricks. I highly encourage you to [read and understand](https://css-tricks.com/fixing-smooth-scrolling-with-find-on-page/) why using `html { scroll-behavior: smooth;}` is not currently advised.
 
-Lastly, adding `height: 100%;` to our `<html>` and `<body>` tags allows us to use percentage-based heights on elements on our page. I always wondered by this did not work as you’d expect, and as [Josh explains](https://www.joshwcomeau.com/css/custom-css-reset/#digit-percentage-based-heights) “…the *height* of an element is calculated based on its *children*.”
+Lastly, adding `height: 100%;` to our `<html>` and `<body>` tags allows us to use percentage-based heights on elements on our page. I always wondered by this did not work as you’d expect, and as [Josh explains](https://www.joshwcomeau.com/css/custom-css-reset/#digit-percentage-based-heights), “…the *height* of an element is calculated based on its *children*.”
 
 I don’t use `vh` on mobile sites because all the browsers are different and often show/hide elements based on what direction the user is scrolling; as such, using `vh` can cause unexpected effects.
 
@@ -407,7 +409,7 @@ body > footer {
 }
 ```
 
-This part is a bit magical for me; we’ll break this down piece by piece again. You may see some reused styles, such as `display: flex;` - that is because, in my reset, I don’t like to do much nesting or truncating so that I can easily see what is happening I need to fix any issues.
+This part is a bit magical for me; we’ll break this down piece by piece again. You may see some reused styles, such as `display: flex;` - that is because, in my reset, I don’t like to do much nesting or truncating so that I can easily see what is happening if I need to fix any issues.
 
 ```
 body {
@@ -428,9 +430,9 @@ Next, I add some defaults that I prefer:
 
 `line-height: 1.5;` - a basic default recommended for better reading experiences and accessibility. This is unnecessary for large font and headings, which you’ll see get over-written later.
 
-`margin: 0 auto;` - centers all visible content on the page. This is necessary when you take into account the following style…
+`margin: 0 auto;` - centers all visible content on the page. This is necessary when you take into account the following style.
 
-`max-width: 1440px` - I find that a page width of 1440px works well for me as it limits how far people have to move their heads to see both ends of your website. As much as people enjoy massive ultra-wide displays, I don’t think having the header navigation spanning 34” is helpful, nor is it good to look at.
+`max-width: 1440px` - I find that a page width of 1440px works well for me as it limits how far people have to move their heads to see both ends of your website. However, as much as people enjoy massive ultra-wide displays, I don’t think having the header navigation spanning 34” is helpful, nor is it good looking.
 
 `padding: 0 1rem;` - this adds padding to the left and right sides of the body, which is great for mobile browsing. Otherwise, you’d have no space between the content and where the screen ends.
 
@@ -541,7 +543,7 @@ svg {
 }
 ```
 
-This rule is rather straightforward - it makes any image render as a block element and removes its ability to break outside of its container by settings its `max-width` to 100%.
+This rule is relatively straightforward - it makes any image render as a block element and removes its ability to break outside of its container by settings its `max-width` to 100%.
 
 ### Baseline Text Styles
 
@@ -563,7 +565,7 @@ h3 {
 }
 ```
 
-The first rule encourages the browser to break lines on words rather than insert hyphens and “…will only create a break if an entire word cannot be placed on its own line without overflowing...” - As per the [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap). This - in my opinion - is a stylistic choice rather than a *must-have*.
+The first rule encourages the browser to break lines on words rather than insert hyphens, and “…will only create a break if an entire word cannot be placed on its own line without overflowing...” - As per the [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap). This - in my opinion - is a stylistic choice rather than a *must-have*.
 
 The second rule above reduces the `line-height` of heading elements `<h1>`, `<h2>`, and `<h3>`. As per the [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height#accessibility_concerns), only the *main paragraph content* must have a `line-height` of 1.5. While still maintaining accessibility, headings may have a slightly smaller `line-height` as the larger font sizes associated with them create more white space, thus possibly leading to header lines being spread too far apart.
 
@@ -615,7 +617,7 @@ button {
 }
 ```
 
-The rules above are more so preferred styles that also do away with any browser inconsistencies. We’ll go through these quickly as they are relatively straightforward.
+The rules above are preferred styles that also do away with any browser inconsistencies. We’ll go through these quickly as they are relatively straightforward.
 
 ```
 small { 
@@ -623,7 +625,7 @@ small {
 }
 ```
 
-Sets `font-size` of any text inside the html `<small>` tag to 80% of the regular size for that element. For example, if we have a `<p>` tag with a regular size of `1rem` or `16px`, the `<small>` size is `0.8rem`, or `12.8px`.
+Sets `font-size` of any text inside the HTML `<small>` tag to 80% of the regular size for that element. For example, if we have a `<p>` tag with a regular size of `1rem` or `16px`, the `<small>` size is `0.8rem`, or `12.8px`.
 
 ```
 b, strong { 
@@ -631,7 +633,7 @@ b, strong {
 }
 ```
 
-Old Microsoft Edge (before it was Chromium-based) and Safari render the `<b>` and `<strong>` tags differently from other browsers. This rule sets a standard boldness (`font-weight`) to display any text wrapped in those tags.
+Old Microsoft Edge (before it was Chromium-based) and Safari render the `<b>` and `<strong>` tags differently from other browsers, this rule sets a standard boldness (`font-weight`) to display any text wrapped in those tags.
 
 ```
 sub,
@@ -663,7 +665,7 @@ a:is([class]) {
 
 The first rule assigns default styles (`text-decoration: underline;`) to any `<a>` without a class. The second rule applies `text-decoration: none;` to any `<a>` *with* a class. This is incredibly useful in reducing the number of times you might need to repeat these rules to get the styling you’d like.
 
-The critical thing to remember when using these rules and get the most out of them - to [keep your code DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don't%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.)) - is to *never* apply a class to an anchor tag you’d like to maintain default styling on.
+The critical thing to remember when using these rules and get the most out of them - to [keep your code DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don't%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.)) - is to *never* apply a class to an anchor tag where you’d like to maintain default styling.
 
 ```
 input,
@@ -674,7 +676,7 @@ select {
 }
 ```
 
-This rule tells the `<input>`, `<button>`, `<texture>`, and `<select>` elements to use, or *inherit* the same font as their parent element. By default, these will use a different font which, for me, is unwanted.
+This rule tells the `<input>`, `<button>`, `<texture>`, and `<select>` elements to use or *inherit* the same font as their parent element. By default, these will use a different font which, for me, is unwanted.
 
 ```
 button {
@@ -764,7 +766,7 @@ Read the comments in the code above to learn more about each rule.
 }
 ```
 
-The above media query is something I consider a *must-have* for all projects. It respects users that prefer reduced motion when viewing websites, mobile apps, and operating systems - basically, any piece of software.
+The above media query is something I consider a *must-have* for all projects. This is because it respects users that prefer reduced motion when viewing websites, mobile apps, and operating systems - basically, any piece of software.
 
 Some people have reported experiencing bouts of motion sickness and vertigo when they see too much motion in software partially caused by [vestibular disorders](https://www.a11yproject.com/posts/understanding-vestibular-disorders/).
 
@@ -772,8 +774,12 @@ Some people have reported experiencing bouts of motion sickness and vertigo when
 
 Phew, that was a lot!
 
-So there you have it, a CSS Reset that is a conglomeration of the resets of two well-known developers, [Andy Bell](https://piccalil.li/blog/a-modern-css-reset/) and [Josh Comeau](https://www.joshwcomeau.com/css/custom-css-reset/), and some code from Kent C. Dodds’ [new site](https://kentcdodds.com/).
+So there you have it, a CSS Reset that is a conglomeration of the resets of two well-known developers, [Andy Bell](https://piccalil.li/blog/a-modern-css-reset/) and [Josh Comeau](https://www.joshwcomeau.com/css/custom-css-reset/), and some borrowed code from Kent C. Dodds’ [new site](https://kentcdodds.com/).
 
 While the code snippets I used from Kent’s website are more for fixing browser inconsistencies (a lot for Safari), Josh’s CSS Reset focuses a lot on making the browser easier/better to build in, while Andy’s does the same, and then some.
 
 It is important to note that there is no single correct way to do a CSS Reset, which is why you can see that while the two of them share similarities, they are different enough that I feel they achieve slightly different things in the end. This could, of course, be reflective of each developer’s style, or there may be additional tools such as frameworks or CSS Libraries that we do not see.
+
+Feel free to [view the reset on GitHub](https://github.com/TheRyanFurrer/css-reset) and use it in your projects! Or you may wish to modify it to your liking. As I update the reset, the GitHub repo will also be updated. I'd love to hear your thoughts on this, so feel free to reach out to me on [Twitter](https://twitter.com/TheRyanFurrer) or via my [portfolio](https://theryanfurrer.dev/contact.html).
+
+[View it on GitHub](https://github.com/TheRyanFurrer/css-reset)

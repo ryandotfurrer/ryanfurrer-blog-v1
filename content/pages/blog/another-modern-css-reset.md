@@ -283,7 +283,7 @@ input,
 
 ## Part 1: Universal Styles
 
-```css
+```
 *,
 *::before,
 *::after {
@@ -297,11 +297,11 @@ input,
 }
 ```
 
-If you only chose to include these two stylings, you would be set up for success, to be sure - this would be a perfectly acceptable simple and minimal CSS Reset. It makes sizing elements easier and removes all margin and padding on all elements by taking advantage of the universal selector, \*.
+If you only chose to include these two stylings, you would be set up for success, to be sure - this would be a perfectly acceptable simple and minimal CSS Reset. It makes sizing elements easier and removes all margin and padding on all elements by taking advantage of the universal selector, `*`.
 
 ## Part 2: Default Body Styles
 
-```css
+```
 html {
   text-size-adjust: none;
   -moz-text-size-adjust: none;
@@ -349,7 +349,7 @@ body > footer {
 
 This part is a bit lengthy so let’s break it down a bit further.
 
-```css
+```
 html {
   text-size-adjust: none;
   -moz-text-size-adjust: none;
@@ -374,7 +374,7 @@ Lastly, adding height: 100%; to our html and body tags allows us to use percenta
 
 ## I don’t use vh on mobile sites because all the browsers are different and often show/hide elements based on what direction the user is scrolling; as such, using vh can cause unexpected effects.
 
-```css
+```
 body {
   display: flex;
   flex-direction: column;
@@ -407,7 +407,7 @@ body > footer {
 
 This part is a bit magical for me; we’ll break this down piece by piece again. You may see some reused styles, such as display: flex; - that is because, in my reset, I don’t like to do much nesting or truncating so that I can easily see what is happening I need to fix any issues.
 
-```css
+```
 body {
   display: flex;
   flex-direction: column;
@@ -440,7 +440,7 @@ Next, I add some defaults that I prefer:
 
 ## Part 3: Inner-Element Styles
 
-```css
+```
 /*-----Element Styles-----*/
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
 ul[role='list'],
@@ -528,7 +528,7 @@ button {
 
 ### Improving Accessibility and Improving Styling
 
-```css
+```
 ul[role='list'],
 ol[role='list'] {
   list-style: none;
@@ -539,7 +539,7 @@ This removes the list-style on any ol or ul with an attribute of role=‘list'. 
 
 ### Improving Working with Images
 
-```css
+```
 img,
 picture,
 video,
@@ -554,7 +554,7 @@ This rule is rather straightforward - it makes any image element render as a blo
 
 ### Baseline Text Styles
 
-```css
+```
 p,
 h1,
 h2,
@@ -578,7 +578,7 @@ The second rule above reduces the line-height of heading elements h1, h2, and h3
 
 ### Preferred Styles
 
-```css
+```
 small {
   font-size: 80%;
 }
@@ -626,7 +626,7 @@ button {
 
 The rules above are more so preferred styles that also do away with any browser inconsistencies. We’ll go through these quickly as they are relatively straightforward.
 
-```css
+```
 small { 
 	font-size: 80%;
 }
@@ -634,7 +634,7 @@ small {
 
 Sets font-size of any text inside the HTML \<small> tag to 80% of the regular size for that element. If it’s a \<p> tag with a regular size of 1rem or 16px, the \<small> size is 0.8rem, or 12.8px.
 
-```css
+```
 b, strong { 
 	font-weight: bolder; 
 }
@@ -642,7 +642,7 @@ b, strong {
 
 Old Microsoft Edge (before it was Chromium-based) and Safari render the b and strong tags differently from other browsers. This rule sets a standard boldness (font-weight) to display any text wrapped in those tags.
 
-```css
+```
 sub,
 sup {
   font-size: 75%;
@@ -660,7 +660,7 @@ sup {
 
 Prevent sub and sup elements from affecting the line height in all browsers.
 
-```css
+```
 a:not([class]) {
   text-decoration-skip-ink: auto;
 }
@@ -674,7 +674,7 @@ The first rule assigns default styles (text-decoration: underline;) to any \<a> 
 
 The critical thing to remember when using these rules and get the most out of them - to [keep your code DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don't%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.)) - is to *never* apply a class to an anchor tag you’d like to maintain default styling on.
 
-```css
+```
 input,
 button,
 textarea,
@@ -685,7 +685,7 @@ select {
 
 This rule tells the input, button, texture, and select elements to use, or *inherit* the same font as their parent element. By default, these will use a different text which, for me, is unwanted.
 
-```css
+```
 button {
   background: none;
   border: none;
@@ -697,7 +697,7 @@ The above removes the default background and border of buttons and ensures the c
 
 ## Part 4: Fixing Browser Inconsistencies
 
-```css
+```
 /*-----Browser Inconsistancy Fixes-----*/
 /* Correct the inability to style clickable types in iOS and Safari */
 button,
@@ -755,7 +755,7 @@ Read the comments in the code above to learn more about each rule.
 
 ## Part 5: Increasing Accessibility
 
-```css
+```
 /*-----Media Queries-----*/
 @media (prefers-reduced-motion: reduce) {
   html:focus-within {

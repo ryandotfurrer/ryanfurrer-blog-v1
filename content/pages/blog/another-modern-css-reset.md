@@ -64,7 +64,10 @@ In its simplest form, a CSS Reset is a stylesheet used to remove any unwanted de
 
 While browsers have pared down their default stylings and brought them more in line with one another, a CSS Reset can still offer you a handful of benefits. We’ll dig more into those as we move along in my CSS reset, but first, let us take a look at the reset in its entirety. This can seem a bit lengthy but stick with me.
 
+<hr>
+
 **NOTE**
+
 This CSS Reset is a conglomerate of cherry-picked properties for my use case from [Andy Bell's CSS Reset](https://piccalil.li/blog/a-modern-css-reset/), [Josh Commeau’s CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/), and some properties I found from [Kent C. Dodds' website](https://kentcdodds.com/).
 
 ## The Entire Reset

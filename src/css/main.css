@@ -610,7 +610,9 @@ nav > Link {
     }
 }
 
-div[data-sb-field-path="markdown_content"]
+div[data-sb-field-path="markdown_content"] > img {
+    width: 10%;
+}
 
 @media (prefers-reduced-motion: reduce) {
 

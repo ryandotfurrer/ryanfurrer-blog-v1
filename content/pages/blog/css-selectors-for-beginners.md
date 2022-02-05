@@ -57,31 +57,16 @@ layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
 # CSS Selectors for Beginners
+Below is a list of all the selectors we'll be going through in this post. You can click on any of the links in the list below to jump to the section of the blog on that specific selector.
 
-## What the hell is \*?
+## Table of Content
+* Universal Selector
+* Type Selector
+* Class Selector
+* ID Selector
 
-The **\*** is the universal selector in CSS. It can, and will, select every type of HTML element and apply whichever rules you wish to every element on the page.
+## Universal Selector
+
+The Universal Selector is represented by an asterisk, `*`. It can, and will, select every type of HTML element and apply whichever rules you wish to every element on the page.
 
 Its low specificity enables us to use it as a great base layer but also makes it easy enough to overwrite it should we need to. We'll expand more on specificity in a future post, but for now, just know that the lower the specificity the easier it is to overwrite that rule. Read more bout the Universal selector at the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors).
-
-## What is box-sizing and Why Do I Want It?
-
-Box Sizing
-
-```
-
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
-```
-
-The box-sizing property has to do strictly with the [CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model). It is how the browser calculates the size - the width and height - of an element.
-
-\`box-sizing: border-box;\` makes the browser calculate the height of width of an element *including* the content, padding, and border. This alleviates the need to do precise - albeit simple - calculations to make your layouts work. In my opinion, this should be the default for the browsers but I don’t make the rules.
-
-With this enabled, the height and width are calculated as *border + padding + height/width of the content*.
-
-Long story short, if you want the width of an element to be exactly 100px, it is much easier to do so with \`box-sizing: border-box\` than the default, \`content-box. Though we like to stay away from px around here and stick to [relative units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#relative_length_units).

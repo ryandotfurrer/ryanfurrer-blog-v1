@@ -58,7 +58,7 @@ author: content/data/team/person-p8afuy38p.json
 ---
 # CSS Selectors for Beginners
 
-## What the hell is \`\*\`?
+## What the hell is \*?
 
 The \`\*\` is the universal selector in CSS. It can, and will, select every type of HTML element and apply whichever rules you wish to every element on the page.
 
@@ -85,4 +85,3 @@ The box-sizing property has to do strictly with the [CSS Box Model](https://deve
 With this enabled, the height and width are calculated as *border + padding + height/width of the content*.
 
 Long story short, if you want the width of an element to be exactly 100px, it is much easier to do so with \`box-sizing: border-box\` than the default, \`content-box. Though we like to stay away from px around here and stick to [relative units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#relative_length_units).
-

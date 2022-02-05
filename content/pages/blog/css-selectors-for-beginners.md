@@ -60,7 +60,7 @@ author: content/data/team/person-p8afuy38p.json
 
 Below is a list of all the selectors we'll be going through in this post. You can click on any of the links in the list below to jump to the section of the blog on that specific selector.
 
-## Table of Content
+## Table of Contents
 
 *   Universal Selector
 *   Type Selector

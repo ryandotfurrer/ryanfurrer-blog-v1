@@ -62,7 +62,7 @@ author: content/data/team/person-p8afuy38p.json
 
 The **\*** is the universal selector in CSS. It can, and will, select every type of HTML element and apply whichever rules you wish to every element on the page.
 
-While it has low specificity - which could be a good thing - that makes it extremely powerful for the two rules below. The low specificity means that it is easy to override when we need to be more granular with our CSS and do not have to worry about it competing with others. Read more bout the Universal selector at the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors).
+Its low specificity enables us to use it as a great base layer but also makes it easy enough to overwrite it should we need to. We'll expand more on specificity in a future post, but for now, just know that the lower the specificity the easier it is to overwrite that rule. Read more bout the Universal selector at the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors).
 
 ## What is box-sizing and Why Do I Want It?
 

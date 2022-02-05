@@ -610,7 +610,7 @@ nav > Link {
     }
 }
 
-div[data-sb-field-path="markdown_content"] > img {
+div:has[data-sb-field-path="markdown_content"] > img {
     width: 10%;
 }
 

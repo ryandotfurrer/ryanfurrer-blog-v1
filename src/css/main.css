@@ -610,6 +610,8 @@ nav > Link {
     }
 }
 
+div[data-sb-field-path="markdown_content"]
+
 @media (prefers-reduced-motion: reduce) {
 
   html:focus-within {

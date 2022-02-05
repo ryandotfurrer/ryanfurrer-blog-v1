@@ -1,6 +1,6 @@
 ---
 title: CSS Selectors for Beginners
-date: '2022-02-07'
+date: '2022-02-21'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

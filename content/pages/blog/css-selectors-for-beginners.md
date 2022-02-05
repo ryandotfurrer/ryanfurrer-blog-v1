@@ -56,12 +56,33 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+# CSS Selectors for Beginners
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+## What the hell is \`\*\`?
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+The \`\*\` is the universal selector in CSS. It can, and will, select every type of HTML element and apply whichever rules you wish to every element on the page.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+While it has low specificity - which could be a good thing - that makes it extremely powerful for the two rules below. The low specificity means that it is easy to override when we need to be more granular with our CSS and do not have to worry about it competing with others. Read more bout the Universal selector at the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors).
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+## What is box-sizing and Why Do I Want It?
+
+Box Sizing
+
+```
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+```
+
+The box-sizing property has to do strictly with the [CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model). It is how the browser calculates the size - the width and height - of an element.
+
+\`box-sizing: border-box;\` makes the browser calculate the height of width of an element *including* the content, padding, and border. This alleviates the need to do precise - albeit simple - calculations to make your layouts work. In my opinion, this should be the default for the browsers but I don’t make the rules.
+
+With this enabled, the height and width are calculated as *border + padding + height/width of the content*.
+
+Long story short, if you want the width of an element to be exactly 100px, it is much easier to do so with \`box-sizing: border-box\` than the default, \`content-box. Though we like to stay away from px around here and stick to [relative units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#relative_length_units).
+

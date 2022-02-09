@@ -22,7 +22,7 @@ fields:
   - type: string
     name: titleSuffix
     label: Suffix for page titles
-    description: 'Suffix to append to the title tag of all pages, except in pages where the this behavior is disabled (e.g. typically the home page should have the site name as a prefix)'
+    description: 'The Ryan Furrer Blog'
     default: null
     group: seo
   - type: image

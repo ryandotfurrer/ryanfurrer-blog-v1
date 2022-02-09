@@ -21,7 +21,7 @@ fields:
     models: [Footer]
   - type: string
     name: The Ryan Furrer Blog
-    label: Suffix for page titles
+    label: The Ryan Furrer Blog
     description: 'Suffix to append to the title tag of all pages, except in pages where the this behavior is disabled (e.g. typically the home page should have the site name as a prefix)'
     default: null
     group: seo

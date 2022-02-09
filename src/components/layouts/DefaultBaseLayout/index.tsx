@@ -4,6 +4,7 @@ import classNames from 'classnames';
 
 import Header from '../../sections/Header';
 import Footer from '../../sections/Footer';
+import { seoGenerateTitle, seoGenerateMetaTags, seoGenerateMetaDescription } from '../../../utils/seo-utils';
 import NewsletterCTA from '../../sections/NewsletterCTA';
 
 export default function DefaultBaseLayout(props) {

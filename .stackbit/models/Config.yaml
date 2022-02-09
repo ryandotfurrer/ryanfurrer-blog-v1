@@ -2,7 +2,9 @@ type: data
 name: Config
 label: Site configuration
 singleInstance: true
-readOnly: true
+readOnly: truefieldGroups:
+  - name: seo
+    label: SEO
 fields:
   - type: image
     name: favicon

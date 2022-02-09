@@ -141,4 +141,5 @@ sections:
     type: NewsletterCTA
 metaTitle: The Ryan Furrer Blog
 metaDescription: Front-End Web Development Blogs For All
+addTitleSuffix: true
 ---

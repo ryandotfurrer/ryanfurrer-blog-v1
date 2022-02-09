@@ -170,4 +170,5 @@ bottomSections:
       actions:
         justifyContent: flex-start
     type: NewsletterCTA
+title: All Blog Posts
 ---

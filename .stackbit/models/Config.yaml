@@ -2,7 +2,8 @@ type: data
 name: Config
 label: Site configuration
 singleInstance: true
-readOnly: truefieldGroups:
+readOnly: true
+fieldGroups:
   - name: seo
     label: SEO
 fields:

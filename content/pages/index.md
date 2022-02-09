@@ -140,4 +140,5 @@ sections:
         justifyContent: flex-start
     type: NewsletterCTA
 metaTitle: The Ryan Furrer Blog
+metaDescription: Front-End Web Development Blogs For All
 ---

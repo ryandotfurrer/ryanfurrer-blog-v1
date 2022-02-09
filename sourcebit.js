@@ -43,6 +43,7 @@ module.exports = {
                 flattenAssetUrls: true,
                 commonProps: (objects) => {
                     const site = objects.find((page) => page.__metadata.id === 'content/data/config.json');
+                    site.env = setEnvironmentVariables();
                     return { site };
                 },
                 pages: (objects) => {

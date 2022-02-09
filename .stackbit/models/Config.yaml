@@ -19,3 +19,4 @@ fields:
     name: footer
     label: Footer configuration
     models: [Footer]
+    

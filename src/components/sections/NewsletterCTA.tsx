@@ -136,7 +136,6 @@ function ctaBody(props) {
                             {props.text}
                         </Markdown>
                         <p>Sign up on Substack to be notified whenever I sent out a new email - typically 2 to 4 a month.</p>
-                        <button>Sign up now</button>
 
                         
                     </div>

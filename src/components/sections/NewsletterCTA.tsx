@@ -136,8 +136,8 @@ function ctaBody(props) {
                             {props.text}
                         </Markdown>
 
-                        
-          <iframe src="https://ryanfurrer.substack.com/embed" width="100%" height="320" style="border-radius:.5rem;" frameborder="0" scrolling="no"></iframe>
+
+                        <iframe src="https://ryanfurrer.substack.com/embed" width="100%" height="320" style="border-radius:.5rem;" frameborder="0" scrolling="no"></iframe>
                     </div>
                 )
             }

@@ -38,7 +38,7 @@ topSections:
     actions:
       - type: Button
         label: Newsletter
-        url: 'https://www.getrevue.co/profile/theryanfurrer'
+        url: 'https://ryanfurrer.substack.com'
         style: primary
         altText: Subscribe to The Ryan Furrer Newsletter
     media:

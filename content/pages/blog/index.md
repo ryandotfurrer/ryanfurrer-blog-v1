@@ -134,7 +134,7 @@ bottomSections:
     actions:
       - type: Button
         label: Subscribe
-        url: 'https://www.getrevue.co/profile/theryanfurrer'
+        url: 'https://ryanfurrer.substack.com'
         style: primary
     backgroundImage:
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'

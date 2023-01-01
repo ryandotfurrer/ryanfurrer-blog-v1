@@ -49,7 +49,7 @@
             {
                 "label": "GitHub",
                 "altText": "View my GitHub profile",
-                "url": "https://github.com/TheRyanFurrer",
+                "url": "https://github.com/ryanfurrer",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -87,7 +87,7 @@
         "contacts": {
             "title": "Contact details"
         },
-        "copyrightText": "All rights reserved © [Ryan Furrer](https://furrer-2022.netlify.app/) 2022\n\n",
+        "copyrightText": "All rights reserved © [Ryan Furrer](https://theryanfurrer.dev/) 2023\n\n",
         "primaryLinks": [
             {
                 "type": "Link",
@@ -126,7 +126,7 @@
             {
                 "label": "GitHub",
                 "altText": "View my GitHub Profile",
-                "url": "https://github.com/TheRyanFurrer",
+                "url": "https://github.com/ryanfurrer",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -139,7 +139,7 @@
                 "type": "Social",
                 "altText": "View my GitHub profile",
                 "label": "GitHub",
-                "url": "https://github.com/TheRyanFurrer",
+                "url": "https://github.com/ryanfurrer",
                 "icon": "github",
                 "style": "link"
             },
@@ -155,7 +155,7 @@
                 "type": "Social",
                 "altText": "View my Twitter profile",
                 "label": "Twitter",
-                "url": "https://twitter.com/theryanfurrer",
+                "url": "https://twitter.com/ryan_furrer",
                 "icon": "twitter",
                 "style": "link"
             },

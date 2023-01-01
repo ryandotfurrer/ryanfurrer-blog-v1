@@ -33,12 +33,12 @@ topSections:
     subtitle: ''
     text: >
       Keep up to date with new posts via my
-      [newsletter](https://www.getrevue.co/profile/theryanfurrer) or
-      [Twitter](https://twitter.com/TheRyanFurrer).
+      [newsletter](https://ryanfurrer.substack.com) or
+      [Twitter](https://twitter.com/ryan_furrer).
     actions:
       - type: Button
         label: Newsletter
-        url: 'https://www.getrevue.co/profile/theryanfurrer'
+        url: 'https://ryanfurrer.substack.com'
         style: primary
         altText: Subscribe to The Ryan Furrer Newsletter
     media:
@@ -134,7 +134,7 @@ bottomSections:
     actions:
       - type: Button
         label: Subscribe
-        url: 'https://www.getrevue.co/profile/theryanfurrer'
+        url: 'https://ryanfurrer.substack.com'
         style: primary
     backgroundImage:
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'

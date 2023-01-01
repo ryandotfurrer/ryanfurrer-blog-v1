@@ -135,7 +135,7 @@ function ctaBody(props) {
                         >
                             {props.text}
                         </Markdown>
-                        <p>Sign up on Substack to be notified every tim </p>
+                        <p>Sign up on Substack to be notified  </p>
 
                         
                     </div>

@@ -135,7 +135,7 @@ function ctaBody(props) {
                         >
                             {props.text}
                         </Markdown>
-                        <p>Sign up on <a href="https://ryanfurrer.substack.com" rel="noopener noreferrer" style="">Substack</a> to be notified whenever I sent out a new email - typically 2 to 4 a month.</p>
+                        <p>Sign up on <a href="https://ryanfurrer.substack.com" rel="noopener noreferrer" style="underline">Substack</a> to be notified whenever I sent out a new email - typically 2 to 4 a month.</p>
 
                     </div>
                 )

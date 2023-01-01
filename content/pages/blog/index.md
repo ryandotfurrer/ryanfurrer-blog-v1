@@ -33,8 +33,8 @@ topSections:
     subtitle: ''
     text: >
       Keep up to date with new posts via my
-      [newsletter](https://www.getrevue.co/profile/theryanfurrer) or
-      [Twitter](https://twitter.com/TheRyanFurrer).
+      [newsletter](https://ryanfurrer.substack.com) or
+      [Twitter](https://twitter.com/ryan_furrer).
     actions:
       - type: Button
         label: Newsletter

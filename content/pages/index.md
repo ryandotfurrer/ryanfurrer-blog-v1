@@ -141,7 +141,7 @@ sections:
     type: NewsletterCTA
 metaTitle: The RF Blog
 metaDescription: Front-End Web Development Blogs For All
-addTitleSuffix: false
+addTitleSuffix: true
 socialImage: /images/blog-share-card-2x.png
 metaTags: []
 ---

@@ -139,7 +139,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: NewsletterCTA
-metaTitle: The Ryan Furrer Blog
+metaTitle: The RF Blog
 metaDescription: Front-End Web Development Blogs For All
 addTitleSuffix: false
 socialImage: /images/blog-share-card-2x.png

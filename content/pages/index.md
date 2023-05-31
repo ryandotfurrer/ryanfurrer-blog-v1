@@ -9,7 +9,7 @@ sections:
     subtitle: Front-End Web Development Blogs For All
     actions:
       - type: Button
-        label: View more blogs
+        label: View more posts
         url: /blog
         style: primary
         showIcon: false

@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-c
-    title: The Ryan Furrer Blog
+    title: RF Blog
     subtitle: Front-End Web Development Blogs For All
     actions:
       - type: Button

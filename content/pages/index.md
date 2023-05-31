@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-c
-    title: RF Blog
+    title: The RF Blog
     subtitle: Front-End Web Development Blogs For All
     actions:
       - type: Button

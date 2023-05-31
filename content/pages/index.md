@@ -13,7 +13,7 @@ sections:
         url: /blog
         style: primary
         showIcon: false
-        altText: View all Blogs
+        altText: View all posts
       - label: Newsletter
         altText: Learn more about my newsletter
         url: '/#newsletter-cta'

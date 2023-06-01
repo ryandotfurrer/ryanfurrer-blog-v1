@@ -5,15 +5,15 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-c
-    title: RF Blog
+    title: The RF Blog
     subtitle: Front-End Web Development Blogs For All
     actions:
       - type: Button
-        label: View more blogs
+        label: View more posts
         url: /blog
         style: primary
         showIcon: false
-        altText: View all Blogs
+        altText: View all posts
       - label: Newsletter
         altText: Learn more about my newsletter
         url: '/#newsletter-cta'

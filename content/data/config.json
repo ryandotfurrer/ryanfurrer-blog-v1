@@ -5,19 +5,19 @@
         "headerVariant": "variant-c",
         "primaryColors": "colors-c",
         "secondaryColors": "colors-f",
-        "title": "The Ryan Furrer Blog",
+        "title": "The RF Blog",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
                 "label": "Portfolio Home",
-                "url": "https://theryanfurrer.dev/",
+                "url": "https://ryanfurrer.com/",
                 "altText": "View my portfolio"
             },
             {
                 "label": "Projects",
                 "altText": "View my projects",
-                "url": "https://theryanfurrer.dev/#projects",
+                "url": "https://ryanfurrer.com/#projects",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -37,14 +37,14 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "https://theryanfurrer.dev/about.html",
+                "url": "https://ryanfurrer.com/about.html",
                 "altText": "Learn more about Ryan Furrer"
             },
             {
                 "type": "Link",
                 "label": "Contact",
                 "altText": "Contact Ryan Furrer",
-                "url": "https://theryanfurrer.dev/contact.html"
+                "url": "https://ryanfurrer.com/contact.html"
             },
             {
                 "label": "GitHub",
@@ -83,22 +83,22 @@
     },
     "footer": {
         "colors": "colors-c",
-        "title": "The Ryan Furrer Blog",
+        "title": "The RF Blog",
         "contacts": {
             "title": "Contact details"
         },
-        "copyrightText": "All rights reserved © [Ryan Furrer](https://theryanfurrer.dev/) 2023\n\n",
+        "copyrightText": "All rights reserved © [Ryan Furrer](https://ryanfurrer.com/) 2023\n\n",
         "primaryLinks": [
             {
                 "type": "Link",
                 "label": "Portfolio Home",
-                "url": "https://theryanfurrer.dev/",
+                "url": "https://ryanfurrer.com/",
                 "altText": "Visit my portfolio"
             },
             {
                 "type": "Link",
                 "label": "Projects",
-                "url": "https://theryanfurrer.dev/#projects",
+                "url": "https://ryanfurrer.com/#projects",
                 "altText": "View my projects"
             },
             {
@@ -114,13 +114,13 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "https://theryanfurrer.dev/about.html",
+                "url": "https://ryanfurrer.com/about.html",
                 "altText": "Learn more about Ryan Furrer"
             },
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "https://theryanfurrer.dev/contact.html",
+                "url": "https://ryanfurrer.com/contact.html",
                 "altText": "Contact Ryan Furrer"
             },
             {
@@ -147,7 +147,7 @@
                 "type": "Social",
                 "altText": "View my Linkedin profile",
                 "label": "Linkedin",
-                "url": "https://www.linkedin.com/in/theryanfurrer/",
+                "url": "https://www.linkedin.com/in/ryanfurrer/",
                 "icon": "linkedin",
                 "style": "link"
             },
@@ -162,7 +162,7 @@
             {
                 "label": "Instagram",
                 "altText": "View my Instagram",
-                "url": "https://www.instagram.com/theryanfurrer/",
+                "url": "https://www.instagram.com/ryan.m.furrer/",
                 "icon": "instagram",
                 "style": "link",
                 "elementId": ""

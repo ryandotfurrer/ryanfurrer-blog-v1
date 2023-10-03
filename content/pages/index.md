@@ -94,7 +94,7 @@ sections:
       - content/pages/blog/journey-to-my-new-career-an-introduction.md
     type: FeaturedPostsSection
   - type: CtaSection
-    elementId: ''
+    elementId: newsletter-cta-edit
     colors: colors-f
     backgroundSize: inset
     title: Like what you've read?

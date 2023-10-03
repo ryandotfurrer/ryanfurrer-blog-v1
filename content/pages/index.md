@@ -55,7 +55,7 @@ sections:
   - elementId: featured-posts
     showDate: true
     showAuthor: false
-    showExcerpt: false
+    showExcerpt: true
     variant: variant-a
     actions:
       - type: Button

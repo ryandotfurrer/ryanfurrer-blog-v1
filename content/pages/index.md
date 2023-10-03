@@ -95,7 +95,7 @@ sections:
     type: FeaturedPostsSection
   - type: CtaSection
     elementId: ''
-    colors: colors-d
+    colors: colors-f
     backgroundSize: full
     title: Let's do this
     text: >-

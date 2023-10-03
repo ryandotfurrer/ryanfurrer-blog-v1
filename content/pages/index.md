@@ -16,7 +16,7 @@ sections:
         altText: View all posts
       - label: Newsletter
         altText: Learn more about my newsletter
-        url: '/#newsletter-cta'
+        url: 'https://ryanfurrer.beehiiv.com/'
         showIcon: false
         iconPosition: right
         style: secondary

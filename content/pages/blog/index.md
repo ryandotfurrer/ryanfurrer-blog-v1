@@ -33,12 +33,12 @@ topSections:
     subtitle: ''
     text: >
       Keep up to date with new posts via my
-      [newsletter](https://ryanfurrer.substack.com) or
-      [Twitter](https://twitter.com/ryan_furrer).
+      [newsletter](https://ryanfurrer.beehiiv.com/) or
+      [Twitter](https://twitter.com/ryandotfurrer).
     actions:
       - type: Button
         label: Newsletter
-        url: 'https://ryanfurrer.substack.com'
+        url: 'https://ryanfurrer.beehiiv.com/'
         style: primary
         altText: Subscribe to The Ryan Furrer Newsletter
     media:

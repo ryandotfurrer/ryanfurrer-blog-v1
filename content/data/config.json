@@ -148,10 +148,10 @@
             },
             {
                 "type": "Social",
-                "altText": "Follow me on X, formerly Twitter ",
-                "label": "X, formerly Twitter",
+                "altText": "Follow me on Twitter ",
+                "label": "Twitter",
                 "url": "https://twitter.com/ryandotfurrer",
-                "icon": "X",
+                "icon": "Twitter",
                 "style": "link"
             }
         ],

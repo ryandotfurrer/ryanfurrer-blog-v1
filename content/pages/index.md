@@ -110,6 +110,7 @@ sections:
         label: Subscribe
         url: /
         style: primary
+        altText: Subscribe to The RF Newsletter
     backgroundImage: null
     styles:
       self:

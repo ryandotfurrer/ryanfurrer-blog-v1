@@ -1,17 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit&Noto+Sans+Display:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root { 
-    --text-primary: #f0fafa;
-    --text-secondary: #a5cac9;
-    --bg-primary: #1c3030;
-    --bg-secondary: #26403f;
-    --accent: #F4BB44;
-    --accent-dark: #F2AD18;
+:root {
+    --text-primary: #fafafa;
+    --text-secondary: #e4e4e7;
+    --bg-primary: #09090b;
+    --bg-secondary: #27272a;
+    --accent: #6ad09d;
+    --accent-dark: #43946c;
 }
 
 html:focus-within {
@@ -23,9 +22,9 @@ p {
 }
 
 img {
-  border-radius: .5rem;
-  filter: brightness(.8) saturate(1.25);
-  transition: filter .3s ease;
+    border-radius: 0.5rem;
+    filter: brightness(0.8) saturate(1.25);
+    transition: filter 0.3s ease;
 }
 
 img:hover {
@@ -64,7 +63,7 @@ img:hover {
     color: var(--text-primary);
 }
 
-time[data-sb-field-path = "date"] {
+time[data-sb-field-path='date'] {
     color: var(--text-secondary);
 }
 
@@ -93,7 +92,7 @@ body {
 
 .sb-post-layout > article {
     background-color: var(--bg-secondary);
-    border-radius: .5rem;
+    border-radius: 0.5rem;
     color: var(--text-primary);
     /* margin: 48px 16px 32px 16px; */
     margin: 0 auto;
@@ -103,15 +102,15 @@ body {
     padding: 36px;
 }
 
-.sb-post-layout > div[data-sb-field-path="bottomSections"] > div{
+.sb-post-layout > div[data-sb-field-path='bottomSections'] > div {
     background-color: var(--bg-primary);
 }
 
-.sb-post-layout > div[data-sb-field-path="bottomSections"] > div > div > div > div> article{
+.sb-post-layout > div[data-sb-field-path='bottomSections'] > div > div > div > div > article {
     background-color: var(--bg-secondary);
 }
 
-.sb-post-layout > div[data-sb-field-path="bottomSections"] > div > div > div > div> article > a > div > div > div > h3{
+.sb-post-layout > div[data-sb-field-path='bottomSections'] > div > div > div > div > article > a > div > div > div > h3 {
     color: var(--text-primary);
 }
 
@@ -130,15 +129,15 @@ pre {
 
 code {
     background-color: var(--bg-primary);
-    padding: .15rem;
+    padding: 0.15rem;
 }
 
 img {
     margin: 0 auto;
 }
 
-div[data-sb-field-path="postFeed"] > div > div > div:last-child { 
-    transform: scale(.75);
+div[data-sb-field-path='postFeed'] > div > div > div:last-child {
+    transform: scale(0.75);
 }
 
 #main article > div > div {
@@ -146,38 +145,38 @@ div[data-sb-field-path="postFeed"] > div > div > div:last-child {
 }
 
 #revue-embed form div input {
-  border-radius: 0.5rem;
-  border: none;
-  margin-top: 0.75rem;
-  margin-bottom: 1.5rem;
-  padding: 2rem;
-  font-size: inherit;
-  color: var(--bg-primary);
-  background-color: var(--text-secondary);
-  width: 100%;
+    border-radius: 0.5rem;
+    border: none;
+    margin-top: 0.75rem;
+    margin-bottom: 1.5rem;
+    padding: 2rem;
+    font-size: inherit;
+    color: var(--bg-primary);
+    background-color: var(--text-secondary);
+    width: 100%;
 }
 
 #revue-embed form div #member_submit {
-  background-color: var(--accent);
-  border-radius: 5em;
-  color: var(--bg-primary);
-  cursor: pointer;
-  -webkit-transition: background-color 0.3s ease;
-  transition: background-color 0.3s ease;
-  padding: 0;
-  padding: 0.75em 1.5em;
+    background-color: var(--accent);
+    border-radius: 5em;
+    color: var(--bg-primary);
+    cursor: pointer;
+    -webkit-transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease;
+    padding: 0;
+    padding: 0.75em 1.5em;
 }
 
 #revue-embed form div #member_submit:hover {
-  background-color: var(--accent-dark);
+    background-color: var(--accent-dark);
 }
 
 #revue-embed .revue-form-footer > p {
-  line-height: 1;
+    line-height: 1;
 }
 
 #revue-embed .revue-form-footer > p > small {
-  line-height: 1;
+    line-height: 1;
 }
 
 #revue-embed .revue-form-footer > p > small > a {
@@ -610,20 +609,23 @@ nav > Link {
     }
 }
 
+#newsletter-cta-edit {
+    @apply mt-[3rem] mb-[3em] rounded-lg !important;
+}
+
 @media (prefers-reduced-motion: reduce) {
+    html:focus-within {
+        scroll-behavior: auto;
+    }
 
-  html:focus-within {
-    scroll-behavior: auto;
-  }
-
-  *,
-  *::before,
-  *::after {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-    scroll-behavior: auto !important;
-  }
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
 }
 
 @media only screen and (max-width: 862px) {

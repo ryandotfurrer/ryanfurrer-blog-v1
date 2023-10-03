@@ -1,0 +1,56 @@
+{
+    "model": "CtaSection",
+    "srcType": "git",
+    "srcProjectId": "ryanfurrer/blog.ryanfurrer.com",
+    "presets": [
+        {
+            "label": "Edited Newsletter",
+            "locale": null,
+            "metadata": {
+                "categories": ["CTA"],
+                "canDelete": true
+            },
+            "data": {
+                "elementId": "newsletter-cta-edit",
+                "colors": "colors-f",
+                "backgroundSize": "inset",
+                "title": "Like what you've read?",
+                "text": "Subscribe to stay in the know when I publish new articles, find interesting things on the web, and more!\n\n[Subscribe](https://ryanfurrer.beehiiv.com/) to The RF Newsletter and be notified whenever I send out a new issue.\n",
+                "actions": [
+                    {
+                        "label": "Subscribe",
+                        "altText": "Subscribe to The RF Newsletter",
+                        "url": "https://ryanfurrer.beehiiv.com/",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "style": "primary",
+                        "elementId": null
+                    }
+                ],
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "narrow",
+                        "margin": ["mt-24", "mb-24", "ml-0", "mr-0"],
+                        "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "col"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            },
+            "thumbnail": "images/cta-section-edited-newsletter-b8cd.png"
+        }
+    ]
+}

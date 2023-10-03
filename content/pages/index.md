@@ -99,8 +99,12 @@ sections:
     backgroundSize: inset
     title: Like what you've read?
     text: >
-      Subscribe to stay in the know for when I publish new articles, find
+      Subscribe to stay in the know when I publish new articles, find
       interesting things on the web, and more!
+
+
+      [Subscribe](https://ryanfurrer.beehiiv.com/) to The RF Newsletter and be
+      notified whenever I send out a new issue.
     actions:
       - type: Button
         label: Try it now

@@ -107,7 +107,7 @@ sections:
       notified whenever I send out a new issue.
     actions:
       - type: Button
-        label: Try it now
+        label: Subscribe
         url: /
         style: primary
     backgroundImage: null

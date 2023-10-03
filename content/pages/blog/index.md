@@ -38,7 +38,7 @@ topSections:
     actions:
       - type: Button
         label: Newsletter
-        url: 'https://ryanfurrer.substack.com'
+        url: 'https://ryanfurrer.beehiiv.com/'
         style: primary
         altText: Subscribe to The Ryan Furrer Newsletter
     media:

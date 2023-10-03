@@ -7,52 +7,51 @@ featuredImage:
   altText: 'Weekly Summary: 7/11 - 7/17'
   caption: 'Weekly Summary: 7/11 - 7/17'
 bottomSections:
-  - elementId: ''
+  - type: CtaSection
+    elementId: ''
     colors: colors-f
     backgroundSize: inset
     title: Like what you've read?
-    text: >-
-      Subscribe to stay in the know for when I publish new articles, find
+    text: >
+      Subscribe to stay in the know when I publish new articles, find
       interesting things on the web, and more!
+
+
+      [Subscribe](https://ryanfurrer.beehiiv.com/) to The RF Newsletter and be
+      notified whenever I send out a new issue.
     actions:
-      - type: Button
-        label: Subscribe
-        url: 'https://www.getrevue.co/profile/theryanfurrer'
+      - label: Subscribe
+        altText: Subscribe to The RF Newsletter
+        url: 'https://ryanfurrer.beehiiv.com/'
+        showIcon: null
+        icon: null
+        iconPosition: null
         style: primary
-    backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
+        elementId: null
+    backgroundImage: null
     styles:
       self:
         height: auto
         width: narrow
         margin:
-          - mt-12
-          - mb-8
-          - ml-4
-          - mr-4
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
         padding:
-          - p-9
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: col
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
       title:
         textAlign: left
       text:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: NewsletterCTA
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---

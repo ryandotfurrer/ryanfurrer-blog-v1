@@ -108,7 +108,7 @@ sections:
     actions:
       - type: Button
         label: Subscribe
-        url: /
+        url: 'https://ryanfurrer.beehiiv.com/'
         style: primary
         altText: Subscribe to The RF Newsletter
     backgroundImage: null

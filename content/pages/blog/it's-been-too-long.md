@@ -53,6 +53,51 @@ bottomSections:
       actions:
         justifyContent: flex-start
     type: NewsletterCTA
+  - type: CtaSection
+    elementId: ''
+    colors: colors-f
+    backgroundSize: inset
+    title: Like what you've read?
+    text: >
+      Subscribe to stay in the know when I publish new articles, find
+      interesting things on the web, and more!
+
+
+      [Subscribe](https://ryanfurrer.beehiiv.com/) to The RF Newsletter and be
+      notified whenever I send out a new issue.
+    actions:
+      - label: Subscribe
+        altText: Subscribe to The RF Newsletter
+        url: 'https://ryanfurrer.beehiiv.com/'
+        showIcon: null
+        icon: null
+        iconPosition: null
+        style: primary
+        elementId: null
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 layout: PostLayout
 author: content/data/team/person-p8afuy38p.json
 ---

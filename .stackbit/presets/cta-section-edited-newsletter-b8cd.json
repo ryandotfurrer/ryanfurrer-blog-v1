@@ -7,9 +7,7 @@
             "label": "Edited Newsletter",
             "locale": null,
             "metadata": {
-                "categories": [
-                    "CTA"
-                ],
+                "categories": ["CTA"],
                 "canDelete": true
             },
             "data": {
@@ -35,21 +33,12 @@
                     "self": {
                         "height": "auto",
                         "width": "narrow",
-                        "margin": [
-                            "mt-0",
-                            "mb-0",
-                            "ml-0",
-                            "mr-0"
-                        ],
-                        "padding": [
-                            "pt-24",
-                            "pb-24",
-                            "pl-4",
-                            "pr-4"
-                        ],
+                        "margin": ["mt-[3rem]", "mb-[3rem]", "ml-0", "mr-0"],
+                        "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
                         "alignItems": "center",
                         "justifyContent": "center",
-                        "flexDirection": "col"
+                        "flexDirection": "col",
+                        "borderRadius": ".5rem"
                     },
                     "title": {
                         "textAlign": "left"

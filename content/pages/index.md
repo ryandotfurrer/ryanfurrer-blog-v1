@@ -54,7 +54,7 @@ sections:
         justifyContent: flex-start
   - elementId: featured-posts
     showDate: true
-    showAuthor: true
+    showAuthor: false
     showExcerpt: false
     variant: variant-a
     actions:

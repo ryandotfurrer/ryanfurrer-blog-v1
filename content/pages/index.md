@@ -17,7 +17,7 @@ sections:
       - label: Newsletter
         altText: Learn more about my newsletter
         url: 'https://ryanfurrer.beehiiv.com/'
-        showIcon: true
+        showIcon: false
         iconPosition: right
         style: secondary
         elementId: ''

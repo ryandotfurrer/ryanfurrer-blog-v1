@@ -61,12 +61,7 @@
         "styles": {
             "self": {
                 "width": "wide",
-                "padding": [
-                    "pt-9",
-                    "pb-0",
-                    "pr-4",
-                    "pl-4"
-                ]
+                "padding": ["pt-9", "pb-0", "pr-4", "pl-4"]
             }
         },
         "logo": {
@@ -153,31 +148,18 @@
             },
             {
                 "type": "Social",
-                "altText": "View my Twitter profile",
+                "altText": "Follow me on Twitter ",
                 "label": "Twitter",
-                "url": "https://twitter.com/ryan_furrer",
-                "icon": "twitter",
+                "url": "https://twitter.com/ryandotfurrer",
+                "icon": "Twitter",
                 "style": "link"
-            },
-            {
-                "label": "Instagram",
-                "altText": "View my Instagram",
-                "url": "https://www.instagram.com/ryan.m.furrer/",
-                "icon": "instagram",
-                "style": "link",
-                "elementId": ""
             }
         ],
         "legalLinks": [],
         "styles": {
             "self": {
                 "width": "wide",
-                "padding": [
-                    "pt-12",
-                    "pb-6",
-                    "pr-4",
-                    "pl-4"
-                ]
+                "padding": ["pt-12", "pb-6", "pr-4", "pl-4"]
             }
         },
         "logo": {

@@ -103,7 +103,7 @@ sections:
     actions:
       - type: Button
         label: Subscribe
-        url: 'https://ryanfurrer.substack.com/'
+        url: 'https://ryanfurrer.beehiiv.com/'
         style: primary
     backgroundImage:
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'

@@ -74,7 +74,7 @@
         "shadow": "none"
     },
     "link": {
-        "weight": "normal",
+        "weight": "bold",
         "case": "none",
         "letterSpacing": "normal"
     },

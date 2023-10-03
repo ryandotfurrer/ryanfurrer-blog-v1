@@ -27,7 +27,7 @@ styles:
     textAlign: center
 topSections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     title: Blogging about web development one article at a time.
     subtitle: ''

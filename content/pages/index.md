@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-c
+    colors: colors-f
     title: The RF Blog
     subtitle: Front-End Web Development Blogs For All
     actions:
